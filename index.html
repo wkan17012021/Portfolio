@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="/Portfolio/style.css" type="text/css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
+    integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&family=Play&family=Teko&display=swap"
+    rel="stylesheet" />
+  <link rel="icon" href="./images/favicon-tag.png" sizes="any" type="image/jpeg" />
+  <title>William's Portfolio</title>
+</head>
+
+<body class="bg-dark me-1 pe-2" id="body">
+  <!-- This section for the left sidebar nav-->
+  <div id="global" class="row gy-5">
+    <nav class="col-2">
+      <div class="sticky-top row flex-nowrap pe-2 mt-3">
+        <div class="col-auto col-md-2 col-xl-2 px-sm-2 px-0 bg-dark">
+          <div class="
+                d-flex
+                flex-column
+                align-items-center align-items-sm-start
+                px-3
+                pt-2
+                text-white
+                min-vh-100
+              ">
+            <a href="" class="
+                  d-flex
+                  align-items-center
+                  pb-3
+                  mb-md-0
+                  me-md-auto
+                  text-white text-decoration-none
+                ">
+              <span class="fs-5 d-none d-md-inline">Menu</span>
+            </a>
+            <ul class="
+                  nav nav-pills
+                  flex-column
+                  mb-sm-auto mb-0
+                  align-items-center align-items-sm-start
+                " id="menu">
+              <li class="nav-item">
+                <a href="#" class="nav-link align-middle px-0">
+                  <i class="fas fa-2x fa-address-card"></i><span class="ms-1 d-none d-md-inline-block">About Me</span>
+                </a>
+              </li>
+              <li>
+                <a href="#submenu1" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
+                  <i class="fas fa-2x fa-cubes"></i><span class="ms-1 d-none d-md-inline">Technical</span>
+                </a>
+                <ul class="collapse show nav flex-column ms-1" id="submenu1" data-bs-parent="#menu">
+                  <li class="w-100">
+                    <a href="#languages" class="nav-link px-3"><i class="fas fa-language text-white"></i><span
+                        class="ms-1 d-none d-md-inline-block">
+                        Languages</span></a>
+                  </li>
+                  <li>
+                    <a href="#" class="nav-link px-3"><i class="fas fa-book text-white"></i><span
+                        class="d-none d-md-inline"> Research</span></a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href="#submenu2" data-bs-toggle="collapse" class="nav-link ps-2 ms-1 align-middle">
+                  <i class="fas fa-2x fa-palette"></i><span class="ms-1 d-none d-md-inline">Project Portfolio</span></a>
+                <ul class="collapse nav flex-column ms-2" id="submenu2" data-bs-parent="#menu">
+                  <li class="w-100">
+                    <a href="#project_list" class="nav-link ps-3">
+                      <span class="d-sm-inline text-white">ABC Web Design</a>
+                  </li>
+                  <li>
+                    <a href="#Road_Less_Travelled" class="nav-link ps-3">
+                      <span class="d-sm-inline text-white">The Road Less Travelled</a>
+                  </li>
+                  <li>
+                    <a href="#" class="nav-link ps-3">
+                      <span class="d-sm-inline text-white">Rock, Paper, Scissors</a>
+                  </li>
+                  <li>
+                    <a href="#" class="nav-link ps-3">
+                      <span class="d-sm-inline text-white">Mini Notes App</a>
+                  </li>
+                  <li>
+                    <a href="#" class="nav-link ps-3">
+                      <span class="d-sm-inline text-white">Database Proj</a>
+                  </li>
+                  <li>
+                    <a href="#" class="nav-link ps-3">
+                      <span class="d-sm-inline text-white">Python-3 Film Database Menu</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href="#submenu3" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
+                  <i class="far fa-2x fa-comments"></i>
+                  <span class="ms-1 d-none d-md-inline">Contact</span>
+                </a>
+                <ul class="collapse nav flex-column ms-1" id="submenu3" data-bs-parent="#menu">
+                  <li class="w-100">
+                    <a href="#" class="nav-link px-3"><i class="far fa-file text-white"></i>
+                      <span class="d-none d-sm-inline text-white">CV</a>
+                  </li>
+                  <li>
+                    <a href="#" class="nav-link px-3"><i class="fab fa-github-square text-white"></i>
+                      <span class="d-none d-sm-inline"></span></a>
+                  </li>
+                  <li>
+                    <a href="#" class="nav-link px-3"><i class="fab fa-linkedin text-white"></i>
+                      <span class="d-none d-sm-inline"></span></a>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+            <hr />
+          </div>
+        </div>
+      </div>
+    </nav>
+    <!-- This main div section for the central content-->
+    <main class="col-10 container">
+      <!-- welome text-->
+      <div id="hero_banner" class="col-12 mt-3 justify-content-center">
+        <img class="img-fluid" src="../Portfolio/images/simon-abrams-k_T9Zj3SE8k-unsplash.jpg"
+          alt="person facing monitor with sunset / sunrise" />
+        <h1 id="welcome_text" class="fs-1 text-start">
+          Hi there, my name is William and welcome to my portfolio!
+        </h1>
+        <h1 id="typewriter" class="fs-1 text-center">
+          This is my coding journey...
+        </h1>
+      </div>
+      <div id="bio" class="row pt-2 mt-2">
+        <h2 class="row fs-1 ms-1">Bio</h2>
+        <div class="row">
+          <div class="col-md-6 col-sm-12">
+            <h3 class="fs-5 ">
+              <em>I am an enthusiastic, flexible front-end developer seeking
+                entry-level opportunities in software and web design within
+                London and the South-East.</em>
+              <hr />
+              Over the past 8 years, I have worked for design consultancies
+              and a main contractor on ground engineering projects in Hong
+              Kong and UK. Recently, I have transitioned from the construction
+              industry looking to break into the tech sector.
+              <br />
+              <br />Since December 2021, I completed a 12-week software
+              development training course discussing the development life
+              cycle, gaining proficiency in HTML5, CSS3, JavaScript ES6,
+              Python3, SQL and mySQL Workbench, NoSQL and MongoDB.
+              <br />
+              <br />Please take a look at some of the projects that have been
+              developed using these technologies!
+              <hr />
+            </h3>
+          </div>
+          <div class="col-md-6 col-sm-12">
+            <img id="profile_img" class="m-2 mx-auto d-block" src="../Portfolio/images/_DSC0576 cropped.jpg" />
+          </div>
+        </div>
+        <!-- need a small div here next to right of photo saying hobbies and interests: sport, programming, travel etc. -->
+        <!--Flip cards: icons from - https://icons8.com/-->
+        <div class="Tech_Title col-sm-12">
+          <h2 id="languages" class="fs-2">Tech Stack</h2>
+        </div>
+        <div class="flip_card_grid col-sm-12 justify-content-evenly mt-3 mb-3">
+          <div class="card p-1">
+            <div class="card-body">
+              <img class="card-front img-fluid" alt="html5_logo"
+                src="https://img.icons8.com/color/500/000000/html-5--v1.png" />
+              <p class="card-back text-dark bg-light text-center">
+                HTML5 is the first language that I learned which sparked my
+                interest in programming and coding. Being a consumer of
+                software and the Internet for most of my life, I was amazed by
+                how straightforward it was to instantly observe (or not
+                observe!) the output and the vast array of content you can add
+                to the page layout. It was very much an "Alice Through the
+                Looking Glass" moment! HTML5 is an effective language for
+                learning programming by doing. With it, i was able to
+                appreciate how modern websites are organised in terms of their
+                content and factored in semantic elements to improve search
+                engine optimisation.
+              </p>
+            </div>
+          </div>
+          <div class="card p-1">
+            <div class="card-body">
+              <img class="card-front img-fluid" src="https://img.icons8.com/color/500/000000/css3.png"
+                alt="css3_logo" />
+              <p class="card-back text-dark bg-light text-center">
+                CSS is where you can really show off your artistic flair. I
+                got to grips with the syntax, about appropriate use of
+                selectors and inheritance, when to use flexbox or grid
+                stucture layouts and finally adding my animations and styling
+                for that personal touch. The projects which included CSS were
+                minimalistic in design, simple but effective colour themes,
+                with the aim to make the content more accessible. It was
+                necessary to use styling to entice readers and not to detract
+                from web products and services. I also gained an appreciation
+                of responsive web design and utilised a Bootstrap Framework to
+                expediate front-end web design output. CSS is an important
+                asset for any front-end developer seeking to provide a premium
+                user experience.
+              </p>
+            </div>
+          </div>
+          <div class="card p-1">
+            <div class="card-body">
+              <img class="card-front img-fluid" alt="javascript_logo"
+                src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/500/000000/external-javascript-is-a-high-level-interpreted-programming-language-logo-shadow-tal-revivo.png" />
+              <p class="card-back text-dark bg-light text-center">
+                With a foundation of the web content structure, layout and
+                styling appearance, I applied JavaScript fundamental concepts
+                to add interactivity to the webpage. I learned about the
+                Document Object Model and how to access particular html
+                elements using selector queries. Managing and manipulating
+                data required understanding data types and which data
+                structures were best suited for the task. With the information
+                stored, the data values could be rearranged using in-built
+                methods, or constructing functions myself. Comparison and
+                logical operations were performed to render a desired output
+                or response.
+              </p>
+            </div>
+          </div>
+          <div class="card p-1">
+            <div class="card-body">
+              <img class="card-front img-fluid" alt="mysql_logo"
+                src="https://img.icons8.com/color/500/000000/mysql-logo.png" />
+              <p class="card-back text-dark bg-light text-center">
+                Learning about running queries to display and filter relevant
+                records. Learning about relational databases and how to create
+                links between one-to-many tables to access specific fields.
+                Interesting to see how the database system can efficiently
+                sift through large datasets to return the specific field
+                entries. Built a fictitious database, creating relations
+                between the tables and ran queries to output the desired
+                results. During the course, we practiced how to update and
+                delete records using the graphical user interface and command
+                line within mySQL WorkBench. Developing database management
+                skills has proven to me its value when managing client and
+                user input data from the user interface.
+              </p>
+            </div>
+          </div>
+          <div class="card p-1">
+            <div class="card-body">
+              <img class="card-front img-fluid" alt="mongodb_logo"
+                src="https://img.icons8.com/color/500/000000/mongodb.png" />
+              <p class="card-back text-dark bg-light text-center">
+                Learning about NoSQL- differences between mySQL and
+                applciations.
+              </p>
+            </div>
+          </div>
+          <div class="card p-1">
+            <div class="card-body">
+              <img class="card-front img-fluid"
+                src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/500/000000/external-python-an-interpreted-high-level-general-purpose-programming-language-logo-shadow-tal-revivo.png"
+                alt="python_logo" />
+              <p class="card-back text-dark bg-light text-center">
+                Use of python helped to consolidate programming concepts of
+                data types, primitive and complex data structures,
+                manipulation using built-in methods and imported modules. It
+                was evident how versatile the language is, what was learned
+                was a taster to the many applications that Python can provide.
+                Moreover, the syntax is concise and support community is
+                active.
+              </p>
+            </div>
+          </div>
+        </div>
+        <!-- New tech-->
+        <div id="new_skills" class="col-sm-12">
+          <h3 class="fs-3">What I'm learning now</h3>
+          <ul id="new_stack">
+            <li>Bootstrap and Materialize: CSS responsive frameworks. <br><em>Why?</em> To improve efficiency of
+              delivering clean, responsive user interfaces which also engage and interact with the reader.
+            </li>
+            <li>React: JavaScript Library for developing UI.<br><em>Why?</em> To develop further my JavaScript
+              skills,learn about utilising application programming interfaces and take advantage of innovative tools to
+              provide enhanced user experience.</li>
+          </ul>
+        </div>
+        <div id="projects" class="col-sm-12">
+          <h3 class="fs-3">Project Portfolio</h3>
+          <ul id="project_list">
+            <li>
+              ABC Web Designers Website
+              <br /><em>What was the objective?</em> <br />Working in groups
+              of three or four, implement HTML and CSS skills to produce a
+              fictitious static front-end landing page, contact details and
+              services page. <br /><em>What skills were learned?</em>
+              <br />Management: project planning using sketches and frames,
+              time management and resource delegation. The project culminated
+              in presentation of the group's website to the entire cohort for
+              feedback.
+            </li>
+            <li id="Road_Less_Travelled">
+              The Road Less Travelled: personal static Front-End Website
+              <br /><em>What was the Inspiration?</em> <br />Combining my
+              interest in travel and experience from a former career, this is
+              a geologically themed travel website showcasing some
+              destinations that I have been fortunate enough to visit. The
+              pages were created using HTML and CSS as I wanted to learn
+              in-depth about class selection, inheritance and structuring
+              layout for different screen sizes as well adding the personal
+              aesthetic touches.
+            </li>
+            <li>
+              Rock, Paper, Scissors Mini-Game
+              <br /><em>What was the objective?</em> <br />An independent
+              project presenting the student's knowledge of fundamental
+              concepts in JavaScript. <br /><em>What skills were learned?</em>
+              <br />Implement JavaScript arithmetic and comparison operators,
+              conditional statements and functions. Carry out step-by-step
+              code and testing. Present the game with an attractive,
+              responsive user interface (styling and animations).
+            </li>
+            <li>
+              Mini Notes App
+              <br /><em>What was the objective?</em> <br />Partially
+              independent and group-based project requiring students to expand
+              on knowledge of manipulating the Document Object Model,
+              JavaScript Object Notation and browser local storage concepts.
+              <br /><em>What skills were learned?</em> <br />Basic bootstrap
+              impementation, conversion between JS and JSON, object data
+              structures, for loops, use of functions to create and delete
+              notes, show or hide notes, search bar functionality.
+            </li>
+            <li>Database Project:</li>
+            <li>Python-3 quiz? machine learning?</li>
+          </ul>
+        </div>
+        <h3 class="fs-3">Contact</h3>
+        <div class="row">
+          <div id="contact" class="col-sm-4 mb-2">
+            <i id="cv_icon" class="fas fa-3x fa-file-download me-3"></i><a>Link to download CV</a>
+          </div>
+          <div class="col-sm-4 mb-2">
+            <i id="github_icon" class="fab fa-3x fa-github me-2"></i><a href="https://github.com/wkan17012021"
+              target="blank">Link to Github profile</a>
+          </div>
+          <div class="col-sm-4 mb-3">
+            <i id="linkedIn_icon" class="fab fa-3x fa-linkedin me-2"></i><a href="https://linkedin.com/in/william-kan"
+              target="blank">Click to view LinkedIn profile</a>
+          </div>
+        </div>
+        <article class="fs-4 m-3 p-4">Here are some resources that helped with my coding journey. Maybe these
+          suggestions will
+          benefit you:</article>
+        <!--Resource Carousel-->
+        <div id="resourceCarousel" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-indicators mb-1">
+            <button type="button" data-bs-target="#resourceCarousel" data-bs-slide-to="0" class="active"
+              aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#resourceCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#resourceCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            <button type="button" data-bs-target="#resourceCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+            <button type="button" data-bs-target="#resourceCarousel" data-bs-slide-to="4" aria-label="Slide 0"></button>
+          </div>
+          <div class="carousel-inner mb-5 mt-4 ">
+            <div class="carousel-item active px-5">
+              <h5 class="w-80 mx-5 text-secondary text-center px-4"><a href="https://www.geeksforgeeks.org/"
+                  target="blank">GeeksforGeeks</a> is
+                a computer science community that provides worked examples, theory and interview questions on various
+                computer language fundamental concepts. GeeksforGeeks also run courses for students or if you prefer,
+                self-paced remote classes. I signed up with G4G and the material helped me with brushing up on JS
+                concepts.</h5>
+            </div>
+            <div class="carousel-item px-1 mx-5">
+              <h5 class="w-80 mx-5 px-5 text-secondary text-center mx-5 px-5"><a href="https://netninja.dev/"
+                  target="blank">The Net Ninja</a> for me is an
+                excellent source for learning computer languages. Shaun delivers the content in bite-size, manageable
+                chunks and strives to keep the lessons up to date and relevant. It's great for learning when you are
+                short of time or looking for a mini-project to apply the skills being learned. You can access most of
+                the videos on <a href="https://www.youtube.com/c/TheNetNinja" target="blank">Youtube</a> but I am sure
+                that the Net
+                Ninja would be grateful for a subscription to one of his courses!</h5>
+            </div>
+            <div class="carousel-item px-5">
+              <h5 class="w-80 text-secondary text-center mx-3 px-5">If you are looking to generate some dummy data for
+                database
+                manipulation, then I would recommend using <a href="https://www.mockaroo.com/"
+                  target="blank">Mockaroo</a>. It is easy
+                to follow , has a decent range of data types and allows for logic controlled value generation (using
+                Ruby syntax). At the time of writing, the resource was free to use and can output in CSV, JSON, Excel
+                and SQL format to name a few.</h5>
+            </div>
+            <div class="carousel-item px-5">
+              <h5 class="w-80 text-secondary text-center px-5">Struggling for first time projects or ideas to showcase
+                your new
+                tech skills? Look no further, Colby's <a
+                  href="https://www.colbyfayock.com/posts/50-projects-for-react-the-static-web" target="blank">50
+                  projects For React &
+                  the Static Web</a> e-book is packed full of ideas to get you started on your portfolio. It has
+                different levels of complexity depending on what you are comfortable with and a lot of helpful
+                illustrations for planning and structuring content.</h5>
+            </div>
+            <div class="carousel-item px-5">
+              <h5 class="w-80 text-secondary text-center mx-5 px-5">There are many computer programming quiz/challenges
+                out there.
+                Here's one with a christmas theme: <a href="https://adventofcode.com/" target="blank">Advent of Code</a>
+                is an annual
+                competition in December that releases two puzzles per day in the run up to Christmas. These puzzles
+                really test your coding skills, don't get discouraged by the complexity- they are challenging after all
+                (your googling skills will improve no doubt!)<br>Advent of Code can be completed with any programming
+                language and you may find the puzzles do help to solve practical data manipulation problems.</h5>
+            </div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#resourceCarousel" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#resourceCarousel" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script src="../Portfolio/js/index.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+    crossorigin="anonymous"></script>
+  <!-- <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script> -->
+</body>
+
+</html>
