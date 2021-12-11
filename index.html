@@ -5,7 +5,7 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link href="/Portfolio/style.css" type="text/css" rel="stylesheet" />
+  <link href="./style.css" type="text/css" rel="stylesheet" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
     integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA=="
     crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -131,7 +131,7 @@
     <main class="col-10 container">
       <!-- welome text-->
       <div id="hero_banner" class="col-12 mt-3 justify-content-center">
-        <img class="img-fluid" src="../Portfolio/images/simon-abrams-k_T9Zj3SE8k-unsplash.jpg"
+        <img class="img-fluid" src="/images/simon-abrams-k_T9Zj3SE8k-unsplash.jpg"
           alt="person facing monitor with sunset / sunrise" />
         <h1 id="welcome_text" class="fs-1 text-start">
           Hi there, my name is William and welcome to my portfolio!
@@ -140,7 +140,7 @@
           This is my coding journey...
         </h1>
       </div>
-      <div id="bio" class="row pt-2 mt-2">
+      < id="bio" class="row pt-2 mt-2">
         <h2 class="row fs-1 ms-1">Bio</h2>
         <div class="row">
           <div class="col-md-6 col-sm-12">
@@ -165,7 +165,7 @@
             </h3>
           </div>
           <div class="col-md-6 col-sm-12">
-            <img id="profile_img" class="m-2 mx-auto d-block" src="../Portfolio/images/_DSC0576 cropped.jpg" />
+            <img id="profile_img" class="m-2 mx-auto d-block" src="/images/_DSC0576 cropped.jpg" />
           </div>
         </div>
         <!-- need a small div here next to right of photo saying hobbies and interests: sport, programming, travel etc. -->
@@ -217,7 +217,7 @@
           <div class="card p-1">
             <div class="card-body">
               <img class="card-front img-fluid" alt="javascript_logo"
-                src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/500/000000/external-javascript-is-a-high-level-interpreted-programming-language-logo-shadow-tal-revivo.png" />
+                src="https://img.icons8.com/color/500/000000/javascript--v1.png" />
               <p class="card-back text-dark bg-light text-center">
                 With a foundation of the web content structure, layout and
                 styling appearance, I applied JavaScript fundamental concepts
@@ -229,7 +229,7 @@
                 stored, the data values could be rearranged using in-built
                 methods, or constructing functions myself. Comparison and
                 logical operations were performed to render a desired output
-                or response.
+                or response. 
               </p>
             </div>
           </div>
@@ -266,7 +266,7 @@
           <div class="card p-1">
             <div class="card-body">
               <img class="card-front img-fluid"
-                src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/500/000000/external-python-an-interpreted-high-level-general-purpose-programming-language-logo-shadow-tal-revivo.png"
+                src="https://img.icons8.com/fluency/500/000000/python.png"
                 alt="python_logo" />
               <p class="card-back text-dark bg-light text-center">
                 Use of python helped to consolidate programming concepts of
@@ -281,8 +281,10 @@
           </div>
         </div>
         <!-- New tech-->
-        <div id="new_skills" class="col-sm-12">
+        <div id="new_skills" class="col-sm-12 my-4">
           <h3 class="fs-3">What I'm learning now</h3>
+        </div>
+        <div class="col-sm-12">
           <ul id="new_stack">
             <li>Bootstrap and Materialize: CSS responsive frameworks. <br><em>Why?</em> To improve efficiency of
               delivering clean, responsive user interfaces which also engage and interact with the reader.
@@ -292,9 +294,99 @@
               provide enhanced user experience.</li>
           </ul>
         </div>
-        <div id="projects" class="col-sm-12">
+        <!-- This section for embedded iframes showcasing projects -->
+        <div id="projects" class="col-sm-12 my-4">
           <h3 class="fs-3">Project Portfolio</h3>
-          <ul id="project_list">
+        </div>
+        <div id="ABC_div_row" class="row py-3">
+          <div class="col-sm-12 col-md-6">
+            <div class="ratio ratio-4x3">
+              <iframe
+            src="https://replit.com/@wkan17012021/Cohort3Music?embed=true"
+            title="ABC_static_website">
+              </iframe>
+            </div>
+          </div>
+            <div class="col-sm-12 col-md-6">
+              <p id="ABC_proj_brief" class="d-flex flex-column align-items-center align-middle text-center">
+                <br /><em>What was the objective?</em> <br />Working in groups
+              of three or four, implement HTML and CSS skills to produce a
+              fictitious static front-end landing page, contact details and
+              services page. <br /><em>What skills were learned?</em>
+              <br />Management: project planning using sketches and frames,
+              time management and resource delegation. The project culminated
+              in presentation of the group's website to the entire cohort for
+              feedback. <hr>
+              </p>
+            </div>
+        </div>
+        <div id="RLT_div_row" class="row py-3">
+            <div class="col-sm-12 col-md-6">
+              <p id="RLT_proj_brief" class="d-flex flex-column align-items-center align-middle text-center">
+                The Road Less Travelled: personal static Front-End Website
+                <br /><em>What was the Inspiration?</em> <br />Combining my
+                interest in travel and experience from a former career, this is
+                a geologically themed travel website showcasing some
+                destinations that I have been fortunate enough to visit. The
+                pages were created using HTML and CSS as I wanted to learn
+                in-depth about class selection, inheritance and structuring
+                layout for different screen sizes as well adding the personal
+                aesthetic touches.<hr>
+              </p>
+            </div>
+            <div class="col-sm-12 col-md-6">
+              <div class="ratio ratio-4x3">
+                <iframe
+              src=""
+              title="">
+                </iframe>
+              </div>
+            </div>
+        </div>
+        <div id="RPS_div_row" class="row py-3">
+          <div class="col-sm-12 col-md-6">
+            <div class="ratio ratio-4x3">
+              <iframe
+            src=""
+            title="">
+              </iframe>
+            </div>
+          </div>
+            <div class="col-sm-12 col-md-6">
+              <p id="RPS_proj_brief" class="d-flex flex-column align-items-center align-middle text-center">
+                Rock, Paper, Scissors Mini-Game
+                <br /><em>What was the objective?</em> <br />An independent
+                project presenting the student's knowledge of fundamental
+                concepts in JavaScript. <br /><em>What skills were learned?</em>
+                <br />Implement JavaScript arithmetic and comparison operators,
+                conditional statements and functions. Carry out step-by-step
+                code and testing. Present the game with an attractive,
+                responsive user interface.<hr>
+            </div>
+        </div>
+        <div id="Notes_App_div_row" class="row py-3">
+            <div class="col-sm-12 col-md-6">
+              <p id="Notes_App_proj_brief" class="d-flex flex-column align-items-center align-middle text-center">
+                Mini Notes App
+                <br /><em>What was the objective?</em> <br />Partially
+                independent and group-based project requiring students to expand
+                on knowledge of manipulating the Document Object Model,
+                JavaScript Object Notation and browser local storage concepts.
+                <br /><em>What skills were learned?</em> <br />Basic bootstrap
+                impementation, conversion between JS and JSON, object data
+                structures, for loops, use of functions to create and delete
+                notes, show or hide notes, search bar functionality.<hr>
+            </div>
+            <div class="col-sm-12 col-md-6">
+              <div class="ratio ratio-4x3">
+                <iframe
+              src=""
+              title="">
+                </iframe>
+              </div>
+            </div>
+        </div>
+          <!-- <ul id="project_list">
             <li>
               ABC Web Designers Website
               <br /><em>What was the objective?</em> <br />Working in groups
@@ -340,19 +432,20 @@
             </li>
             <li>Database Project:</li>
             <li>Python-3 quiz? machine learning?</li>
-          </ul>
-        </div>
-        <h3 class="fs-3">Contact</h3>
+          </ul> -->
+          <div id="contact" class="col-sm-12 my-4">
+            <h3 class="fs-3">Contact</h3>
+          </div>
         <div class="row">
           <div id="contact" class="col-sm-4 mb-2">
-            <i id="cv_icon" class="fas fa-3x fa-file-download me-3"></i><a>Link to download CV</a>
+            <i id="cv_icon" class="fas fa-3x fa-file-download me-3"></i><a class="text-decoration-none">Link to download CV</a>
           </div>
           <div class="col-sm-4 mb-2">
-            <i id="github_icon" class="fab fa-3x fa-github me-2"></i><a href="https://github.com/wkan17012021"
+            <i id="github_icon" class="fab fa-3x fa-github me-2"></i><a class="text-decoration-none" href="https://github.com/wkan17012021"
               target="blank">Link to Github profile</a>
           </div>
           <div class="col-sm-4 mb-3">
-            <i id="linkedIn_icon" class="fab fa-3x fa-linkedin me-2"></i><a href="https://linkedin.com/in/william-kan"
+            <i id="linkedIn_icon" class="fab fa-3x fa-linkedin me-2"></i><a class="text-decoration-none" href="https://linkedin.com/in/william-kan"
               target="blank">Click to view LinkedIn profile</a>
           </div>
         </div>
@@ -362,12 +455,12 @@
         <!--Resource Carousel-->
         <div id="resourceCarousel" class="carousel slide" data-bs-ride="carousel">
           <div class="carousel-indicators mb-1">
-            <button type="button" data-bs-target="#resourceCarousel" data-bs-slide-to="0" class="active"
+            <button type="button" data-bs-target="#resourceCarousel" data-bs-slide-to="0" class="active py-1"
               aria-current="true" aria-label="Slide 1"></button>
-            <button type="button" data-bs-target="#resourceCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
-            <button type="button" data-bs-target="#resourceCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
-            <button type="button" data-bs-target="#resourceCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
-            <button type="button" data-bs-target="#resourceCarousel" data-bs-slide-to="4" aria-label="Slide 0"></button>
+            <button type="button" data-bs-target="#resourceCarousel" data-bs-slide-to="1" aria-label="Slide 2" class="py-1"></button>
+            <button type="button" data-bs-target="#resourceCarousel" data-bs-slide-to="2" aria-label="Slide 3" class="py-1"></button>
+            <button type="button" data-bs-target="#resourceCarousel" data-bs-slide-to="3" aria-label="Slide 4" class="py-1"></button>
+            <button type="button" data-bs-target="#resourceCarousel" data-bs-slide-to="4" aria-label="Slide 0" class="py-1"></button>
           </div>
           <div class="carousel-inner mb-5 mt-4 ">
             <div class="carousel-item active px-5">
@@ -431,7 +524,7 @@
     </main>
   </div>
 
-  <script src="../Portfolio/js/index.js"></script>
+  <!-- <script src="../Portfolio/js/index.js"></script> -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
     crossorigin="anonymous"></script>
