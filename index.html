@@ -20,10 +20,10 @@
 </head>
 
 <body class="bg-dark me-1 pe-2" id="body">
-  <div id="global" class="row gy-5">
+  <div id="global" class="row gy-3">
     <!-- This section for the left sidebar nav-->
     <nav class="col-2">
-      <div class="sticky-top row flex-nowrap pe-2 mt-3">
+      <div class="sticky-top row flex-nowrap mt-3">
         <div class="col-auto col-md-2 col-xl-2 px-sm-2 px-0 bg-dark">
           <div class="
                 d-flex
@@ -39,7 +39,7 @@
                   align-items-center
                   pb-3
                   mb-md-0
-                  me-md-auto
+                  d-sm-inline text-white
                   text-white text-decoration-none
                 ">
               <span class="fs-5 d-none d-md-inline">Menu</span>
@@ -72,32 +72,24 @@
                 </ul>
               </li>
               <li>
-                <a href="#submenu2" data-bs-toggle="collapse" class="nav-link pe-sm-3  align-middle">
+                <a href="#submenu2" data-bs-toggle="collapse" class="nav-link">
                   <i class="fas fa-2x fa-palette "></i><span class=" d-none d-md-inline">Project Portfolio</span></a>
-                <ul class="collapse nav flex-column ms-1" id="submenu2" data-bs-parent="#menu">
+                <ul class="collapse nav flex-column" id="submenu2" data-bs-parent="#menu">
                   <li class="w-100">
-                    <a href="#RLT_div_row" class="nav-link ps-3">
-                      <span class="d-sm-inline text-white">The Road Less Travelled</a>
+                    <a href="#RLT_div_row" class="nav-link">
+                      <span class="RLT d-sm-inline text-white">The Road Less Travelled</a>
                   </li>
                   <li>
-                    <a href="#RPS_div_row" class="nav-link ps-3">
-                      <span class="d-sm-inline text-white">Rock, Paper, Scissors</a>
+                    <a href="#RPS_div_row" class="nav-link">
+                      <span class="RPS d-sm-inline text-white">Rock, Paper, Scissors</a>
                   </li>
                   <li>
-                    <a href="#Notes_App_div_row" class="nav-link ps-3">
-                      <span class="d-sm-inline text-white">Mini Notes App</a>
+                    <a href="#Notes_App_div_row" class="nav-link">
+                      <span class="Notes d-sm-inline text-white">Mini Notes App</a>
                   </li>
                   <li>
-                    <a href="#Database_div_row" class="nav-link ps-3">
-                      <span class="d-sm-inline text-white">Bootcamp DB Queries</a>
-                  </li>
-                  <li>
-                    <a href="#Python_menu_div_row" class="nav-link ps-3">
-                      <span class="d-sm-inline text-white">Python FilmFlix DB menu</a>
-                  </li>
-                  <li>
-                    <a href="#" class="nav-link ps-3">
-                      <span class="d-sm-inline text-white"></a>
+                    <a href="#Python_menu_div_row" class="nav-link">
+                      <span class="Menu d-sm-inline text-white">Python FilmFlix DB menu</a>
                   </li>
                 </ul>
               </li>
@@ -107,9 +99,9 @@
                   <span class="ms-1 d-none d-md-inline">Contact</span>
                 </a>
                 <ul class="collapse nav flex-column ms-1" id="submenu3" data-bs-parent="#menu">
-                  <li class="w-100">
+                  <li class="CV w-100">
                     <a href="#" class="nav-link px-3"><i class="far fa-file text-white"></i>
-                      <span class="d-none d-sm-inline text-white">CV</a>
+                      <span class="d-none d-sm-inline text-white"></a>
                   </li>
                   <li>
                     <a href="https://github.com/wkan17012021" target="blank" class="nav-link px-3"><i class="fab fa-github-square text-white"></i>
@@ -172,7 +164,7 @@
         <div class="Tech_Title col-sm-12">
           <h2 id="languages" class="fs-2">Tech Stack</h2>
         </div>
-        <div class="flip_card_grid col-sm-12 justify-content-evenly mt-3 mb-3">
+        <div class="flip_card_grid col-sm-12 justify-content-center my-3">
           <div class="card p-1">
             <div class="card-body">
               <img class="card-front img-fluid" alt="html5_logo"
@@ -272,7 +264,7 @@
           </div>
         </div>
         <!-- New tech-->
-        <div id="new_skills" class="col-sm-12 my-4">
+        <div id="new_skills" class="col-sm-12 my-3">
           <h3 class="fs-3">What I'm learning now</h3>
         </div>
         <div class="col-sm-12">
@@ -286,10 +278,10 @@
           </ul>
         </div>
         <!-- This section for embedded iframes showcasing projects -->
-        <div id="projects" class="col-sm-12 my-4">
+        <div id="projects" class="col-sm-12 my-2 mb-2">
           <h3 class="fs-3">Project Portfolio</h3>
         </div>
-        <div id="RLT_div_row" class="row py-3">
+        <div id="RLT_div_row" class="row py-2">
           <div class="col-sm-12 col-md-6">
             <p id="RLT_proj_brief" class="d-flex flex-column align-items-center align-middle text-center">
               <h4>The Road Less Travelled</h4>
@@ -370,23 +362,23 @@
           </div>
         </div>
         <div id="contact" class="col-sm-12 my-4">
-          <h3 class="fs-3">Contact</h3>
+          <h3 class="fs-3 text-center">Contact</h3>
         </div>
         <div class="row">
           <div id="contact" class="col-sm-4 mb-2">
-            <i id="cv_icon" class="fas fa-3x fa-file-download me-3"></i><a class="text-decoration-none">Link to download
+            <i id="cv_icon" class="fas fa-3x fa-file-download me-3"></i><a class="text-decoration-none fs-5">Link to download
               CV</a>
           </div>
           <div class="col-sm-4 mb-2">
-            <i id="github_icon" class="fab fa-3x fa-github me-2"></i><a class="text-decoration-none"
+            <i id="github_icon" class="fab fa-3x fa-github me-2"></i><a class="text-decoration-none fs-5"
               href="https://github.com/wkan17012021" target="blank">Link to Github profile</a>
           </div>
           <div class="col-sm-4 mb-3">
-            <i id="linkedIn_icon" class="fab fa-3x fa-linkedin me-2"></i><a class="text-decoration-none"
+            <i id="linkedIn_icon" class="fab fa-3x fa-linkedin me-2"></i><a class="text-decoration-none fs-5"
               href="https://linkedin.com/in/william-kan" target="blank">Click to view LinkedIn profile</a>
           </div>
         </div>
-        <article class="fs-4 m-3 p-4">Here are some resources that helped with my coding journey. Maybe these
+        <article class="fs-4 m-3 p-4 text-center">Here are some resources that helped with my coding journey. Maybe these
           suggestions will
           benefit you:</article>
         <!--Resource Carousel-->
@@ -432,7 +424,7 @@
                 and SQL format to name a few.</h5>
             </div>
             <div class="carousel-item px-5">
-              <h5 class="w-80 text-secondary text-center px-5">Struggling for first time projects or ideas to showcase
+              <h5 class="w-80 text-secondary text-center mx-5 px-3">Struggling for first time projects or ideas to showcase
                 your new
                 tech skills? Look no further, Colby's <a
                   href="https://www.colbyfayock.com/posts/50-projects-for-react-the-static-web" target="blank">50
