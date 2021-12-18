@@ -172,6 +172,17 @@ h3 {
   align-items: center;
 }
 
+/*, .carousel-indicators */
+.carousel-control-next, .carousel-control-prev {
+  filter: invert(100%); 
+}
+
+@media (max-width: 1000px) {
+  #carousel-control-prev, #carousel-control-next {
+    display: none;
+  }
+}
+
 @media (max-width: 680px) {
   .RLT,
   .RPS,
