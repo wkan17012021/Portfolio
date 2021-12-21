@@ -17,7 +17,7 @@ h3 {
 /* typewrite effect */
 /* https://www.youtube.com/watch?v=w1nhwUGsG6M&ab_channel=KevinPowell */
 #typewriter {
-  width: fit-content;
+  width:fit-content;  
 }
 
 #typewriter::before,
