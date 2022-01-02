@@ -12,12 +12,15 @@ h3 {
 
 #hero_banner .fs-1 {
   position: relative;
+}
+#welcome_text {
   color: #0d6efd;
 }
 /* typewrite effect */
 /* https://www.youtube.com/watch?v=w1nhwUGsG6M&ab_channel=KevinPowell */
 #typewriter {
-  width:fit-content;  
+  width:fit-content;
+  color: #0d6efd;
 }
 
 #typewriter::before,
@@ -64,9 +67,9 @@ h3 {
 /* https://www.smashingmagazine.com/2020/02/magic-flip-cards-common-sizing-problem/ */
 .flip_card_grid {
   display: grid; /* The cards can be presented in a grid layout  so their widths are not content-dependent. */
-  grid-gap: 1.5rem; /* gap between cards */
+  grid-gap: 0.5rem; /* gap between cards */
   grid-auto-rows: 1fr;
-  padding: 2rem; /* padding around cards */
+  padding: 0.5rem; /* padding around cards */
   background: whitesmoke;
   grid-template-columns: repeat(
     auto-fit,
@@ -140,7 +143,7 @@ h3 {
     0 16px 16px rgba(0, 0, 0, 0.04);
 }
 
-#bio .img-fluid {
+#profile_img {
   border-radius: 10%;
   height: 60%;
   margin-top: 5%;
