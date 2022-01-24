@@ -19,7 +19,7 @@ h3 {
 /* typewrite effect */
 /* https://www.youtube.com/watch?v=w1nhwUGsG6M&ab_channel=KevinPowell */
 #typewriter {
-  width:fit-content;
+  width: fit-content;
   color: #0d6efd;
 }
 
@@ -61,6 +61,12 @@ h3 {
   border-radius: 30%;
   height: auto;
   max-width: 40vw;
+  cursor: pointer;
+}
+
+#profile_img:hover {
+  transform: scale(0.95);
+  opacity: 0.85;
 }
 
 /* flip card styling */
@@ -176,12 +182,14 @@ h3 {
 }
 
 /*, .carousel-indicators */
-.carousel-control-next, .carousel-control-prev {
-  filter: invert(100%); 
+.carousel-control-next,
+.carousel-control-prev {
+  filter: invert(100%);
 }
 
 @media (max-width: 1000px) {
-  #carousel-control-prev, #carousel-control-next {
+  #carousel-control-prev,
+  #carousel-control-next {
     display: none;
   }
 }
