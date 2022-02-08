@@ -58,10 +58,10 @@ h3 {
 }
 
 #profile_img {
-  border-radius: 30%;
+  border-radius: 100%;
   height: auto;
-  max-width: 40vw;
-  cursor: pointer;
+  max-width: 250px;
+  cursor:crosshair;
 }
 
 #profile_img:hover {
