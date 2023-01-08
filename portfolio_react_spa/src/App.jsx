@@ -1,5 +1,7 @@
 import CollapsibleExample from "./components/SideBar"
 import ContainerFluid from "./components/layouts/ContainerFluid"
+import ResponsiveAppBar from "./sections/navigation/Nav"
+import ControlledAccordions from "./components/Accordion"
 import './assets/reset.css'
 import './assets/fonts.css'
 
@@ -18,7 +20,8 @@ function App() {
         <CollapsibleExample />
 <ContainerFluid/>
       </div>
-     
+     <ResponsiveAppBar />
+     <ControlledAccordions />
     </div>
   )
 }
