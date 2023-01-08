@@ -1,6 +1,7 @@
 import CollapsibleExample from "./components/SideBar"
 import ContainerFluid from "./components/layouts/ContainerFluid"
 import './reset.css'
+import './fonts.css'
 
 function App() {
   
