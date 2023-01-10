@@ -7,14 +7,49 @@ import Typography from '@mui/material/Typography';
 import Menu from '@mui/material/Menu';
 import MenuIcon from '@mui/icons-material/Menu';
 import Container from '@mui/material/Container';
-import Avatar from '@mui/material/Avatar';
 import Button from '@mui/material/Button';
 import Tooltip from '@mui/material/Tooltip';
 import MenuItem from '@mui/material/MenuItem';
-import AdbIcon from '@mui/icons-material/Adb';
+import Favicon from '../../assets/logo.svg';
+import BioIcon from '../../assets/bio-icon.png'
+import ExpIcon from '../../assets/exp-icon.webp'
+import ProjIcon from '../../assets/projects-icon.webp'
+import ContactIcon from '../../assets/contacts-icon.webp'
+import BlogsIcon from '../../assets/blogs-icon.png'
 
-const pages = ['Products', 'Pricing', 'Blog'];
-const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
+const sections = ['Bio', 'Work Exps', 'Projects', 'Contact', 'Blogs'];
+const sections2 = [
+  {
+    id: 1,
+    hdg: 'Bio',
+    img: BioIcon,
+    alt: "icon logo depicting a microphone"
+  },
+  {
+    id: 2,
+    hdg: 'Work Exp',
+    img: ExpIcon,
+    alt: "icon logo depicting an anvil"
+  },
+  {
+    id: 3,
+    hdg: 'Projects',
+    img: ProjIcon,
+    alt: "icon logo depicting a potion alchemy"
+  },
+  {
+    id: 4,
+    hdg: 'Contact',
+    img: ContactIcon,
+    alt: "icon logo depicting people conversing"
+  },
+  {
+    id: 5,
+    hdg: 'Blogs',
+    img: BlogsIcon,
+    alt: "icon logo depicting an open book and a quiver"
+  }
+];
 
 function ResponsiveAppBar() {
   const [anchorElNav, setAnchorElNav] = React.useState(null);
@@ -39,7 +74,8 @@ function ResponsiveAppBar() {
     <AppBar position="static">
       <Container maxWidth="xl">
         <Toolbar disableGutters>
-          <AdbIcon sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }} />
+          <img src={Favicon} alt="WK initials wrapped inside greater and less than symbols" sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }}/>
+          {/* <AdbIcon sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }} />
           <Typography
             variant="h6"
             noWrap
@@ -56,16 +92,20 @@ function ResponsiveAppBar() {
             }}
           >
             LOGO
-          </Typography>
+          </Typography> */}
 
-          <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
+          <Box sx={{ flexGrow: 1, justifyContent: 'flex-end', display: { xs: 'flex', md: 'none' } }}>
             <IconButton
               size="large"
-              aria-label="account of current user"
+              aria-label="navigation mobile menu"
               aria-controls="menu-appbar"
               aria-haspopup="true"
               onClick={handleOpenNavMenu}
               color="inherit"
+              anchorOrigin={{
+                vertical: 'bottom',
+                horizontal: 'right',
+              }}
             >
               <MenuIcon />
             </IconButton>
@@ -87,72 +127,24 @@ function ResponsiveAppBar() {
                 display: { xs: 'block', md: 'none' },
               }}
             >
-              {pages.map((page) => (
-                <MenuItem key={page} onClick={handleCloseNavMenu}>
-                  <Typography textAlign="center">{page}</Typography>
+              {sections2.map((section) => (
+                <MenuItem key={section.id} onClick={handleCloseNavMenu}>
+                  <Typography textAlign="center">{section.hdg}</Typography>
+                   <img src={section.img} alt={section.alt} className="menu-icons"/> 
                 </MenuItem>
               ))}
             </Menu>
           </Box>
-          <AdbIcon sx={{ display: { xs: 'flex', md: 'none' }, mr: 1 }} />
-          <Typography
-            variant="h5"
-            noWrap
-            component="a"
-            href=""
-            sx={{
-              mr: 2,
-              display: { xs: 'flex', md: 'none' },
-              flexGrow: 1,
-              fontFamily: 'monospace',
-              fontWeight: 700,
-              letterSpacing: '.3rem',
-              color: 'inherit',
-              textDecoration: 'none',
-            }}
-          >
-            LOGO
-          </Typography>
           <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' } }}>
-            {pages.map((page) => (
+            {sections2.map((section) => (
               <Button
-                key={page}
+                key={section.id}
                 onClick={handleCloseNavMenu}
                 sx={{ my: 2, color: 'white', display: 'block' }}
               >
-                {page}
+                {section.hdg}
               </Button>
             ))}
-          </Box>
-
-          <Box sx={{ flexGrow: 0 }}>
-            <Tooltip title="Open settings">
-              <IconButton onClick={handleOpenUserMenu} sx={{ p: 0 }}>
-                <Avatar alt="Remy Sharp" src="/static/images/avatar/2.jpg" />
-              </IconButton>
-            </Tooltip>
-            <Menu
-              sx={{ mt: '45px' }}
-              id="menu-appbar"
-              anchorEl={anchorElUser}
-              anchorOrigin={{
-                vertical: 'top',
-                horizontal: 'right',
-              }}
-              keepMounted
-              transformOrigin={{
-                vertical: 'top',
-                horizontal: 'right',
-              }}
-              open={Boolean(anchorElUser)}
-              onClose={handleCloseUserMenu}
-            >
-              {settings.map((setting) => (
-                <MenuItem key={setting} onClick={handleCloseUserMenu}>
-                  <Typography textAlign="center">{setting}</Typography>
-                </MenuItem>
-              ))}
-            </Menu>
           </Box>
         </Toolbar>
       </Container>

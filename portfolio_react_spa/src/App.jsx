@@ -1,5 +1,3 @@
-import CollapsibleExample from "./components/SideBar"
-import ContainerFluid from "./components/layouts/ContainerFluid"
 import ResponsiveAppBar from "./sections/navigation/Nav"
 import ControlledAccordions from "./components/Accordion"
 import './assets/reset.css'
@@ -17,8 +15,6 @@ function App() {
   integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
   crossorigin="anonymous"
 />
-        <CollapsibleExample />
-<ContainerFluid/>
       </div>
      <ResponsiveAppBar />
      <ControlledAccordions />
