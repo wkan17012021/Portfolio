@@ -1,5 +1,5 @@
 import ResponsiveAppBar from "./sections/navigation/Nav"
-import ControlledAccordions from "./components/Accordion"
+import ControlledAccordions from "./sections/workexp/Accordion"
 import './assets/reset.css'
 import './assets/fonts.css'
 
