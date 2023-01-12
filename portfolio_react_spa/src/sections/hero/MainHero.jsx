@@ -8,7 +8,7 @@ const Hero = () => {
           <h1 class="hero__headline">William Kan</h1>
           <div class="flow">
             <p>
-              Front-End Developer | Netizen | Bug Catcher{" "}
+              Front-End Developer <span className="pipe">|</span> Netizen <span className="pipe">|</span>  Bug Catcher{" "}
               
             </p>
             <img

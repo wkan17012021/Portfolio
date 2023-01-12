@@ -74,6 +74,24 @@
   margin-top: 1rem;
   display: inline;
 }
+.pipe:first-of-type {
+  position: relative;
+  animation: slideUp 3s;
+  animation-fill-mode: forwards;
+}
+.pipe:last-of-type {
+  position: relative;
+  animation: slideDown 3s;
+  animation-fill-mode: forwards;
+}
+@keyframes slideDown {
+  from {top: -30px;}
+  to {top: 0px;}
+}
+@keyframes slideUp {
+  from {top: 30px;}
+  to {top: 0px;}
+}
 .bkgnd-profile {
   max-width: 100%;
   -o-object-fit: cover;
