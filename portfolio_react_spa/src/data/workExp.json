@@ -1,13 +1,15 @@
 { 
-  "jobs": [
+  "techJobs": [ 
     {
-    "id": "panel1bh-header",
-    "panelNum": "panel1",
-    "ariaControls": "panel1bh-content",
-    "title": "One Young World, Central London - Digital Apprentice",
-    "year": "Mar 2022 - present",
-    "body": "Drupal CMS Website maintenance, 2 year training program surrounding software development lifecycle stages. Collaboration in a small development team: requirements gathering from content team members, debugging, code production, review and documentation. Exposure to production code base, version control management and Drupal site building. Tech support: client-facing role requiring conflict resolution, reporting and escalating bugs and communicating fixes. Documenting and reporting the learning experience through structured apprenticeship training program (technical and professional skills development)."
-  },
+      "id": "techpanel1bh-header",
+      "panelNum": "techpanel1",
+      "ariaControls": "techpanel1bh-content",
+      "title": "One Young World, Central London - Digital Apprentice",
+      "year": "Mar 2022 - present",
+      "body": "Drupal CMS Website maintenance, 2 year training program surrounding software development lifecycle stages. Collaboration in a small development team: requirements gathering from content team members, debugging, code production, review and documentation. Exposure to production code base, version control management and Drupal site building. Tech support: client-facing role requiring conflict resolution, reporting and escalating bugs and communicating fixes. Documenting and reporting the learning experience through structured apprenticeship training program (technical and professional skills development)."
+    }
+  ],
+  "nonTechjobs": [
   {
     "id": 2,
     "panelNum": "panel2",
