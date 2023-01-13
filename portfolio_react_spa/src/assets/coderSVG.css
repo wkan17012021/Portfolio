@@ -1,0 +1,57 @@
+svg#freepik_stories-code-typing:not(.animated) .animable {
+  opacity: 0;
+}
+svg#freepik_stories-code-typing.animated #freepik--Screens--inject-4 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) slideRight;
+  animation-delay: 0s;
+}
+svg#freepik_stories-code-typing.animated #freepik--speech-bubble--inject-4 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) slideDown,
+    1.5s Infinite linear floating;
+  animation-delay: 0s, 1s;
+}
+svg#freepik_stories-code-typing.animated #freepik--Character--inject-4 {
+  animation: 1.5s 1 forwards ease-in fadeIn;
+  animation-delay: 0s;
+}
+@keyframes slideRight {
+  0% {
+    opacity: 0;
+    transform: translateX(30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+@keyframes slideDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes floating {
+  0% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
