@@ -10,7 +10,7 @@ function StorySetTeam() {
       viewBox="0 0 750 500"
     >
       <g
-        id="freepik--background-complete--inject-22"
+        id="freepik--background-complete--inject-2"
         className="animable"
         style={{
           WebkitTransformOrigin: 378.385,
@@ -25,7 +25,7 @@ function StorySetTeam() {
             MsTransformOrigin: 184.795,
             transformOrigin: 184.795,
           }}
-          id="elrjxmk834di"
+          id="elm8x24mxfd0a"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -36,7 +36,7 @@ function StorySetTeam() {
             MsTransformOrigin: 184.795,
             transformOrigin: 184.795,
           }}
-          id="ellf8r1tv1lvd"
+          id="eln4w7bv5hzh"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -47,7 +47,7 @@ function StorySetTeam() {
             MsTransformOrigin: 184.409,
             transformOrigin: 184.409,
           }}
-          id="elna5vys17x7"
+          id="eltlxka9bnvr"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -58,7 +58,7 @@ function StorySetTeam() {
             MsTransformOrigin: 687.04,
             transformOrigin: 687.04,
           }}
-          id="eldeszt2ds0k6"
+          id="elrbsxe792o49"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -69,7 +69,7 @@ function StorySetTeam() {
             MsTransformOrigin: 687.04,
             transformOrigin: 687.04,
           }}
-          id="el9ad7wcava2o"
+          id="elhwrlczc6ks9"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -80,7 +80,7 @@ function StorySetTeam() {
             MsTransformOrigin: 686.67,
             transformOrigin: 686.67,
           }}
-          id="el5nukevuur6i"
+          id="elxj7agtsfhum"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -91,7 +91,7 @@ function StorySetTeam() {
             MsTransformOrigin: 57.71,
             transformOrigin: 57.71,
           }}
-          id="elffkehs39jm6"
+          id="elv44ndu1ktv"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -102,7 +102,7 @@ function StorySetTeam() {
             MsTransformOrigin: 57.71,
             transformOrigin: 57.71,
           }}
-          id="ele0tfc38urcg"
+          id="el1ythd7syxz2"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -113,7 +113,7 @@ function StorySetTeam() {
             MsTransformOrigin: 57.34,
             transformOrigin: 57.34,
           }}
-          id="elwuiwpmc0rwb"
+          id="elr91lfmfms7b"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -124,7 +124,7 @@ function StorySetTeam() {
             MsTransformOrigin: 626,
             transformOrigin: 626,
           }}
-          id="elydg7wy7fn8"
+          id="elb2i47eaijzp"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -135,7 +135,7 @@ function StorySetTeam() {
             MsTransformOrigin: 628.971,
             transformOrigin: 628.971,
           }}
-          id="ellarzbtistv"
+          id="elr7malkd6fks"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -146,7 +146,7 @@ function StorySetTeam() {
             MsTransformOrigin: 640.611,
             transformOrigin: 640.611,
           }}
-          id="el2mxu2cjyml4"
+          id="elywa61blri6j"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -157,7 +157,7 @@ function StorySetTeam() {
             MsTransformOrigin: 635.235,
             transformOrigin: 635.235,
           }}
-          id="elke2wfxmxc0n"
+          id="elsm5t7ewacnc"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -168,7 +168,7 @@ function StorySetTeam() {
             MsTransformOrigin: 647.428,
             transformOrigin: 647.428,
           }}
-          id="elmk9vjvv884h"
+          id="elpc74ahdoux"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -179,7 +179,7 @@ function StorySetTeam() {
             MsTransformOrigin: 645.747,
             transformOrigin: 645.747,
           }}
-          id="elpah8dhiqxek"
+          id="elk2d0ooedh89"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -190,7 +190,7 @@ function StorySetTeam() {
             MsTransformOrigin: 657.806,
             transformOrigin: 657.806,
           }}
-          id="eli1kg7h2stzn"
+          id="eln4wj02yoko"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -201,7 +201,7 @@ function StorySetTeam() {
             MsTransformOrigin: 684.57,
             transformOrigin: 684.57,
           }}
-          id="elhln62qx1zsh"
+          id="eljgn0vbihrx"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -212,7 +212,7 @@ function StorySetTeam() {
             MsTransformOrigin: 696.92,
             transformOrigin: 696.92,
           }}
-          id="ell9xya7qfn1k"
+          id="elq9vibtqmzdq"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -223,7 +223,7 @@ function StorySetTeam() {
             MsTransformOrigin: 697.67,
             transformOrigin: 697.67,
           }}
-          id="eluj2dryblrpc"
+          id="el9pogttu18x7"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -234,7 +234,7 @@ function StorySetTeam() {
             MsTransformOrigin: 681.748,
             transformOrigin: 681.748,
           }}
-          id="elnp14ohzeav"
+          id="elm43gybzyvrn"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -245,7 +245,7 @@ function StorySetTeam() {
             MsTransformOrigin: 711.32,
             transformOrigin: 711.32,
           }}
-          id="eluz1am5r99xd"
+          id="el0y4zobjo0b6p"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -256,7 +256,7 @@ function StorySetTeam() {
             MsTransformOrigin: 709.837,
             transformOrigin: 709.837,
           }}
-          id="elewgosbrlx3a"
+          id="elptqfgbnynkm"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -267,7 +267,7 @@ function StorySetTeam() {
             MsTransformOrigin: 700.869,
             transformOrigin: 700.869,
           }}
-          id="elf6tthfz17sv"
+          id="elf9yv2soif84"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -278,7 +278,7 @@ function StorySetTeam() {
             MsTransformOrigin: 697.195,
             transformOrigin: 697.195,
           }}
-          id="ellycel7tx44d"
+          id="elc6w5niuspk"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -289,7 +289,7 @@ function StorySetTeam() {
             MsTransformOrigin: 705.84,
             transformOrigin: 705.84,
           }}
-          id="elqmhkiceq32o"
+          id="el7xulfq10oja"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -300,7 +300,7 @@ function StorySetTeam() {
             MsTransformOrigin: 685.814,
             transformOrigin: 685.814,
           }}
-          id="el9mw6jlcwh6p"
+          id="el8gtvn5vn8jy"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -311,7 +311,7 @@ function StorySetTeam() {
             MsTransformOrigin: 695.324,
             transformOrigin: 695.324,
           }}
-          id="elhrk15w5n8f4"
+          id="elzsh2zugc65r"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -322,7 +322,7 @@ function StorySetTeam() {
             MsTransformOrigin: 713.945,
             transformOrigin: 713.945,
           }}
-          id="eldc0wqt4b1gp"
+          id="elkeecygc7hbs"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -333,7 +333,7 @@ function StorySetTeam() {
             MsTransformOrigin: 707.123,
             transformOrigin: 707.123,
           }}
-          id="elossax9o5ag"
+          id="el3x0nf5km9kk"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -344,7 +344,7 @@ function StorySetTeam() {
             MsTransformOrigin: 659.105,
             transformOrigin: 659.105,
           }}
-          id="ely1temt94fvn"
+          id="el6liox07by97"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -355,7 +355,7 @@ function StorySetTeam() {
             MsTransformOrigin: 632.275,
             transformOrigin: 632.275,
           }}
-          id="eljt3txgfwqzg"
+          id="elb4fi7sg3j1"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -366,7 +366,7 @@ function StorySetTeam() {
             MsTransformOrigin: 622.765,
             transformOrigin: 622.765,
           }}
-          id="el5njpzzavilg"
+          id="elt4r44n2rxg"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -377,7 +377,7 @@ function StorySetTeam() {
             MsTransformOrigin: 636.24,
             transformOrigin: 636.24,
           }}
-          id="elyimm1qye1zm"
+          id="el28op94lmhvk"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -388,7 +388,7 @@ function StorySetTeam() {
             MsTransformOrigin: 645.552,
             transformOrigin: 645.552,
           }}
-          id="eln3d8j15a7er"
+          id="el4tvuck6rq15"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -399,7 +399,7 @@ function StorySetTeam() {
             MsTransformOrigin: 677.185,
             transformOrigin: 677.185,
           }}
-          id="elgg53zabwbuw"
+          id="elrwchv7ix0s"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -410,7 +410,7 @@ function StorySetTeam() {
             MsTransformOrigin: 656.12,
             transformOrigin: 656.12,
           }}
-          id="elmico038b90a"
+          id="elnntv03zjht"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -421,7 +421,7 @@ function StorySetTeam() {
             MsTransformOrigin: 665.014,
             transformOrigin: 665.014,
           }}
-          id="elf8j4y5aw2gb"
+          id="elvzl10hnxoq"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -432,7 +432,7 @@ function StorySetTeam() {
             MsTransformOrigin: 679.111,
             transformOrigin: 679.111,
           }}
-          id="elhiw7c1o92tp"
+          id="eld277q2777yg"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -443,7 +443,7 @@ function StorySetTeam() {
             MsTransformOrigin: 674.187,
             transformOrigin: 674.187,
           }}
-          id="el3ik3eejp4hh"
+          id="elgwomhiqk9f"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -454,7 +454,7 @@ function StorySetTeam() {
             MsTransformOrigin: 661.918,
             transformOrigin: 661.918,
           }}
-          id="elx702h3cg0qb"
+          id="ely4w62qnx7kb"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -465,7 +465,7 @@ function StorySetTeam() {
             MsTransformOrigin: 668.695,
             transformOrigin: 668.695,
           }}
-          id="elty7827ry32j"
+          id="el0q8t2oxra9t"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -476,7 +476,7 @@ function StorySetTeam() {
             MsTransformOrigin: 684.003,
             transformOrigin: 684.003,
           }}
-          id="ela4p86jijn26"
+          id="el51ld07u994r"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -487,7 +487,7 @@ function StorySetTeam() {
             MsTransformOrigin: 690.235,
             transformOrigin: 690.235,
           }}
-          id="ellb8iwffutp"
+          id="elt7ju2b5u7p"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -498,7 +498,7 @@ function StorySetTeam() {
             MsTransformOrigin: 685.804,
             transformOrigin: 685.804,
           }}
-          id="el0zsfvuc1pk9"
+          id="elkrlrp0ij6bp"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -509,7 +509,7 @@ function StorySetTeam() {
             MsTransformOrigin: 658.58,
             transformOrigin: 658.58,
           }}
-          id="eldsz4167y3d"
+          id="elrays5ih4rj"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -520,7 +520,7 @@ function StorySetTeam() {
             MsTransformOrigin: 660.263,
             transformOrigin: 660.263,
           }}
-          id="eljye39wgy4a"
+          id="el1wd0zxx9mtm"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -531,7 +531,7 @@ function StorySetTeam() {
             MsTransformOrigin: 645.745,
             transformOrigin: 645.745,
           }}
-          id="el1a20aultlne"
+          id="eltvwgp3tvuua"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -542,7 +542,7 @@ function StorySetTeam() {
             MsTransformOrigin: 640.634,
             transformOrigin: 640.634,
           }}
-          id="el28ghpsp64u9"
+          id="elpqoo8xsjaf"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -553,7 +553,7 @@ function StorySetTeam() {
             MsTransformOrigin: 666.72,
             transformOrigin: 666.72,
           }}
-          id="el61pgv567le"
+          id="elgfyrwtn37di"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -564,7 +564,7 @@ function StorySetTeam() {
             MsTransformOrigin: 665.805,
             transformOrigin: 665.805,
           }}
-          id="elel6lq7ol9xr"
+          id="elvgi4u25s6t"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -575,7 +575,7 @@ function StorySetTeam() {
             MsTransformOrigin: 652.651,
             transformOrigin: 652.651,
           }}
-          id="elquxfryhjtz"
+          id="elm412mdxvdva"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -586,7 +586,7 @@ function StorySetTeam() {
             MsTransformOrigin: 682.58,
             transformOrigin: 682.58,
           }}
-          id="el6hcvhyctrgq"
+          id="elnfl5vhh4wlb"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -597,7 +597,7 @@ function StorySetTeam() {
             MsTransformOrigin: 687.368,
             transformOrigin: 687.368,
           }}
-          id="el5a552u7mihb"
+          id="elp03hlsgh4v9"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -608,7 +608,7 @@ function StorySetTeam() {
             MsTransformOrigin: 680.587,
             transformOrigin: 680.587,
           }}
-          id="elzdct7mx6c99"
+          id="elnf0k75o5kl"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -619,7 +619,7 @@ function StorySetTeam() {
             MsTransformOrigin: 687.04,
             transformOrigin: 687.04,
           }}
-          id="elhd4jx4r3ue"
+          id="elekuthgvfgw6"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -630,7 +630,7 @@ function StorySetTeam() {
             MsTransformOrigin: 690,
             transformOrigin: 690,
           }}
-          id="el2bs0knpk8g7"
+          id="elqcp5v6nj47"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -641,7 +641,7 @@ function StorySetTeam() {
             MsTransformOrigin: 681.152,
             transformOrigin: 681.152,
           }}
-          id="el5s3r1l5ovfd"
+          id="elvix6itha1n"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -652,7 +652,7 @@ function StorySetTeam() {
             MsTransformOrigin: 668.665,
             transformOrigin: 668.665,
           }}
-          id="eldg0bdacbfhv"
+          id="elw3mnyrrl71f"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -663,7 +663,7 @@ function StorySetTeam() {
             MsTransformOrigin: 668.62,
             transformOrigin: 668.62,
           }}
-          id="elxly54w30tao"
+          id="elbak3ccxhb0i"
           fill="#FAFAFA"
           className="animable"
         ></path>
@@ -674,7 +674,7 @@ function StorySetTeam() {
             MsTransformOrigin: 669.26,
             transformOrigin: 669.26,
           }}
-          id="ela0ye0frxmqd"
+          id="el8la3e2t0r8p"
           fill="#FAFAFA"
           className="animable"
         ></path>
@@ -685,7 +685,7 @@ function StorySetTeam() {
             MsTransformOrigin: 655.935,
             transformOrigin: 655.935,
           }}
-          id="elfn6kdino3a"
+          id="el52e72gizxru"
           fill="#FAFAFA"
           className="animable"
         ></path>
@@ -696,7 +696,7 @@ function StorySetTeam() {
             MsTransformOrigin: 670.405,
             transformOrigin: 670.405,
           }}
-          id="elrtqh1tr2l8"
+          id="elr8gfxia6h3"
           fill="#FAFAFA"
           className="animable"
         ></path>
@@ -707,7 +707,7 @@ function StorySetTeam() {
             MsTransformOrigin: 684,
             transformOrigin: 684,
           }}
-          id="elo195rm2nla"
+          id="el3z88ygp00hr"
           fill="#FAFAFA"
           className="animable"
         ></path>
@@ -718,7 +718,7 @@ function StorySetTeam() {
             MsTransformOrigin: 668.705,
             transformOrigin: 668.705,
           }}
-          id="elur7bz0txbkm"
+          id="elv9ryzdvtign"
           fill="#FAFAFA"
           className="animable"
         ></path>
@@ -729,7 +729,7 @@ function StorySetTeam() {
             MsTransformOrigin: 645.445,
             transformOrigin: 645.445,
           }}
-          id="elxq8wmhdyt8n"
+          id="elsdhlcjgcvt"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -740,7 +740,7 @@ function StorySetTeam() {
             MsTransformOrigin: 617.25,
             transformOrigin: 617.25,
           }}
-          id="elrbhnsesp0z"
+          id="ela66sjk7h719"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -751,7 +751,7 @@ function StorySetTeam() {
             MsTransformOrigin: 673.84,
             transformOrigin: 673.84,
           }}
-          id="elok1dixud9ri"
+          id="elanllvl41q6"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -762,7 +762,7 @@ function StorySetTeam() {
             MsTransformOrigin: 617.25,
             transformOrigin: 617.25,
           }}
-          id="elpnhwvg22buj"
+          id="elnxbyysz8gqa"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -773,7 +773,7 @@ function StorySetTeam() {
             MsTransformOrigin: 673.84,
             transformOrigin: 673.84,
           }}
-          id="elqpe1mbtj9wa"
+          id="elgtlkc75i4o"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -784,7 +784,7 @@ function StorySetTeam() {
             MsTransformOrigin: 647.23,
             transformOrigin: 647.23,
           }}
-          id="elo4tg3muos7"
+          id="elot9g6y1pf5"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -795,7 +795,7 @@ function StorySetTeam() {
             MsTransformOrigin: 51.105,
             transformOrigin: 51.105,
           }}
-          id="el8wddbta38jp"
+          id="el9pjfmuevau8"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -806,7 +806,7 @@ function StorySetTeam() {
             MsTransformOrigin: 91.4993,
             transformOrigin: 91.4993,
           }}
-          id="eld01ziy3cmnn"
+          id="elfowu2hj8gmd"
           fill="#EBEBEB"
           className="animable"
         ></path>
@@ -817,7 +817,7 @@ function StorySetTeam() {
             MsTransformOrigin: 80.8956,
             transformOrigin: 80.8956,
           }}
-          id="elt1rgr958psi"
+          id="el74c5wy9ijs3"
           fill="#EBEBEB"
           className="animable"
         ></path>
@@ -828,7 +828,7 @@ function StorySetTeam() {
             MsTransformOrigin: 53.3669,
             transformOrigin: 53.3669,
           }}
-          id="ele180oq5w9ui"
+          id="elzjy7v6ycbrf"
           fill="#EBEBEB"
           className="animable"
         ></path>
@@ -839,7 +839,7 @@ function StorySetTeam() {
             MsTransformOrigin: 82.8735,
             transformOrigin: 82.8735,
           }}
-          id="el2m2i95bdt7q"
+          id="elc0km83hh7a"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -850,7 +850,7 @@ function StorySetTeam() {
             MsTransformOrigin: 77.7503,
             transformOrigin: 77.7503,
           }}
-          id="el6xum9hmci84"
+          id="elzr8yodg9e2"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -861,7 +861,7 @@ function StorySetTeam() {
             MsTransformOrigin: 61.7039,
             transformOrigin: 61.7039,
           }}
-          id="ely4ul7hqerw"
+          id="el1qzrt66yunn"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -871,7 +871,7 @@ function StorySetTeam() {
             MsTransformOrigin: 74.065,
             transformOrigin: 74.065,
           }}
-          id="el0an9wwetuql"
+          id="eldm2a95udjeb"
           fill="#E0E0E0"
           d="M56.29 442.07L58.1 466.92 90.03 466.92 91.84 442.07 56.29 442.07z"
           className="animable"
@@ -882,7 +882,7 @@ function StorySetTeam() {
             MsTransformOrigin: 74.425,
             transformOrigin: 74.425,
           }}
-          id="el1amlyah25d2"
+          id="el7gu48i13pje"
           fill="#E0E0E0"
           d="M53.2 432.27H95.65V442.07H53.2z"
           className="animable"
@@ -893,7 +893,7 @@ function StorySetTeam() {
             MsTransformOrigin: 74.075,
             transformOrigin: 74.075,
           }}
-          id="el7zbitojiacg"
+          id="el9pedxuxbse5"
           fill="#EBEBEB"
           d="M53.2 465.97L53.2 468.68 55.2 468.68 94.95 468.68 94.95 465.97 53.2 465.97z"
           className="animable"
@@ -904,7 +904,7 @@ function StorySetTeam() {
             MsTransformOrigin: 74.315,
             transformOrigin: 74.315,
           }}
-          id="elbkn8at0cn6q"
+          id="elso1db0l7ufn"
           fill="#E0E0E0"
           d="M57.15 473.46L55.2 468.68 93.43 468.68 91.15 473.46 57.15 473.46z"
           className="animable"
@@ -916,7 +916,7 @@ function StorySetTeam() {
             MsTransformOrigin: 74.0243,
             transformOrigin: 74.0243,
           }}
-          id="elu0evmcfp7u"
+          id="elb54ga9t3wqj"
           fill="#F5F5F5"
           className="animable"
         ></path>
@@ -927,7 +927,7 @@ function StorySetTeam() {
             MsTransformOrigin: 74.42,
             transformOrigin: 74.42,
           }}
-          id="elhz0cy3r8t1"
+          id="elqbfoxz5vw6"
           fill="#F5F5F5"
           className="animable"
         ></path>
@@ -938,14 +938,14 @@ function StorySetTeam() {
             MsTransformOrigin: 74.48,
             transformOrigin: 74.48,
           }}
-          id="el93z2sj84hnv"
+          id="elll6hpmzv2xg"
           fill="#F5F5F5"
           className="animable"
         ></path>
       </g>
       <g
-        id="freepik--Floor--inject-22"
-        className="animable animator-hidden"
+        id="freepik--Floor--inject-2"
+        className="animable"
         style={{
           WebkitTransformOrigin: 375,
           MsTransformOrigin: 375,
@@ -959,13 +959,13 @@ function StorySetTeam() {
             MsTransformOrigin: 375,
             transformOrigin: 375,
           }}
-          id="elg3x0xx7mt7"
+          id="elfrjjuwm3t4"
           fill="#263238"
           className="animable"
         ></path>
       </g>
       <g
-        id="freepik--Screen--inject-22"
+        id="freepik--Screen--inject-2"
         className="animable"
         style={{
           WebkitTransformOrigin: 390.365,
@@ -979,7 +979,7 @@ function StorySetTeam() {
             MsTransformOrigin: 390.375,
             transformOrigin: 390.375,
           }}
-          id="elxlf07ltrqsc"
+          id="elbog0bkxh01s"
           fill="#FFF"
           d="M542.35 43.53L238.4 43.53 238.4 327.17 373.73 327.17 373.73 352.23 395.89 327.17 542.35 327.17 542.35 43.53z"
           className="animable"
@@ -990,7 +990,7 @@ function StorySetTeam() {
             MsTransformOrigin: 390.365,
             transformOrigin: 390.365,
           }}
-          id="elg6yzxmdshmr"
+          id="elosxixrxdoc"
           fill="#E0E0E0"
           d="M237.91 43.53H542.82V64.09H237.91z"
           className="animable"
@@ -1002,7 +1002,7 @@ function StorySetTeam() {
             MsTransformOrigin: 249.85,
             transformOrigin: 249.85,
           }}
-          id="elu6qldiz1i8c"
+          id="elza8ik6r0yrs"
           fill="#FFF"
           className="animable"
         ></path>
@@ -1013,7 +1013,7 @@ function StorySetTeam() {
             MsTransformOrigin: 262.72,
             transformOrigin: 262.72,
           }}
-          id="elx92kunf2vn"
+          id="elyuxtj12ykbh"
           fill="#FFF"
           className="animable"
         ></path>
@@ -1024,7 +1024,7 @@ function StorySetTeam() {
             MsTransformOrigin: 275.58,
             transformOrigin: 275.58,
           }}
-          id="elcgb4drzx46a"
+          id="elueqlz7dev3"
           fill="#FFF"
           className="animable"
         ></path>
@@ -1035,7 +1035,7 @@ function StorySetTeam() {
             MsTransformOrigin: 390.41,
             transformOrigin: 390.41,
           }}
-          id="elrqrstm1tvz"
+          id="elkh9j12a9njg"
           fill="#263238"
           className="animable"
         ></path>
@@ -1045,7 +1045,7 @@ function StorySetTeam() {
             MsTransformOrigin: 278.275,
             transformOrigin: 278.275,
           }}
-          id="elwm4djis34go"
+          id="el8qq6xtx8euo"
           fill="#E0E0E0"
           d="M254.92 105.19H301.63V111.75H254.92z"
           className="animable"
@@ -1057,7 +1057,7 @@ function StorySetTeam() {
             MsTransformOrigin: 301.63,
             transformOrigin: 301.63,
           }}
-          id="elpd184izfcy8"
+          id="el7u17rxc7rnm"
           fill="#263238"
           className="animable"
         ></path>
@@ -1068,7 +1068,7 @@ function StorySetTeam() {
             MsTransformOrigin: 287.695,
             transformOrigin: 287.695,
           }}
-          id="elw8dn3ng862n"
+          id="elcq65l422add"
           fill="#263238"
           className="animable"
         ></path>
@@ -1079,7 +1079,7 @@ function StorySetTeam() {
             MsTransformOrigin: 301.63,
             transformOrigin: 301.63,
           }}
-          id="elmle95i2uan"
+          id="el5y6qxtvslcb"
           fill="#263238"
           className="animable"
         ></path>
@@ -1090,7 +1090,7 @@ function StorySetTeam() {
             MsTransformOrigin: 363.655,
             transformOrigin: 363.655,
           }}
-          id="elx1t0pjve8v"
+          id="elv9m1h4mgbhn"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -1101,7 +1101,7 @@ function StorySetTeam() {
             MsTransformOrigin: 293.035,
             transformOrigin: 293.035,
           }}
-          id="elg3sa4tb4tvu"
+          id="eltsonlsbk5i"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -1112,7 +1112,7 @@ function StorySetTeam() {
             MsTransformOrigin: 293.03,
             transformOrigin: 293.03,
           }}
-          id="eliv33gpcq9e"
+          id="elw2pv9mm808"
           fill="#263238"
           className="animable"
         ></path>
@@ -1123,7 +1123,7 @@ function StorySetTeam() {
             MsTransformOrigin: 292.225,
             transformOrigin: 292.225,
           }}
-          id="el431b3y9hr8y"
+          id="el8e34s1dmig5"
           fill="#263238"
           className="animable"
         ></path>
@@ -1134,7 +1134,7 @@ function StorySetTeam() {
             MsTransformOrigin: 364.665,
             transformOrigin: 364.665,
           }}
-          id="elat4pde8fido"
+          id="el0xl3nvur02be"
           fill="#263238"
           className="animable"
         ></path>
@@ -1145,7 +1145,7 @@ function StorySetTeam() {
             MsTransformOrigin: 363.87,
             transformOrigin: 363.87,
           }}
-          id="els6zrd4k35ts"
+          id="elq9n4s15jimh"
           fill="#263238"
           className="animable"
         ></path>
@@ -1156,7 +1156,7 @@ function StorySetTeam() {
             MsTransformOrigin: 363.655,
             transformOrigin: 363.655,
           }}
-          id="elg29k25eojk8"
+          id="elaogacwlcjl4"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -1167,7 +1167,7 @@ function StorySetTeam() {
             MsTransformOrigin: 363.333,
             transformOrigin: 363.333,
           }}
-          id="elisl2fm3vtx"
+          id="elqvfw74b6lhr"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -1178,7 +1178,7 @@ function StorySetTeam() {
             MsTransformOrigin: 292.445,
             transformOrigin: 292.445,
           }}
-          id="elteq2zxdw"
+          id="elhpflntb6fwg"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -1189,7 +1189,7 @@ function StorySetTeam() {
             MsTransformOrigin: 292.695,
             transformOrigin: 292.695,
           }}
-          id="elljf40huuih7"
+          id="elb4sp611ikdq"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -1200,7 +1200,7 @@ function StorySetTeam() {
             MsTransformOrigin: 495.795,
             transformOrigin: 495.795,
           }}
-          id="elfw33og792j"
+          id="ellm2k28yqtjg"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -1211,7 +1211,7 @@ function StorySetTeam() {
             MsTransformOrigin: 430.215,
             transformOrigin: 430.215,
           }}
-          id="el2qzbha5ooaf"
+          id="elveul7aypan7"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -1222,7 +1222,7 @@ function StorySetTeam() {
             MsTransformOrigin: 430.2,
             transformOrigin: 430.2,
           }}
-          id="el0qwp0hmvnmjp"
+          id="elmiai7g6z2mp"
           fill="#263238"
           className="animable"
         ></path>
@@ -1233,7 +1233,7 @@ function StorySetTeam() {
             MsTransformOrigin: 429.365,
             transformOrigin: 429.365,
           }}
-          id="elu2kwshurjad"
+          id="el4hqjaheandu"
           fill="#263238"
           className="animable"
         ></path>
@@ -1244,7 +1244,7 @@ function StorySetTeam() {
             MsTransformOrigin: 496.835,
             transformOrigin: 496.835,
           }}
-          id="el6r5fzvehlpd"
+          id="elk6f3nz062ul"
           fill="#263238"
           className="animable"
         ></path>
@@ -1255,7 +1255,7 @@ function StorySetTeam() {
             MsTransformOrigin: 496.025,
             transformOrigin: 496.025,
           }}
-          id="el44j2wki1vuc"
+          id="elc3a2m560uyr"
           fill="#263238"
           className="animable"
         ></path>
@@ -1266,7 +1266,7 @@ function StorySetTeam() {
             MsTransformOrigin: 495.815,
             transformOrigin: 495.815,
           }}
-          id="elu3uc2vji3v"
+          id="el6macpbupdsj"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -1277,7 +1277,7 @@ function StorySetTeam() {
             MsTransformOrigin: 495.521,
             transformOrigin: 495.521,
           }}
-          id="el2itjxcljp4b"
+          id="el6eom9k2056s"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -1288,7 +1288,7 @@ function StorySetTeam() {
             MsTransformOrigin: 429.615,
             transformOrigin: 429.615,
           }}
-          id="elrv4uwu914ca"
+          id="elift0el2x2j"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -1299,7 +1299,7 @@ function StorySetTeam() {
             MsTransformOrigin: 429.861,
             transformOrigin: 429.861,
           }}
-          id="elaw034e0lpj"
+          id="eliwbqvtz6t2a"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -1310,7 +1310,7 @@ function StorySetTeam() {
             MsTransformOrigin: 449.03,
             transformOrigin: 449.03,
           }}
-          id="elbs28tzt2j9c"
+          id="eld23t8jcsmu4"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -1321,7 +1321,7 @@ function StorySetTeam() {
             MsTransformOrigin: 448.885,
             transformOrigin: 448.885,
           }}
-          id="el2vvjg2sxw2b"
+          id="elx4f6mv94e6"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -1331,7 +1331,7 @@ function StorySetTeam() {
             MsTransformOrigin: 436.955,
             transformOrigin: 436.955,
           }}
-          id="elfunjss4596f"
+          id="el36edchnff7e"
           fill="#407BFF"
           d="M393.6 202.86L392.8 202.26 426.85 156.96 450.45 170.06 480.27 124.81 481.11 125.36 450.77 171.39 427.13 158.26 393.6 202.86z"
           className="animable"
@@ -1343,7 +1343,7 @@ function StorySetTeam() {
             MsTransformOrigin: 445,
             transformOrigin: 445,
           }}
-          id="elh3d3qc71ca4"
+          id="elqmvph1t32j"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -1353,7 +1353,7 @@ function StorySetTeam() {
             MsTransformOrigin: 426.99,
             transformOrigin: 426.99,
           }}
-          id="el99kunq6phrt"
+          id="el954i27o84w8"
           fill="#407BFF"
           d="M426.05 156.67H427.93V158.54999999999998H426.05z"
           className="animable"
@@ -1364,7 +1364,7 @@ function StorySetTeam() {
             MsTransformOrigin: 450.49,
             transformOrigin: 450.49,
           }}
-          id="el86yt5vkq09e"
+          id="elo4op5wyastn"
           fill="#407BFF"
           d="M449.55 169.67H451.43V171.54999999999998H449.55z"
           className="animable"
@@ -1375,7 +1375,7 @@ function StorySetTeam() {
             MsTransformOrigin: 480.69,
             transformOrigin: 480.69,
           }}
-          id="el2pl7qbcwwza"
+          id="elzpr41g0w7yq"
           fill="#407BFF"
           d="M479.75 124.41H481.63V126.28999999999999H479.75z"
           className="animable"
@@ -1386,7 +1386,7 @@ function StorySetTeam() {
             MsTransformOrigin: 445,
             transformOrigin: 445,
           }}
-          id="elxdtjhld3iri"
+          id="elkk8grxw43wo"
           fill="#407BFF"
           d="M444.06 136.34H445.94V138.22H444.06z"
           className="animable"
@@ -1397,7 +1397,7 @@ function StorySetTeam() {
             MsTransformOrigin: 445,
             transformOrigin: 445,
           }}
-          id="el53o992dpxsw"
+          id="el1thj79gs163"
           fill="#407BFF"
           d="M444.06 106.72H445.94V108.6H444.06z"
           className="animable"
@@ -1408,7 +1408,7 @@ function StorySetTeam() {
             MsTransformOrigin: 459.81,
             transformOrigin: 459.81,
           }}
-          id="elx83g72lvte"
+          id="el0m7y79dxwfi9"
           fill="#407BFF"
           d="M458.87 121.58H460.75V123.46H458.87z"
           className="animable"
@@ -1420,7 +1420,7 @@ function StorySetTeam() {
             MsTransformOrigin: 430.19,
             transformOrigin: 430.19,
           }}
-          id="elr9jwkkmswd"
+          id="el4656ophofpq"
           fill="#407BFF"
           d="M429.25 121.58H431.13V123.46H429.25z"
           className="animable"
@@ -1432,7 +1432,7 @@ function StorySetTeam() {
             MsTransformOrigin: 393.19,
             transformOrigin: 393.19,
           }}
-          id="elkon7m847q6"
+          id="ellc20stvuvxa"
           fill="#407BFF"
           d="M392.25 201.62H394.13V203.5H392.25z"
           className="animable"
@@ -1444,7 +1444,7 @@ function StorySetTeam() {
             MsTransformOrigin: 480.69,
             transformOrigin: 480.69,
           }}
-          id="elqd96xox15lr"
+          id="elffd5dgx1gg"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -1455,7 +1455,7 @@ function StorySetTeam() {
             MsTransformOrigin: 480.69,
             transformOrigin: 480.69,
           }}
-          id="elic6bqbk6qs"
+          id="elox2b4f9d3pb"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -1468,7 +1468,7 @@ function StorySetTeam() {
             MsTransformOrigin: 480.69,
             transformOrigin: 480.69,
           }}
-          id="eljup4u39xw4"
+          id="eltgdy0bxkn3l"
           fill="#407BFF"
           className="animable"
         ></circle>
@@ -1479,13 +1479,13 @@ function StorySetTeam() {
             MsTransformOrigin: 413.62,
             transformOrigin: 413.62,
           }}
-          id="el9swvisbbwzv"
+          id="eldbrij7zjlgr"
           fill="#E0E0E0"
           className="animable"
         ></path>
       </g>
       <g
-        id="freepik--Images--inject-22"
+        id="freepik--Images--inject-2"
         className="animable"
         style={{
           WebkitTransformOrigin: 500.88,
@@ -1499,7 +1499,7 @@ function StorySetTeam() {
             MsTransformOrigin: 525.135,
             transformOrigin: 525.135,
           }}
-          id="elbomlrjsreng"
+          id="el9ma74q8iw3"
           fill="#FAFAFA"
           d="M565.44 383.28L567.1 458.98 484.82 460.14 483.17 384.44 565.44 383.28z"
           className="animable"
@@ -1511,7 +1511,7 @@ function StorySetTeam() {
             MsTransformOrigin: 525.125,
             transformOrigin: 525.125,
           }}
-          id="el6586f6lmqp8"
+          id="elf2hxvgnmkfk"
           fill="#263238"
           className="animable"
         ></path>
@@ -1521,7 +1521,7 @@ function StorySetTeam() {
             MsTransformOrigin: 525.08,
             transformOrigin: 525.08,
           }}
-          id="elmsciwa3wsnd"
+          id="elaqae4jx07pl"
           fill="#407BFF"
           d="M487.55 456.37L564.05 455.3 562.6 389.12 486.11 390.2 487.55 456.37z"
           className="animable"
@@ -1532,12 +1532,12 @@ function StorySetTeam() {
             MsTransformOrigin: 525.8,
             transformOrigin: 525.8,
           }}
-          id="el70s7ufj9eki"
+          id="elnluhy2fod0m"
           className="animable"
           opacity="0.3"
         >
           <path
-            id="elwf9wqbksmj"
+            id="eljdn28kdksv"
             className="animable"
             style={{
               WebkitTransformOrigin: 525.8,
@@ -1553,12 +1553,12 @@ function StorySetTeam() {
             MsTransformOrigin: 530.815,
             transformOrigin: 530.815,
           }}
-          id="el4pfngjy1uu"
+          id="el406vlvdvuuk"
           className="animable"
           opacity="0.3"
         >
           <path
-            id="elftbljczgse4"
+            id="el5hj32p8t9vu"
             d="M536.84 410c.08 3.83-2.55 7-5.87 7s-6.09-3-6.18-6.85 2.55-7 5.87-7 6.09 2.97 6.18 6.85z"
             className="animable"
             style={{
@@ -1574,7 +1574,7 @@ function StorySetTeam() {
             MsTransformOrigin: 504.555,
             transformOrigin: 504.555,
           }}
-          id="elgvh3zsou25v"
+          id="elof4acn5hu39"
           fill="#FAFAFA"
           d="M544.86 376.23L546.52 451.93 464.24 453.09 462.59 377.38 544.86 376.23z"
           className="animable"
@@ -1586,7 +1586,7 @@ function StorySetTeam() {
             MsTransformOrigin: 504.55,
             transformOrigin: 504.55,
           }}
-          id="elr2brr9wsce"
+          id="elahkj1zpsitj"
           fill="#263238"
           className="animable"
         ></path>
@@ -1596,7 +1596,7 @@ function StorySetTeam() {
             MsTransformOrigin: 504.5,
             transformOrigin: 504.5,
           }}
-          id="elgubgf7yns7o"
+          id="elsx5q4i19ko"
           fill="#455A64"
           d="M466.98 448.28L543.47 447.21 542.02 381.03 465.53 382.11 466.98 448.28z"
           className="animable"
@@ -1607,7 +1607,7 @@ function StorySetTeam() {
             MsTransformOrigin: 505.225,
             transformOrigin: 505.225,
           }}
-          id="eln8ceitum1nc"
+          id="elvppbqnx4tk"
           fill="#455A64"
           d="M466.98 448.28L492.8 406.77 509.91 432.28 520.83 418.36 543.47 447.21 466.98 448.28z"
           className="animable"
@@ -1619,7 +1619,7 @@ function StorySetTeam() {
             MsTransformOrigin: 510.235,
             transformOrigin: 510.235,
           }}
-          id="el3wbio0brm3c"
+          id="ell4vxk08v5qe"
           fill="#455A64"
           className="animable"
         ></path>
@@ -1629,12 +1629,12 @@ function StorySetTeam() {
             MsTransformOrigin: 505.225,
             transformOrigin: 505.225,
           }}
-          id="eleyh8oce1imo"
+          id="elqv6di95qumq"
           className="animable"
           opacity="0.3"
         >
           <path
-            id="elep9xh6nhpml"
+            id="eliuvlveeebe8"
             className="animable"
             style={{
               WebkitTransformOrigin: 505.225,
@@ -1650,12 +1650,12 @@ function StorySetTeam() {
             MsTransformOrigin: 510.235,
             transformOrigin: 510.235,
           }}
-          id="elhufhjzyqsoj"
+          id="el2fdnk0ywrvg"
           className="animable"
           opacity="0.3"
         >
           <path
-            id="el2hc7e8l3i0w"
+            id="eltpqjx31366q"
             d="M516.26 401.4c.08 3.83-2.54 7-5.87 7s-6.09-3-6.18-6.85 2.55-7 5.88-7 6.09 3.03 6.17 6.85z"
             className="animable"
             style={{
@@ -1671,7 +1671,7 @@ function StorySetTeam() {
             MsTransformOrigin: 495.63,
             transformOrigin: 495.63,
           }}
-          id="elgsyhwj2d2t6"
+          id="elbhg72el4fkd"
           fill="#FAFAFA"
           d="M535.94 366.61L537.59 442.31 455.32 443.47 453.67 367.76 535.94 366.61z"
           className="animable"
@@ -1683,7 +1683,7 @@ function StorySetTeam() {
             MsTransformOrigin: 495.58,
             transformOrigin: 495.58,
           }}
-          id="elx7psbk05hha"
+          id="el2lboxf8a9uj"
           fill="#263238"
           className="animable"
         ></path>
@@ -1693,7 +1693,7 @@ function StorySetTeam() {
             MsTransformOrigin: 495.58,
             transformOrigin: 495.58,
           }}
-          id="elmjsoo7phwd"
+          id="elxi21nvukpus"
           fill="#407BFF"
           d="M458.05 439.7L534.55 438.62 533.1 372.45 456.61 373.52 458.05 439.7z"
           className="animable"
@@ -1704,12 +1704,12 @@ function StorySetTeam() {
             MsTransformOrigin: 496.3,
             transformOrigin: 496.3,
           }}
-          id="elmrmu9o1xqy"
+          id="el6waw409u8mk"
           className="animable"
           opacity="0.3"
         >
           <path
-            id="ely8kj9tmetek"
+            id="el70i0h1pyjvv"
             className="animable"
             style={{
               WebkitTransformOrigin: 496.3,
@@ -1725,12 +1725,12 @@ function StorySetTeam() {
             MsTransformOrigin: 501.315,
             transformOrigin: 501.315,
           }}
-          id="elpwvas9n4plr"
+          id="ell6i0opbvpy"
           className="animable"
           opacity="0.3"
         >
           <path
-            id="elgobv60fgde"
+            id="elga2i1gloqrn"
             d="M507.34 393.28c.08 3.83-2.55 7-5.88 7s-6.09-3-6.17-6.85 2.55-7 5.87-7 6.09 3.02 6.18 6.85z"
             className="animable"
             style={{
@@ -1746,7 +1746,7 @@ function StorySetTeam() {
             MsTransformOrigin: 482.8,
             transformOrigin: 482.8,
           }}
-          id="elzqzpvd42tbi"
+          id="el9hck37ixm8k"
           fill="#FAFAFA"
           d="M526.37 376.36L528.16 452.07 439.23 453.23 437.44 377.52 526.37 376.36z"
           className="animable"
@@ -1758,7 +1758,7 @@ function StorySetTeam() {
             MsTransformOrigin: 482.785,
             transformOrigin: 482.785,
           }}
-          id="elig8hjhk3m6"
+          id="el4jbljngyl0e"
           fill="#263238"
           className="animable"
         ></path>
@@ -1768,7 +1768,7 @@ function StorySetTeam() {
             MsTransformOrigin: 482.74,
             transformOrigin: 482.74,
           }}
-          id="elai7wwc279gb"
+          id="elf2azb4iyn18"
           fill="#407BFF"
           d="M442.18 448.42L524.86 447.34 523.3 381.17 440.62 382.24 442.18 448.42z"
           className="animable"
@@ -1779,12 +1779,12 @@ function StorySetTeam() {
             MsTransformOrigin: 483.52,
             transformOrigin: 483.52,
           }}
-          id="el4mou1csakog"
+          id="elo5kpuwukp0n"
           className="animable"
           opacity="0.3"
         >
           <path
-            id="elj3clwkval7d"
+            id="el6borlorlu0o"
             className="animable"
             style={{
               WebkitTransformOrigin: 483.52,
@@ -1800,12 +1800,12 @@ function StorySetTeam() {
             MsTransformOrigin: 488.94,
             transformOrigin: 488.94,
           }}
-          id="elbemome5san"
+          id="elwd7mwdqdqt"
           className="animable"
           opacity="0.3"
         >
           <path
-            id="el7cc8dbv9gpv"
+            id="elekvorn5gy64"
             d="M495.45 401.54a6.65 6.65 0 01-6.34 7 6.83 6.83 0 01-6.68-6.85 6.65 6.65 0 016.35-7 6.82 6.82 0 016.67 6.85z"
             className="animable"
             style={{
@@ -1821,7 +1821,7 @@ function StorySetTeam() {
             MsTransformOrigin: 526.465,
             transformOrigin: 526.465,
           }}
-          id="elrcabov2tg7b"
+          id="el44ov9ngdh9z"
           fill="#263238"
           d="M484.58 421.71H568.35V473.06H484.58z"
           className="animable"
@@ -1832,14 +1832,14 @@ function StorySetTeam() {
             MsTransformOrigin: 479.325,
             transformOrigin: 479.325,
           }}
-          id="elaawsbitawb6"
+          id="elhh541ftb2"
           fill="#455A64"
           d="M433.41 421.71H525.24V473.06H433.41z"
           className="animable"
         ></path>
       </g>
       <g
-        id="freepik--character-3--inject-22"
+        id="freepik--character-3--inject-2"
         className="animable"
         style={{
           WebkitTransformOrigin: 598.147,
@@ -1854,7 +1854,7 @@ function StorySetTeam() {
             MsTransformOrigin: 582.037,
             transformOrigin: 582.037,
           }}
-          id="elrjxzequqhh"
+          id="elpbketvf251k"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -1864,12 +1864,12 @@ function StorySetTeam() {
             MsTransformOrigin: 583.355,
             transformOrigin: 583.355,
           }}
-          id="elwdis5so6iuk"
+          id="elrhol98i1j6h"
           className="animable"
           opacity="0.2"
         >
           <path
-            id="eloc7kosdesof"
+            id="elwahl5nquptg"
             d="M588 256.47s-13.27 46.41-12.42 47 3.49 2.21 3.49 2.21l12.1-48.55z"
             className="animable"
             style={{
@@ -1886,7 +1886,7 @@ function StorySetTeam() {
             MsTransformOrigin: 591.574,
             transformOrigin: 591.574,
           }}
-          id="elsqywjszsjbl"
+          id="elayd7qormbnb"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -1897,7 +1897,7 @@ function StorySetTeam() {
             MsTransformOrigin: 592.925,
             transformOrigin: 592.925,
           }}
-          id="el9j2zpyx5gu5"
+          id="elwtd3vu3gea"
           fill="#263238"
           className="animable"
         ></path>
@@ -1908,7 +1908,7 @@ function StorySetTeam() {
             MsTransformOrigin: 588.626,
             transformOrigin: 588.626,
           }}
-          id="eltjnb8j6vd5d"
+          id="elzzf2f66rp8"
           fill="#263238"
           className="animable"
         ></path>
@@ -1918,7 +1918,7 @@ function StorySetTeam() {
             MsTransformOrigin: 658.885,
             transformOrigin: 658.885,
           }}
-          id="eliy6fs0ls1k9"
+          id="el4wqxsrcllx5"
           fill="#FFBE9D"
           d="M660.01 193.1L669.96 214.6 647.81 201.85 660.01 193.1z"
           className="animable"
@@ -1929,7 +1929,7 @@ function StorySetTeam() {
             MsTransformOrigin: 510.665,
             transformOrigin: 510.665,
           }}
-          id="elq58tmogupmb"
+          id="elwwk254eli9"
           fill="#FAFAFA"
           d="M480.33 124.79L510.31 164.24 523.24 160.81 529.75 164.51 541 143.81 534.23 140.26 529.22 127.56 480.33 124.79z"
           className="animable"
@@ -1941,7 +1941,7 @@ function StorySetTeam() {
             MsTransformOrigin: 510.73,
             transformOrigin: 510.73,
           }}
-          id="eljuwtcfxsl1n"
+          id="elicmbwkmjwi"
           fill="#263238"
           className="animable"
         ></path>
@@ -1952,7 +1952,7 @@ function StorySetTeam() {
             MsTransformOrigin: 512.867,
             transformOrigin: 512.867,
           }}
-          id="elh5fkkucrrh"
+          id="elvecg76z85c9"
           fill="#263238"
           className="animable"
         ></path>
@@ -1963,7 +1963,7 @@ function StorySetTeam() {
             MsTransformOrigin: 496.665,
             transformOrigin: 496.665,
           }}
-          id="elrnqqjk0vqt"
+          id="el5sxnwb08poj"
           fill="#263238"
           className="animable"
         ></path>
@@ -1974,7 +1974,7 @@ function StorySetTeam() {
             MsTransformOrigin: 626.007,
             transformOrigin: 626.007,
           }}
-          id="elotpc5vb9fyf"
+          id="elm9ecib0ar7l"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -1984,7 +1984,7 @@ function StorySetTeam() {
             MsTransformOrigin: 538.4,
             transformOrigin: 538.4,
           }}
-          id="elbt7gkgudukn"
+          id="elcxliynvwmja"
           fill="#407BFF"
           d="M548.99 145.87L536.07 169.62 527.81 165.29 540.72 141.53 548.99 145.87z"
           className="animable"
@@ -1995,12 +1995,12 @@ function StorySetTeam() {
             MsTransformOrigin: 543.98,
             transformOrigin: 543.98,
           }}
-          id="el1xiosyukk3k"
+          id="elge9xymmomef"
           className="animable"
           opacity="0.3"
         >
           <path
-            id="elod9vq62p0h"
+            id="elegiy4iw6frt"
             className="animable"
             style={{
               WebkitTransformOrigin: 543.98,
@@ -2016,7 +2016,7 @@ function StorySetTeam() {
             MsTransformOrigin: 538.285,
             transformOrigin: 538.285,
           }}
-          id="elrn35fccflj"
+          id="elp8x64ev6gf8"
           className="animable"
           opacity="0.5"
         >
@@ -2026,7 +2026,7 @@ function StorySetTeam() {
               MsTransformOrigin: 538.285,
               transformOrigin: 538.285,
             }}
-            id="el76x6jlbo0h5"
+            id="elpuc0de9heng"
             fill="#FFF"
             d="M531.35 158.78L543.29 155.82 545.22 152.8 532.94 155.84 531.35 158.78z"
             className="animable"
@@ -2038,12 +2038,12 @@ function StorySetTeam() {
             MsTransformOrigin: 650.64,
             transformOrigin: 650.64,
           }}
-          id="el9w1hdhfrdtm"
+          id="el3iws4qroio7"
           className="animable"
           opacity="0.2"
         >
           <path
-            id="elsipn1e0nfh"
+            id="elms0rgkb47v"
             d="M648.65 199.63a24.23 24.23 0 01.61 25.63z"
             className="animable"
             style={{
@@ -2060,7 +2060,7 @@ function StorySetTeam() {
             MsTransformOrigin: 620.765,
             transformOrigin: 620.765,
           }}
-          id="el3it7zil646y"
+          id="elqeu6vbz9tw"
           fill="#263238"
           className="animable"
         ></path>
@@ -2071,7 +2071,7 @@ function StorySetTeam() {
             MsTransformOrigin: 617.829,
             transformOrigin: 617.829,
           }}
-          id="elpx8509829a8"
+          id="elf4rtrhl3cfa"
           fill="#263238"
           className="animable"
         ></path>
@@ -2082,7 +2082,7 @@ function StorySetTeam() {
             MsTransformOrigin: 618.165,
             transformOrigin: 618.165,
           }}
-          id="elao1or72jlg7"
+          id="el0y08mtr5x1k"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -2093,7 +2093,7 @@ function StorySetTeam() {
             MsTransformOrigin: 632.081,
             transformOrigin: 632.081,
           }}
-          id="el4lx1hpggy1q"
+          id="ely9uco0xuyu"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -2104,7 +2104,7 @@ function StorySetTeam() {
             MsTransformOrigin: 618.184,
             transformOrigin: 618.184,
           }}
-          id="elztld5heu27"
+          id="ele3qpal17vpv"
           fill="#263238"
           className="animable"
         ></path>
@@ -2115,7 +2115,7 @@ function StorySetTeam() {
             MsTransformOrigin: 620.23,
             transformOrigin: 620.23,
           }}
-          id="elpfpezvtcxe"
+          id="elouom7r6o5ii"
           fill="#263238"
           className="animable"
         ></path>
@@ -2126,7 +2126,7 @@ function StorySetTeam() {
             MsTransformOrigin: 615.117,
             transformOrigin: 615.117,
           }}
-          id="el0u2p0uhvck9q"
+          id="elybpywxi4iyp"
           fill="#263238"
           className="animable"
         ></path>
@@ -2137,7 +2137,7 @@ function StorySetTeam() {
             MsTransformOrigin: 610.357,
             transformOrigin: 610.357,
           }}
-          id="el3rbrjmirx7"
+          id="elwcimj9n1d0g"
           fill="#263238"
           className="animable"
         ></path>
@@ -2148,7 +2148,7 @@ function StorySetTeam() {
             MsTransformOrigin: 630.836,
             transformOrigin: 630.836,
           }}
-          id="eloipl7zhanih"
+          id="elqmacajc3ra"
           fill="#263238"
           className="animable"
         ></path>
@@ -2159,7 +2159,7 @@ function StorySetTeam() {
             MsTransformOrigin: 624.403,
             transformOrigin: 624.403,
           }}
-          id="el8jk5obe7yqx"
+          id="elspjool6wzrb"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -2170,7 +2170,7 @@ function StorySetTeam() {
             MsTransformOrigin: 630.004,
             transformOrigin: 630.004,
           }}
-          id="elsbidpwed4x"
+          id="el2h6bmjql80d"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -2181,7 +2181,7 @@ function StorySetTeam() {
             MsTransformOrigin: 624.331,
             transformOrigin: 624.331,
           }}
-          id="elleh744pzr5"
+          id="elxrifdtj64go"
           fill="#263238"
           className="animable"
         ></path>
@@ -2192,7 +2192,7 @@ function StorySetTeam() {
             MsTransformOrigin: 620.47,
             transformOrigin: 620.47,
           }}
-          id="ela2efjs3jexb"
+          id="elr5gu0msyuof"
           fill="#263238"
           className="animable"
         ></path>
@@ -2203,7 +2203,7 @@ function StorySetTeam() {
             MsTransformOrigin: 617.252,
             transformOrigin: 617.252,
           }}
-          id="elx1i1dae0qkn"
+          id="ellsx59usiix"
           fill="#263238"
           className="animable"
         ></path>
@@ -2214,7 +2214,7 @@ function StorySetTeam() {
             MsTransformOrigin: 614.112,
             transformOrigin: 614.112,
           }}
-          id="elnctg98lxoi"
+          id="ellvcf8hrbkx"
           fill="#263238"
           className="animable"
         ></path>
@@ -2225,7 +2225,7 @@ function StorySetTeam() {
             MsTransformOrigin: 609.139,
             transformOrigin: 609.139,
           }}
-          id="elntbrrb7u9q"
+          id="elmq7m4mzkcv"
           fill="#263238"
           className="animable"
         ></path>
@@ -2236,7 +2236,7 @@ function StorySetTeam() {
             MsTransformOrigin: 627.671,
             transformOrigin: 627.671,
           }}
-          id="el6df2dgy5rdi"
+          id="elijbhzgfz2kb"
           fill="#455A64"
           className="animable"
         ></path>
@@ -2247,7 +2247,7 @@ function StorySetTeam() {
             MsTransformOrigin: 622.473,
             transformOrigin: 622.473,
           }}
-          id="eluquekvttdn"
+          id="elseusx2ib3d"
           fill="#455A64"
           className="animable"
         ></path>
@@ -2258,7 +2258,7 @@ function StorySetTeam() {
             MsTransformOrigin: 622.275,
             transformOrigin: 622.275,
           }}
-          id="eltrf45ikoh9d"
+          id="elc3uzj96633e"
           fill="#455A64"
           className="animable"
         ></path>
@@ -2269,7 +2269,7 @@ function StorySetTeam() {
             MsTransformOrigin: 620.756,
             transformOrigin: 620.756,
           }}
-          id="elgfxc4syzwo"
+          id="elbntl0z5wa5g"
           fill="#455A64"
           className="animable"
         ></path>
@@ -2280,7 +2280,7 @@ function StorySetTeam() {
             MsTransformOrigin: 589.699,
             transformOrigin: 589.699,
           }}
-          id="elp7kofy26pui"
+          id="ele5pm4v2fblt"
           fill="#455A64"
           className="animable"
         ></path>
@@ -2291,7 +2291,7 @@ function StorySetTeam() {
             MsTransformOrigin: 648.345,
             transformOrigin: 648.345,
           }}
-          id="elzns1dqeki"
+          id="elqiaofifdmd"
           fill="#455A64"
           className="animable"
         ></path>
@@ -2301,12 +2301,12 @@ function StorySetTeam() {
             MsTransformOrigin: 600.08,
             transformOrigin: 600.08,
           }}
-          id="elkl1dywhod4d"
+          id="elum5hukf9err"
           className="animable"
           opacity="0.2"
         >
           <path
-            id="elydf7hw8rcj"
+            id="elhbos33zskwt"
             d="M591.88 212.2l2.86 1.29s13.5-17.9 14-28l-14.83 23-2.49-1.32z"
             className="animable"
             style={{
@@ -2323,7 +2323,7 @@ function StorySetTeam() {
             MsTransformOrigin: 648.552,
             transformOrigin: 648.552,
           }}
-          id="elhx3xslreme8"
+          id="elol0tvfcwdz"
           fill="#263238"
           className="animable"
         ></path>
@@ -2334,7 +2334,7 @@ function StorySetTeam() {
             MsTransformOrigin: 610.725,
             transformOrigin: 610.725,
           }}
-          id="ell0jpovecdke"
+          id="el579pixg2kip"
           fill="#263238"
           className="animable"
         ></path>
@@ -2345,7 +2345,7 @@ function StorySetTeam() {
             MsTransformOrigin: 595.398,
             transformOrigin: 595.398,
           }}
-          id="el6hqn0mw341v"
+          id="el58agd6nbq9"
           fill="#263238"
           className="animable"
         ></path>
@@ -2356,7 +2356,7 @@ function StorySetTeam() {
             MsTransformOrigin: 608.698,
             transformOrigin: 608.698,
           }}
-          id="el4q4lsv1rgy8"
+          id="el6czbxz5zbv"
           fill="#FFBE9D"
           className="animable"
         ></path>
@@ -2367,7 +2367,7 @@ function StorySetTeam() {
             MsTransformOrigin: 594.19,
             transformOrigin: 594.19,
           }}
-          id="elyjn79kjz00h"
+          id="eln31vpgghatq"
           fill="#263238"
           className="animable"
         ></path>
@@ -2378,7 +2378,7 @@ function StorySetTeam() {
             MsTransformOrigin: 595.715,
             transformOrigin: 595.715,
           }}
-          id="el1roq9fvu952"
+          id="elaam4hkeil84"
           fill="#263238"
           className="animable"
         ></path>
@@ -2389,7 +2389,7 @@ function StorySetTeam() {
             MsTransformOrigin: 609.16,
             transformOrigin: 609.16,
           }}
-          id="elamc4eu2ohy"
+          id="elcrsa0wl2j9"
           fill="#263238"
           className="animable"
         ></path>
@@ -2400,7 +2400,7 @@ function StorySetTeam() {
             MsTransformOrigin: 611.736,
             transformOrigin: 611.736,
           }}
-          id="el67h1xwd6o0e"
+          id="elhguri2h90x"
           fill="#263238"
           className="animable"
         ></path>
@@ -2411,7 +2411,7 @@ function StorySetTeam() {
             MsTransformOrigin: 601.111,
             transformOrigin: 601.111,
           }}
-          id="eluxehu7umi1m"
+          id="el5czmard461h"
           fill="#263238"
           className="animable"
         ></path>
@@ -2422,7 +2422,7 @@ function StorySetTeam() {
             MsTransformOrigin: 609.185,
             transformOrigin: 609.185,
           }}
-          id="eltszhfwqtyt"
+          id="elf3xepot2t4"
           fill="#EB996E"
           className="animable"
         ></path>
@@ -2433,7 +2433,7 @@ function StorySetTeam() {
             MsTransformOrigin: 605.841,
             transformOrigin: 605.841,
           }}
-          id="elgl0oz818n7b"
+          id="eliw1meeby6l"
           fill="#EB996E"
           className="animable"
         ></path>
@@ -2444,7 +2444,7 @@ function StorySetTeam() {
             MsTransformOrigin: 605.102,
             transformOrigin: 605.102,
           }}
-          id="elnt574h1gwuo"
+          id="elyiyshy5qiui"
           fill="#263238"
           className="animable"
         ></path>
@@ -2455,7 +2455,7 @@ function StorySetTeam() {
             MsTransformOrigin: 611.439,
             transformOrigin: 611.439,
           }}
-          id="eloihqgctlz7"
+          id="elga6lua5lwgo"
           fill="#263238"
           className="animable"
         ></path>
@@ -2466,7 +2466,7 @@ function StorySetTeam() {
             MsTransformOrigin: 595.429,
             transformOrigin: 595.429,
           }}
-          id="elhpiwdu7ok0n"
+          id="elubq92pzct5"
           fill="#263238"
           className="animable"
         ></path>
@@ -2477,7 +2477,7 @@ function StorySetTeam() {
             MsTransformOrigin: 590.955,
             transformOrigin: 590.955,
           }}
-          id="el1v8u9okryqc"
+          id="elberh7rxw5v"
           fill="#455A64"
           className="animable"
         ></path>
@@ -2488,7 +2488,7 @@ function StorySetTeam() {
             MsTransformOrigin: 618.387,
             transformOrigin: 618.387,
           }}
-          id="elfoc6j8hm0ws"
+          id="ely7kx4nayjgn"
           fill="#263238"
           className="animable"
         ></path>
@@ -2499,7 +2499,7 @@ function StorySetTeam() {
             MsTransformOrigin: 628.414,
             transformOrigin: 628.414,
           }}
-          id="el5hy578drlt6"
+          id="el3kvoj7r45r7"
           fill="#FFBE9D"
           className="animable"
         ></path>
@@ -2510,7 +2510,7 @@ function StorySetTeam() {
             MsTransformOrigin: 628.686,
             transformOrigin: 628.686,
           }}
-          id="elhgeczm7a6i7"
+          id="el7nery3uo9lo"
           fill="#EB996E"
           className="animable"
         ></path>
@@ -2521,7 +2521,7 @@ function StorySetTeam() {
             MsTransformOrigin: 619.351,
             transformOrigin: 619.351,
           }}
-          id="elp81e35b8y4o"
+          id="el6kvxnz65fxf"
           fill="#455A64"
           className="animable"
         ></path>
@@ -2532,7 +2532,7 @@ function StorySetTeam() {
             MsTransformOrigin: 632.184,
             transformOrigin: 632.184,
           }}
-          id="el1sz4j2i3ujb"
+          id="el5j156hs4dkf"
           fill="#263238"
           className="animable"
         ></path>
@@ -2543,7 +2543,7 @@ function StorySetTeam() {
             MsTransformOrigin: 620.069,
             transformOrigin: 620.069,
           }}
-          id="el2n2jwim6een"
+          id="elt0q0uuwlgfr"
           fill="#455A64"
           className="animable"
         ></path>
@@ -2554,7 +2554,7 @@ function StorySetTeam() {
             MsTransformOrigin: 607.946,
             transformOrigin: 607.946,
           }}
-          id="elv4k43s6cywh"
+          id="elmrm4ie44mp"
           fill="#263238"
           className="animable"
         ></path>
@@ -2565,7 +2565,7 @@ function StorySetTeam() {
             MsTransformOrigin: 626.659,
             transformOrigin: 626.659,
           }}
-          id="elcpgt7jhex55"
+          id="el2iyk99ufzwk"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -2576,7 +2576,7 @@ function StorySetTeam() {
             MsTransformOrigin: 605.51,
             transformOrigin: 605.51,
           }}
-          id="ela2vd6407uvu"
+          id="eltwn5u78e0co"
           fill="#263238"
           className="animable"
         ></path>
@@ -2587,7 +2587,7 @@ function StorySetTeam() {
             MsTransformOrigin: 611.055,
             transformOrigin: 611.055,
           }}
-          id="el6tzrt7lqsvi"
+          id="elm1eqman2qbj"
           fill="#263238"
           className="animable"
         ></path>
@@ -2598,7 +2598,7 @@ function StorySetTeam() {
             MsTransformOrigin: 640.957,
             transformOrigin: 640.957,
           }}
-          id="elhyx4mmrggge"
+          id="elezasjbr4e28"
           fill="#263238"
           className="animable"
         ></path>
@@ -2609,7 +2609,7 @@ function StorySetTeam() {
             MsTransformOrigin: 646.399,
             transformOrigin: 646.399,
           }}
-          id="eljmc610dsa3g"
+          id="el9z1q62pfbf"
           fill="#263238"
           className="animable"
         ></path>
@@ -2620,7 +2620,7 @@ function StorySetTeam() {
             MsTransformOrigin: 572.045,
             transformOrigin: 572.045,
           }}
-          id="elxynp75tdfgm"
+          id="el6aaol27pm33"
           fill="#FFBE9D"
           className="animable"
         ></path>
@@ -2631,7 +2631,7 @@ function StorySetTeam() {
             MsTransformOrigin: 566.945,
             transformOrigin: 566.945,
           }}
-          id="el15uf1zk29gl"
+          id="elpfljj2wwyw"
           fill="#EB996E"
           className="animable"
         ></path>
@@ -2642,7 +2642,7 @@ function StorySetTeam() {
             MsTransformOrigin: 557.232,
             transformOrigin: 557.232,
           }}
-          id="elw9cnehuwdun"
+          id="elp9qa0g0q34o"
           fill="#FFBE9D"
           className="animable"
         ></path>
@@ -2652,12 +2652,12 @@ function StorySetTeam() {
             MsTransformOrigin: 611.365,
             transformOrigin: 611.365,
           }}
-          id="elweqyofyuhne"
+          id="elcg1lsll46b"
           className="animable"
           opacity="0.2"
         >
           <path
-            id="el3hihadgch7o"
+            id="elzdt9s58b5"
             d="M611.05 245.29c5.75-.13 11.51-.1 17.25.27 1.16.07 2.68.53 2.64 1.69a1.56 1.56 0 01-1.15 1.3 4.39 4.39 0 01-1.84.06L612.62 247a46 46 0 00-20.62 1.54l-.21-1.26s16.02-1.91 19.26-1.99z"
             className="animable"
             style={{
@@ -2669,7 +2669,7 @@ function StorySetTeam() {
         </g>
       </g>
       <g
-        id="freepik--character-1--inject-22"
+        id="freepik--character-1--inject-2"
         className="animable"
         style={{
           WebkitTransformOrigin: 174.879,
@@ -2683,7 +2683,7 @@ function StorySetTeam() {
             MsTransformOrigin: 167.41,
             transformOrigin: 167.41,
           }}
-          id="elaeg430or195"
+          id="elxzbgf90h4w"
           fill="#455A64"
           d="M146.51 152.91L188.31 152.91 187.6 179.43 154.01 187.08 146.51 152.91z"
           className="animable"
@@ -2695,7 +2695,7 @@ function StorySetTeam() {
             MsTransformOrigin: 127.917,
             transformOrigin: 127.917,
           }}
-          id="eln312bwzwzw"
+          id="el7q69v23af3u"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -2705,12 +2705,12 @@ function StorySetTeam() {
             MsTransformOrigin: 127.917,
             transformOrigin: 127.917,
           }}
-          id="eltfklgcdesed"
+          id="el3qrh5s1giil"
           className="animable"
           opacity="0.3"
         >
           <path
-            id="elr8q9wgxmlz"
+            id="el30za578xewl"
             d="M138.81 437.44L131 456.36s16.61 14.28 15.5 17.92l-37.22-13.81 10.95-30z"
             className="animable"
             style={{
@@ -2727,7 +2727,7 @@ function StorySetTeam() {
             MsTransformOrigin: 119.947,
             transformOrigin: 119.947,
           }}
-          id="elw37u078x14m"
+          id="elwtxt1xux55k"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -2738,7 +2738,7 @@ function StorySetTeam() {
             MsTransformOrigin: 127.98,
             transformOrigin: 127.98,
           }}
-          id="el42x5ehori2"
+          id="elll18oxpmr8f"
           fill="#263238"
           className="animable"
         ></path>
@@ -2749,7 +2749,7 @@ function StorySetTeam() {
             MsTransformOrigin: 129.616,
             transformOrigin: 129.616,
           }}
-          id="el5m1lb30ncjq"
+          id="eltekjva7ocmq"
           fill="#263238"
           className="animable"
         ></path>
@@ -2760,7 +2760,7 @@ function StorySetTeam() {
             MsTransformOrigin: 133.282,
             transformOrigin: 133.282,
           }}
-          id="el0hj19g8qsch"
+          id="ell2gg8brcksl"
           fill="#263238"
           className="animable"
         ></path>
@@ -2771,7 +2771,7 @@ function StorySetTeam() {
             MsTransformOrigin: 136.726,
             transformOrigin: 136.726,
           }}
-          id="eljathqpmdq6"
+          id="el1w95mkg3tgf"
           fill="#263238"
           className="animable"
         ></path>
@@ -2782,7 +2782,7 @@ function StorySetTeam() {
             MsTransformOrigin: 131.042,
             transformOrigin: 131.042,
           }}
-          id="elad94y5mro6k"
+          id="elhg0iwfwyzuj"
           fill="#263238"
           className="animable"
         ></path>
@@ -2793,7 +2793,7 @@ function StorySetTeam() {
             MsTransformOrigin: 120.16,
             transformOrigin: 120.16,
           }}
-          id="elam2pll7fbtl"
+          id="elaypnsdlp2z5"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -2804,7 +2804,7 @@ function StorySetTeam() {
             MsTransformOrigin: 106.779,
             transformOrigin: 106.779,
           }}
-          id="elemrg9mbmw5"
+          id="elzigvqgd3d8c"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -2815,7 +2815,7 @@ function StorySetTeam() {
             MsTransformOrigin: 120.397,
             transformOrigin: 120.397,
           }}
-          id="elba7qv6r1wo"
+          id="ell9ua2xp74od"
           fill="#263238"
           className="animable"
         ></path>
@@ -2826,7 +2826,7 @@ function StorySetTeam() {
             MsTransformOrigin: 118.114,
             transformOrigin: 118.114,
           }}
-          id="el732zgx5938d"
+          id="elu2hs9dz50uj"
           fill="#263238"
           className="animable"
         ></path>
@@ -2837,7 +2837,7 @@ function StorySetTeam() {
             MsTransformOrigin: 123.023,
             transformOrigin: 123.023,
           }}
-          id="elsyafa4w35eq"
+          id="elkcuhl5cekx"
           fill="#263238"
           className="animable"
         ></path>
@@ -2848,7 +2848,7 @@ function StorySetTeam() {
             MsTransformOrigin: 127.587,
             transformOrigin: 127.587,
           }}
-          id="elmq414ptopq"
+          id="elstwygg263l"
           fill="#263238"
           className="animable"
         ></path>
@@ -2859,7 +2859,7 @@ function StorySetTeam() {
             MsTransformOrigin: 117.425,
             transformOrigin: 117.425,
           }}
-          id="elh6kde51kwqj"
+          id="elyx0rr46ji2o"
           fill="#263238"
           className="animable"
         ></path>
@@ -2870,7 +2870,7 @@ function StorySetTeam() {
             MsTransformOrigin: 141.133,
             transformOrigin: 141.133,
           }}
-          id="el9bp2f0lcc4m"
+          id="elqloqs9sfbfr"
           fill="#263238"
           className="animable"
         ></path>
@@ -2881,7 +2881,7 @@ function StorySetTeam() {
             MsTransformOrigin: 107.351,
             transformOrigin: 107.351,
           }}
-          id="eluygvfftfmp"
+          id="el2xjv5gwjhzs"
           fill="#263238"
           className="animable"
         ></path>
@@ -2892,7 +2892,7 @@ function StorySetTeam() {
             MsTransformOrigin: 127.84,
             transformOrigin: 127.84,
           }}
-          id="elfiuq2v1r5ro"
+          id="eltfif0g6uo5l"
           fill="#455A64"
           className="animable"
         ></path>
@@ -2903,7 +2903,7 @@ function StorySetTeam() {
             MsTransformOrigin: 144.38,
             transformOrigin: 144.38,
           }}
-          id="elkp7zc5vriue"
+          id="eltf87ipoysi8"
           fill="#455A64"
           className="animable"
         ></path>
@@ -2914,7 +2914,7 @@ function StorySetTeam() {
             MsTransformOrigin: 86.5391,
             transformOrigin: 86.5391,
           }}
-          id="elt1mc1xet15"
+          id="el9afzx2nlk1o"
           fill="#263238"
           className="animable"
         ></path>
@@ -2925,7 +2925,7 @@ function StorySetTeam() {
             MsTransformOrigin: 219.965,
             transformOrigin: 219.965,
           }}
-          id="ela38f63vqvhd"
+          id="el25onocqul7b"
           fill="#FAFAFA"
           className="animable"
         ></path>
@@ -2936,7 +2936,7 @@ function StorySetTeam() {
             MsTransformOrigin: 219.994,
             transformOrigin: 219.994,
           }}
-          id="eli8anj6x1v2"
+          id="ela7aqp0ort1d"
           fill="#263238"
           className="animable"
         ></path>
@@ -2946,7 +2946,7 @@ function StorySetTeam() {
             MsTransformOrigin: 224.46,
             transformOrigin: 224.46,
           }}
-          id="el2ifsrk8dzh3"
+          id="elyeikbakrvd"
           fill="#407BFF"
           d="M269.09 208.02L177.89 204.7 179.84 158.93 271.03 162.25 269.09 208.02z"
           className="animable"
@@ -2957,7 +2957,7 @@ function StorySetTeam() {
             MsTransformOrigin: 221.71,
             transformOrigin: 221.71,
           }}
-          id="el1xcgosfina9"
+          id="elxxev8fyk4r"
           fill="#407BFF"
           d="M266.33 272.84L175.14 269.52 177.09 223.75 268.28 227.07 266.33 272.84z"
           className="animable"
@@ -2968,7 +2968,7 @@ function StorySetTeam() {
             MsTransformOrigin: 218.955,
             transformOrigin: 218.955,
           }}
-          id="el9fkxnf3zljo"
+          id="el35n0xbhillp"
           fill="#407BFF"
           d="M263.58 337.66L172.39 334.34 174.33 288.57 265.52 291.89 263.58 337.66z"
           className="animable"
@@ -2979,7 +2979,7 @@ function StorySetTeam() {
             MsTransformOrigin: 216.205,
             transformOrigin: 216.205,
           }}
-          id="el2x2nuytrktw"
+          id="el7uc69jdy47l"
           fill="#407BFF"
           d="M260.83 402.48L169.64 399.16 171.58 353.39 262.77 356.71 260.83 402.48z"
           className="animable"
@@ -2990,12 +2990,12 @@ function StorySetTeam() {
             MsTransformOrigin: 224.46,
             transformOrigin: 224.46,
           }}
-          id="elovs2d7pika"
+          id="elnbct0hm72ni"
           className="animable"
           opacity="0.1"
         >
           <path
-            id="elxq2rwro7qs"
+            id="ely0hhxzhrx6o"
             className="animable"
             style={{
               WebkitTransformOrigin: 224.46,
@@ -3011,12 +3011,12 @@ function StorySetTeam() {
             MsTransformOrigin: 221.71,
             transformOrigin: 221.71,
           }}
-          id="eltzxco0tmb4"
+          id="elgazy9hu660j"
           className="animable"
           opacity="0.2"
         >
           <path
-            id="elasnvt9d0dbs"
+            id="elrqhpkv5aoqs"
             className="animable"
             style={{
               WebkitTransformOrigin: 221.71,
@@ -3032,12 +3032,12 @@ function StorySetTeam() {
             MsTransformOrigin: 218.955,
             transformOrigin: 218.955,
           }}
-          id="elkhe4vgz2ww"
+          id="elyu9eu9572l"
           className="animable"
           opacity="0.3"
         >
           <path
-            id="eltpwxjaje4v8"
+            id="elwcfrnpef28"
             className="animable"
             style={{
               WebkitTransformOrigin: 218.955,
@@ -3053,12 +3053,12 @@ function StorySetTeam() {
             MsTransformOrigin: 216.205,
             transformOrigin: 216.205,
           }}
-          id="el66izygiopzh"
+          id="eli3gs6hlb7rl"
           className="animable"
           opacity="0.4"
         >
           <path
-            id="elr5axlijgubl"
+            id="elc12qh9cfqo9"
             className="animable"
             style={{
               WebkitTransformOrigin: 216.205,
@@ -3075,7 +3075,7 @@ function StorySetTeam() {
             MsTransformOrigin: 212.015,
             transformOrigin: 212.015,
           }}
-          id="el66dm09ct4nj"
+          id="el0161o960ypyi"
           fill="#FAFAFA"
           className="animable"
         ></path>
@@ -3086,7 +3086,7 @@ function StorySetTeam() {
             MsTransformOrigin: 211.788,
             transformOrigin: 211.788,
           }}
-          id="ell0dipqz45c"
+          id="elcnvrse8urgh"
           fill="#263238"
           className="animable"
         ></path>
@@ -3096,7 +3096,7 @@ function StorySetTeam() {
             MsTransformOrigin: 211,
             transformOrigin: 211,
           }}
-          id="elsz6mjfff9wp"
+          id="elsqw6ng9klmg"
           fill="#407BFF"
           d="M254.74 201.6L167.71 202.5 167.26 155.41 254.3 154.5 254.74 201.6z"
           className="animable"
@@ -3107,7 +3107,7 @@ function StorySetTeam() {
             MsTransformOrigin: 211.625,
             transformOrigin: 211.625,
           }}
-          id="el2d35mtwr7j"
+          id="elhfbb5cfzneo"
           fill="#407BFF"
           d="M255.36 268.31L168.33 269.22 167.89 222.12 254.92 221.21 255.36 268.31z"
           className="animable"
@@ -3118,7 +3118,7 @@ function StorySetTeam() {
             MsTransformOrigin: 212.25,
             transformOrigin: 212.25,
           }}
-          id="elqsff7h0miob"
+          id="el7ugxe7vn8r2"
           fill="#407BFF"
           d="M255.99 335.02L168.95 335.93 168.51 288.83 255.54 287.93 255.99 335.02z"
           className="animable"
@@ -3129,7 +3129,7 @@ function StorySetTeam() {
             MsTransformOrigin: 212.87,
             transformOrigin: 212.87,
           }}
-          id="elfzdc7kn820o"
+          id="ely9mgz197rdj"
           fill="#407BFF"
           d="M256.61 401.74L169.57 402.64 169.13 355.55 256.17 354.64 256.61 401.74z"
           className="animable"
@@ -3140,7 +3140,7 @@ function StorySetTeam() {
             MsTransformOrigin: 211.625,
             transformOrigin: 211.625,
           }}
-          id="elbep6gczlxkr"
+          id="elo3nxkrsv1rs"
           className="animable"
           opacity="0.2"
         >
@@ -3150,7 +3150,7 @@ function StorySetTeam() {
               MsTransformOrigin: 211.625,
               transformOrigin: 211.625,
             }}
-            id="el1oegboixjv1"
+            id="elfsbqrq8e2pt"
             fill="#FFF"
             d="M255.36 268.31L168.33 269.22 167.89 222.12 254.92 221.21 255.36 268.31z"
             className="animable"
@@ -3162,7 +3162,7 @@ function StorySetTeam() {
             MsTransformOrigin: 212.25,
             transformOrigin: 212.25,
           }}
-          id="el3zz9iiiixpe"
+          id="elqs9iddgrvmo"
           className="animable"
           opacity="0.3"
         >
@@ -3172,7 +3172,7 @@ function StorySetTeam() {
               MsTransformOrigin: 212.25,
               transformOrigin: 212.25,
             }}
-            id="el1xsj1disyge"
+            id="el2c3ghzf55sd"
             fill="#FFF"
             d="M255.99 335.02L168.95 335.93 168.51 288.83 255.54 287.93 255.99 335.02z"
             className="animable"
@@ -3184,7 +3184,7 @@ function StorySetTeam() {
             MsTransformOrigin: 212.87,
             transformOrigin: 212.87,
           }}
-          id="el3dswumh4mhn"
+          id="eli3ynfey9m2"
           className="animable"
           opacity="0.4"
         >
@@ -3194,7 +3194,7 @@ function StorySetTeam() {
               MsTransformOrigin: 212.87,
               transformOrigin: 212.87,
             }}
-            id="elrqtukvhq3um"
+            id="el5y87oskb66"
             fill="#FFF"
             d="M256.61 401.74L169.57 402.64 169.13 355.55 256.17 354.64 256.61 401.74z"
             className="animable"
@@ -3207,7 +3207,7 @@ function StorySetTeam() {
             MsTransformOrigin: 238.865,
             transformOrigin: 238.865,
           }}
-          id="eli2oplloxpac"
+          id="el4o4p9qgh2qa"
           fill="#455A64"
           className="animable"
         ></path>
@@ -3218,7 +3218,7 @@ function StorySetTeam() {
             MsTransformOrigin: 238.722,
             transformOrigin: 238.722,
           }}
-          id="elqy27rfnp9t9"
+          id="el7qmgx4eovy9"
           fill="#263238"
           className="animable"
         ></path>
@@ -3229,7 +3229,7 @@ function StorySetTeam() {
             MsTransformOrigin: 187.095,
             transformOrigin: 187.095,
           }}
-          id="elpdfdw3mwdkm"
+          id="elzi0jhs4m0mi"
           fill="#8E4842"
           className="animable"
         ></path>
@@ -3240,7 +3240,7 @@ function StorySetTeam() {
             MsTransformOrigin: 181,
             transformOrigin: 181,
           }}
-          id="el3yn7iya4zax"
+          id="ellabs8ft39io"
           fill="#B2655F"
           className="animable"
         ></path>
@@ -3251,7 +3251,7 @@ function StorySetTeam() {
             MsTransformOrigin: 189.029,
             transformOrigin: 189.029,
           }}
-          id="ela7mly4n9sy4"
+          id="eldwy320f05p5"
           fill="#8E4842"
           className="animable"
         ></path>
@@ -3262,7 +3262,7 @@ function StorySetTeam() {
             MsTransformOrigin: 188.475,
             transformOrigin: 188.475,
           }}
-          id="el20o5hv0mhne"
+          id="el07lhp1cuqt6c"
           fill="#8E4842"
           className="animable"
         ></path>
@@ -3273,7 +3273,7 @@ function StorySetTeam() {
             MsTransformOrigin: 184.795,
             transformOrigin: 184.795,
           }}
-          id="el2krdnn7gu64"
+          id="el6rtvh7ng273"
           fill="#8E4842"
           className="animable"
         ></path>
@@ -3284,7 +3284,7 @@ function StorySetTeam() {
             MsTransformOrigin: 207.305,
             transformOrigin: 207.305,
           }}
-          id="el0phggz64z17c"
+          id="elw54d5w0noq8"
           fill="#B2655F"
           className="animable"
         ></path>
@@ -3295,7 +3295,7 @@ function StorySetTeam() {
             MsTransformOrigin: 209.687,
             transformOrigin: 209.687,
           }}
-          id="elo2fdff0k82e"
+          id="el4kerbaunu28"
           fill="#8E4842"
           className="animable"
         ></path>
@@ -3306,7 +3306,7 @@ function StorySetTeam() {
             MsTransformOrigin: 205.716,
             transformOrigin: 205.716,
           }}
-          id="el68l8lahthip"
+          id="elokvapz7uvx"
           fill="#8E4842"
           className="animable"
         ></path>
@@ -3317,7 +3317,7 @@ function StorySetTeam() {
             MsTransformOrigin: 202.137,
             transformOrigin: 202.137,
           }}
-          id="el6piormbbkqb"
+          id="elliwwqda84yg"
           fill="#8E4842"
           className="animable"
         ></path>
@@ -3328,7 +3328,7 @@ function StorySetTeam() {
             MsTransformOrigin: 155.185,
             transformOrigin: 155.185,
           }}
-          id="eln3pzokn6i7o"
+          id="el9dsxo3360f"
           fill="#455A64"
           className="animable"
         ></path>
@@ -3339,7 +3339,7 @@ function StorySetTeam() {
             MsTransformOrigin: 155.14,
             transformOrigin: 155.14,
           }}
-          id="eloj5wkpjpcp"
+          id="elyre0tr318n8"
           fill="#455A64"
           className="animable"
         ></path>
@@ -3350,7 +3350,7 @@ function StorySetTeam() {
             MsTransformOrigin: 155.25,
             transformOrigin: 155.25,
           }}
-          id="elrymlz63v75"
+          id="elyfk75htw96p"
           fill="#455A64"
           className="animable"
         ></path>
@@ -3361,7 +3361,7 @@ function StorySetTeam() {
             MsTransformOrigin: 121.974,
             transformOrigin: 121.974,
           }}
-          id="elm31jq8m6ig"
+          id="el8hcxegtiw0t"
           fill="#455A64"
           className="animable"
         ></path>
@@ -3372,7 +3372,7 @@ function StorySetTeam() {
             MsTransformOrigin: 107.6,
             transformOrigin: 107.6,
           }}
-          id="elbf91a9j9xf"
+          id="elwjiud7ec3yj"
           fill="#263238"
           className="animable"
         ></path>
@@ -3382,12 +3382,12 @@ function StorySetTeam() {
             MsTransformOrigin: 121.213,
             transformOrigin: 121.213,
           }}
-          id="elty7z9avs08m"
+          id="elh0g5zxtl7w"
           className="animable"
           opacity="0.3"
         >
           <path
-            id="elh1gxivu6dd"
+            id="elwd4fzlw8sjh"
             d="M89.35 230.87c1.71 3.63 5.39 6 9.28 7.06a32.68 32.68 0 0012 .31c16-1.87 42.89-17.67 42.44-17.37-20.22 11.38-55.78 15.79-63.72 10z"
             className="animable"
             style={{
@@ -3404,7 +3404,7 @@ function StorySetTeam() {
             MsTransformOrigin: 128.175,
             transformOrigin: 128.175,
           }}
-          id="elpuqupunw8o"
+          id="elit02m4cy65l"
           fill="#263238"
           className="animable"
         ></path>
@@ -3415,7 +3415,7 @@ function StorySetTeam() {
             MsTransformOrigin: 131,
             transformOrigin: 131,
           }}
-          id="elkvcoqs6oqg"
+          id="elgqbongjhdht"
           fill="#263238"
           className="animable"
         ></path>
@@ -3426,7 +3426,7 @@ function StorySetTeam() {
             MsTransformOrigin: 153.59,
             transformOrigin: 153.59,
           }}
-          id="elcbquq5to8qu"
+          id="el5lw9henvy4s"
           fill="#263238"
           className="animable"
         ></path>
@@ -3437,7 +3437,7 @@ function StorySetTeam() {
             MsTransformOrigin: 144.837,
             transformOrigin: 144.837,
           }}
-          id="elt58ap6x748q"
+          id="eltr7xj9ijiv"
           fill="#263238"
           className="animable"
         ></path>
@@ -3448,7 +3448,7 @@ function StorySetTeam() {
             MsTransformOrigin: 95.3679,
             transformOrigin: 95.3679,
           }}
-          id="elpp2lwd31uwg"
+          id="elvu2u2ms7coa"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -3459,7 +3459,7 @@ function StorySetTeam() {
             MsTransformOrigin: 118.324,
             transformOrigin: 118.324,
           }}
-          id="el7j53c81nlyt"
+          id="elswpjmr0riqb"
           fill="#263238"
           className="animable"
         ></path>
@@ -3470,7 +3470,7 @@ function StorySetTeam() {
             MsTransformOrigin: 124.071,
             transformOrigin: 124.071,
           }}
-          id="ela9df2y1o4et"
+          id="elzsmlycrjz5"
           fill="#B2655F"
           className="animable"
         ></path>
@@ -3481,7 +3481,7 @@ function StorySetTeam() {
             MsTransformOrigin: 123.36,
             transformOrigin: 123.36,
           }}
-          id="eldh17m4hz3xl"
+          id="elopht2exwzdl"
           fill="#263238"
           className="animable"
         ></path>
@@ -3492,7 +3492,7 @@ function StorySetTeam() {
             MsTransformOrigin: 139.44,
             transformOrigin: 139.44,
           }}
-          id="elxl8dd4qcom"
+          id="elm4t5a1h37e"
           fill="#263238"
           className="animable"
         ></path>
@@ -3503,7 +3503,7 @@ function StorySetTeam() {
             MsTransformOrigin: 138.451,
             transformOrigin: 138.451,
           }}
-          id="elbnylg39bjxb"
+          id="eldp8i1jbt93"
           fill="#263238"
           className="animable"
         ></path>
@@ -3514,7 +3514,7 @@ function StorySetTeam() {
             MsTransformOrigin: 121.3,
             transformOrigin: 121.3,
           }}
-          id="el6ykm6grouit"
+          id="elo2rond64n4"
           fill="#263238"
           className="animable"
         ></path>
@@ -3525,7 +3525,7 @@ function StorySetTeam() {
             MsTransformOrigin: 132.392,
             transformOrigin: 132.392,
           }}
-          id="elf8zzwg1dgwi"
+          id="el5blgncpl107"
           fill="#263238"
           className="animable"
         ></path>
@@ -3536,7 +3536,7 @@ function StorySetTeam() {
             MsTransformOrigin: 123.06,
             transformOrigin: 123.06,
           }}
-          id="eluowcrmrx1ic"
+          id="el47pzhocx7qz"
           fill="#8E4842"
           className="animable"
         ></path>
@@ -3547,7 +3547,7 @@ function StorySetTeam() {
             MsTransformOrigin: 127.229,
             transformOrigin: 127.229,
           }}
-          id="el3avpap692uv"
+          id="elelllcxfob5d"
           fill="#8E4842"
           className="animable"
         ></path>
@@ -3558,7 +3558,7 @@ function StorySetTeam() {
             MsTransformOrigin: 127.976,
             transformOrigin: 127.976,
           }}
-          id="ele5m2ncg5c7l"
+          id="eli4vawwfrscn"
           fill="#263238"
           className="animable"
         ></path>
@@ -3569,7 +3569,7 @@ function StorySetTeam() {
             MsTransformOrigin: 121.458,
             transformOrigin: 121.458,
           }}
-          id="elvs4zxmnjvd8"
+          id="eltrtf5a7w18"
           fill="#263238"
           className="animable"
         ></path>
@@ -3580,7 +3580,7 @@ function StorySetTeam() {
             MsTransformOrigin: 137.448,
             transformOrigin: 137.448,
           }}
-          id="el7nlqlglu1w"
+          id="elhtm5wja3ir4"
           fill="#263238"
           className="animable"
         ></path>
@@ -3591,7 +3591,7 @@ function StorySetTeam() {
             MsTransformOrigin: 116.722,
             transformOrigin: 116.722,
           }}
-          id="el2hlyjfse5bx"
+          id="el41i20takvhw"
           fill="#263238"
           className="animable"
         ></path>
@@ -3602,7 +3602,7 @@ function StorySetTeam() {
             MsTransformOrigin: 126.6,
             transformOrigin: 126.6,
           }}
-          id="eloncfkbn65kp"
+          id="el3no0r75bk3w"
           fill="#455A64"
           className="animable"
         ></path>
@@ -3613,7 +3613,7 @@ function StorySetTeam() {
             MsTransformOrigin: 120.285,
             transformOrigin: 120.285,
           }}
-          id="elt9evagbamoi"
+          id="eljijku642v2"
           fill="#455A64"
           className="animable"
         ></path>
@@ -3624,7 +3624,7 @@ function StorySetTeam() {
             MsTransformOrigin: 103.021,
             transformOrigin: 103.021,
           }}
-          id="elukh4iy9srx"
+          id="elgqibvw1v81"
           fill="#455A64"
           className="animable"
         ></path>
@@ -3635,7 +3635,7 @@ function StorySetTeam() {
             MsTransformOrigin: 101.051,
             transformOrigin: 101.051,
           }}
-          id="elsslm6kvloh"
+          id="elrnmlzdkn9n"
           fill="#455A64"
           className="animable"
         ></path>
@@ -3646,7 +3646,7 @@ function StorySetTeam() {
             MsTransformOrigin: 141.87,
             transformOrigin: 141.87,
           }}
-          id="el8ktvggdbydl"
+          id="elpxku1pv2kzd"
           fill="#263238"
           className="animable"
         ></path>
@@ -3657,7 +3657,7 @@ function StorySetTeam() {
             MsTransformOrigin: 139.612,
             transformOrigin: 139.612,
           }}
-          id="elkav8emenyu"
+          id="elu1sxfo9jc7j"
           fill="#263238"
           className="animable"
         ></path>
@@ -3668,7 +3668,7 @@ function StorySetTeam() {
             MsTransformOrigin: 103.795,
             transformOrigin: 103.795,
           }}
-          id="elav96om9a436"
+          id="el7mxbc5udsfa"
           fill="#B2655F"
           className="animable"
         ></path>
@@ -3679,7 +3679,7 @@ function StorySetTeam() {
             MsTransformOrigin: 103.593,
             transformOrigin: 103.593,
           }}
-          id="eld6hnod2ulfu"
+          id="ela6njhdb0jet"
           fill="#8E4842"
           className="animable"
         ></path>
@@ -3690,7 +3690,7 @@ function StorySetTeam() {
             MsTransformOrigin: 103.753,
             transformOrigin: 103.753,
           }}
-          id="elwbstya58t0p"
+          id="elwdeg0ohti2"
           fill="#FFF"
           className="animable"
         ></path>
@@ -3701,13 +3701,13 @@ function StorySetTeam() {
             MsTransformOrigin: 92.6638,
             transformOrigin: 92.6638,
           }}
-          id="elmxbz17csd"
+          id="el5pqh18yahys"
           fill="#455A64"
           className="animable"
         ></path>
       </g>
       <g
-        id="freepik--character-2--inject-22"
+        id="freepik--character-2--inject-2"
         className="animable"
         style={{
           WebkitTransformOrigin: 332.74,
@@ -3722,7 +3722,7 @@ function StorySetTeam() {
             MsTransformOrigin: 314.825,
             transformOrigin: 314.825,
           }}
-          id="elgb52a519pe5"
+          id="elwu6hnnif0r"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -3733,7 +3733,7 @@ function StorySetTeam() {
             MsTransformOrigin: 332.661,
             transformOrigin: 332.661,
           }}
-          id="eli393m88nwhe"
+          id="elumlwbzyin4h"
           fill="#263238"
           className="animable"
         ></path>
@@ -3744,7 +3744,7 @@ function StorySetTeam() {
             MsTransformOrigin: 291.472,
             transformOrigin: 291.472,
           }}
-          id="el2hru01l5s2p"
+          id="elopx95g7jxui"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -3755,7 +3755,7 @@ function StorySetTeam() {
             MsTransformOrigin: 305.425,
             transformOrigin: 305.425,
           }}
-          id="elk29kzcdf0x"
+          id="elwaunhkyqaze"
           fill="#263238"
           className="animable"
         ></path>
@@ -3766,7 +3766,7 @@ function StorySetTeam() {
             MsTransformOrigin: 266.259,
             transformOrigin: 266.259,
           }}
-          id="elyekbxgjkf98"
+          id="el62zbrm7y4tp"
           fill="#263238"
           className="animable"
         ></path>
@@ -3777,7 +3777,7 @@ function StorySetTeam() {
             MsTransformOrigin: 278.775,
             transformOrigin: 278.775,
           }}
-          id="elqlr8ja3qyod"
+          id="elvjodvz9qjon"
           fill="#263238"
           className="animable"
         ></path>
@@ -3787,12 +3787,12 @@ function StorySetTeam() {
             MsTransformOrigin: 299.215,
             transformOrigin: 299.215,
           }}
-          id="elevs0scxxcw7"
+          id="elahux886624o"
           className="animable"
           opacity="0.3"
         >
           <path
-            id="elxa0gm2yfju8"
+            id="elp1e57lmael"
             d="M318 399.67c-4.56-2.57-9-4.55-13.78-6.72s-9.44-4.94-12.56-9.15c-5.88-7.93-5.21-19.37-11.23-27.19l1.18 15.78c.36 4.82-.38 9.59 2.73 12.87 2.61 2.76 7.71 4.87 11.33 6.07 7.25 2.39 15.07 5.95 22.33 8.34"
             className="animable"
             style={{
@@ -3808,12 +3808,12 @@ function StorySetTeam() {
             MsTransformOrigin: 334.305,
             transformOrigin: 334.305,
           }}
-          id="elbq8nrnomg88"
+          id="elopuk6oopa09"
           className="animable"
           opacity="0.3"
         >
           <path
-            id="elx9pme72ja09"
+            id="elfx9qg86msd"
             className="animable"
             style={{
               WebkitTransformOrigin: 334.305,
@@ -3830,7 +3830,7 @@ function StorySetTeam() {
             MsTransformOrigin: 270.384,
             transformOrigin: 270.384,
           }}
-          id="elacyzry3j63"
+          id="elaikia59pnpb"
           fill="#263238"
           className="animable"
         ></path>
@@ -3841,7 +3841,7 @@ function StorySetTeam() {
             MsTransformOrigin: 331.275,
             transformOrigin: 331.275,
           }}
-          id="elm1g08u58sm"
+          id="el8tug7i0sjx9"
           fill="#263238"
           className="animable"
         ></path>
@@ -3852,7 +3852,7 @@ function StorySetTeam() {
             MsTransformOrigin: 391.398,
             transformOrigin: 391.398,
           }}
-          id="el8p9taupj2th"
+          id="elh50wc0kfm7q"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -3863,7 +3863,7 @@ function StorySetTeam() {
             MsTransformOrigin: 393.019,
             transformOrigin: 393.019,
           }}
-          id="el2une6r89wzg"
+          id="elyj7l6c9z0v8"
           fill="#263238"
           className="animable"
         ></path>
@@ -3874,7 +3874,7 @@ function StorySetTeam() {
             MsTransformOrigin: 389.305,
             transformOrigin: 389.305,
           }}
-          id="eldkfyfg1mlpw"
+          id="elfmwgl4ntiy"
           fill="#263238"
           className="animable"
         ></path>
@@ -3885,7 +3885,7 @@ function StorySetTeam() {
             MsTransformOrigin: 385.713,
             transformOrigin: 385.713,
           }}
-          id="elx9kkn61428"
+          id="elgdsiauvw0g5"
           fill="#263238"
           className="animable"
         ></path>
@@ -3896,7 +3896,7 @@ function StorySetTeam() {
             MsTransformOrigin: 384.001,
             transformOrigin: 384.001,
           }}
-          id="elvgtabwkt3fg"
+          id="eltzptm574hc"
           fill="#263238"
           className="animable"
         ></path>
@@ -3907,7 +3907,7 @@ function StorySetTeam() {
             MsTransformOrigin: 381.792,
             transformOrigin: 381.792,
           }}
-          id="elam9no033obf"
+          id="elnz2gzbjqmx"
           fill="#263238"
           className="animable"
         ></path>
@@ -3918,7 +3918,7 @@ function StorySetTeam() {
             MsTransformOrigin: 397.162,
             transformOrigin: 397.162,
           }}
-          id="elqq3qd81f4qe"
+          id="elx26fmtdo9l"
           fill="#263238"
           className="animable"
         ></path>
@@ -3929,7 +3929,7 @@ function StorySetTeam() {
             MsTransformOrigin: 390.89,
             transformOrigin: 390.89,
           }}
-          id="elg6l9p0c0p2s"
+          id="elnyotefw2nf"
           fill="#263238"
           className="animable"
         ></path>
@@ -3940,7 +3940,7 @@ function StorySetTeam() {
             MsTransformOrigin: 380.3,
             transformOrigin: 380.3,
           }}
-          id="ell2usictvgwg"
+          id="eldqig9o9fikr"
           fill="#263238"
           className="animable"
         ></path>
@@ -3951,7 +3951,7 @@ function StorySetTeam() {
             MsTransformOrigin: 328.115,
             transformOrigin: 328.115,
           }}
-          id="el6e96q9iqx7"
+          id="el4nmwf6vglr"
           fill="#407BFF"
           className="animable"
         ></path>
@@ -3962,7 +3962,7 @@ function StorySetTeam() {
             MsTransformOrigin: 326.725,
             transformOrigin: 326.725,
           }}
-          id="el149hej8x9ha"
+          id="elsdsavq1oaih"
           fill="#263238"
           className="animable"
         ></path>
@@ -3973,7 +3973,7 @@ function StorySetTeam() {
             MsTransformOrigin: 329.844,
             transformOrigin: 329.844,
           }}
-          id="el4qdg8yc7vt4"
+          id="eleuq64k5s8hv"
           fill="#263238"
           className="animable"
         ></path>
@@ -3984,7 +3984,7 @@ function StorySetTeam() {
             MsTransformOrigin: 332.88,
             transformOrigin: 332.88,
           }}
-          id="elz7dqxu9ik3l"
+          id="elchtuq0cfdbm"
           fill="#263238"
           className="animable"
         ></path>
@@ -3995,7 +3995,7 @@ function StorySetTeam() {
             MsTransformOrigin: 332.955,
             transformOrigin: 332.955,
           }}
-          id="elbz2e0hkc8re"
+          id="elkqo8k5wdxk"
           fill="#263238"
           className="animable"
         ></path>
@@ -4006,7 +4006,7 @@ function StorySetTeam() {
             MsTransformOrigin: 336.581,
             transformOrigin: 336.581,
           }}
-          id="elfarbeutymql"
+          id="elg2o6em4q4r9"
           fill="#263238"
           className="animable"
         ></path>
@@ -4017,7 +4017,7 @@ function StorySetTeam() {
             MsTransformOrigin: 312.491,
             transformOrigin: 312.491,
           }}
-          id="elfw84p1nas8r"
+          id="el6nqel438u4"
           fill="#263238"
           className="animable"
         ></path>
@@ -4028,7 +4028,7 @@ function StorySetTeam() {
             MsTransformOrigin: 322.91,
             transformOrigin: 322.91,
           }}
-          id="elirw1hin1c2c"
+          id="el5xfshdas2di"
           fill="#263238"
           className="animable"
         ></path>
@@ -4039,7 +4039,7 @@ function StorySetTeam() {
             MsTransformOrigin: 327.48,
             transformOrigin: 327.48,
           }}
-          id="eluewl37ash5"
+          id="ela08cev3z28j"
           fill="#263238"
           className="animable"
         ></path>
@@ -4050,7 +4050,7 @@ function StorySetTeam() {
             MsTransformOrigin: 341.085,
             transformOrigin: 341.085,
           }}
-          id="elg8lkk81jos8"
+          id="el5s0eibr1svl"
           fill="#263238"
           className="animable"
         ></path>
@@ -4061,7 +4061,7 @@ function StorySetTeam() {
             MsTransformOrigin: 363.755,
             transformOrigin: 363.755,
           }}
-          id="elzqxn0jhcoop"
+          id="el920ddhoo3a4"
           fill="#263238"
           className="animable"
         ></path>
@@ -4072,7 +4072,7 @@ function StorySetTeam() {
             MsTransformOrigin: 361.9,
             transformOrigin: 361.9,
           }}
-          id="el5mqioatll9"
+          id="elx5gktf82in"
           fill="#455A64"
           className="animable"
         ></path>
@@ -4083,7 +4083,7 @@ function StorySetTeam() {
             MsTransformOrigin: 383.1,
             transformOrigin: 383.1,
           }}
-          id="elfnkexd7dby"
+          id="eljb5by0cgn3"
           fill="#455A64"
           className="animable"
         ></path>
@@ -4094,7 +4094,7 @@ function StorySetTeam() {
             MsTransformOrigin: 380.912,
             transformOrigin: 380.912,
           }}
-          id="elatul9g7yevk"
+          id="elw23yhuzoiaj"
           fill="#455A64"
           className="animable"
         ></path>
@@ -4105,7 +4105,7 @@ function StorySetTeam() {
             MsTransformOrigin: 404.624,
             transformOrigin: 404.624,
           }}
-          id="elqxcsuv6cfdn"
+          id="elc6uz53ojubf"
           fill="#263238"
           className="animable"
         ></path>
@@ -4116,7 +4116,7 @@ function StorySetTeam() {
             MsTransformOrigin: 346.816,
             transformOrigin: 346.816,
           }}
-          id="elhctj0vtufvn"
+          id="eljpa8fbs6pss"
           fill="#E0E0E0"
           className="animable"
         ></path>
@@ -4127,7 +4127,7 @@ function StorySetTeam() {
             MsTransformOrigin: 346.805,
             transformOrigin: 346.805,
           }}
-          id="eln6eeqptirps"
+          id="elc5ifu0vscu8"
           fill="#263238"
           className="animable"
         ></path>
@@ -4138,7 +4138,7 @@ function StorySetTeam() {
             MsTransformOrigin: 363.781,
             transformOrigin: 363.781,
           }}
-          id="el8kadm0by5t"
+          id="eliz2bxe1fhjr"
           fill="#FFF"
           className="animable"
         ></path>
@@ -4149,7 +4149,7 @@ function StorySetTeam() {
             MsTransformOrigin: 322.082,
             transformOrigin: 322.082,
           }}
-          id="el1p5wx60d3wm"
+          id="el4wwqkzfsp7p"
           fill="#263238"
           className="animable"
         ></path>
@@ -4160,7 +4160,7 @@ function StorySetTeam() {
             MsTransformOrigin: 284.204,
             transformOrigin: 284.204,
           }}
-          id="el9p9g33l53g4"
+          id="elzzwpc6039bn"
           fill="#455A64"
           className="animable"
         ></path>
@@ -4171,7 +4171,7 @@ function StorySetTeam() {
             MsTransformOrigin: 334.355,
             transformOrigin: 334.355,
           }}
-          id="elir80d7q5an"
+          id="el2gnbc6rvq5g"
           fill="#455A64"
           className="animable"
         ></path>
@@ -4182,7 +4182,7 @@ function StorySetTeam() {
             MsTransformOrigin: 313.743,
             transformOrigin: 313.743,
           }}
-          id="elqrml9exn6aj"
+          id="elgil5kge9rw"
           fill="#263238"
           className="animable"
         ></path>
@@ -4193,7 +4193,7 @@ function StorySetTeam() {
             MsTransformOrigin: 309.294,
             transformOrigin: 309.294,
           }}
-          id="el5qi99tr2jn"
+          id="eltzrpnetwtle"
           fill="#FFBE9D"
           className="animable"
         ></path>
@@ -4204,7 +4204,7 @@ function StorySetTeam() {
             MsTransformOrigin: 307.4,
             transformOrigin: 307.4,
           }}
-          id="eldztx204b33h"
+          id="elahpba6esc6"
           fill="#EB996E"
           className="animable"
         ></path>
@@ -4215,7 +4215,7 @@ function StorySetTeam() {
             MsTransformOrigin: 325.104,
             transformOrigin: 325.104,
           }}
-          id="ell3lghut6x99"
+          id="el8qe9hks7ym2"
           fill="#263238"
           className="animable"
         ></path>
@@ -4226,7 +4226,7 @@ function StorySetTeam() {
             MsTransformOrigin: 325.093,
             transformOrigin: 325.093,
           }}
-          id="elvlhyj45sbc"
+          id="elw2mo2g1tzua"
           fill="#263238"
           className="animable"
         ></path>
@@ -4237,7 +4237,7 @@ function StorySetTeam() {
             MsTransformOrigin: 309.26,
             transformOrigin: 309.26,
           }}
-          id="elvscpuleeekj"
+          id="elg51n9gqux0j"
           fill="#263238"
           className="animable"
         ></path>
@@ -4248,7 +4248,7 @@ function StorySetTeam() {
             MsTransformOrigin: 308.31,
             transformOrigin: 308.31,
           }}
-          id="elw4yh4yhgsdm"
+          id="el1bw9c36uzy1"
           fill="#263238"
           className="animable"
         ></path>
@@ -4259,7 +4259,7 @@ function StorySetTeam() {
             MsTransformOrigin: 317.401,
             transformOrigin: 317.401,
           }}
-          id="elzkzxv960rwp"
+          id="el8uomheq65p3"
           fill="#263238"
           className="animable"
         ></path>
@@ -4270,7 +4270,7 @@ function StorySetTeam() {
             MsTransformOrigin: 311.844,
             transformOrigin: 311.844,
           }}
-          id="elcs7wkh0nks4"
+          id="elhhwit1v3uxb"
           fill="#263238"
           className="animable"
         ></path>
@@ -4281,7 +4281,7 @@ function StorySetTeam() {
             MsTransformOrigin: 309.257,
             transformOrigin: 309.257,
           }}
-          id="eleu6azacybti"
+          id="ely535xhvqnso"
           fill="#263238"
           className="animable"
         ></path>
@@ -4292,7 +4292,7 @@ function StorySetTeam() {
             MsTransformOrigin: 325.73,
             transformOrigin: 325.73,
           }}
-          id="elve4ciih6v2p"
+          id="elr47yfiwqla"
           fill="#263238"
           className="animable"
         ></path>
@@ -4303,7 +4303,7 @@ function StorySetTeam() {
             MsTransformOrigin: 288.001,
             transformOrigin: 288.001,
           }}
-          id="elrik0tczgy2l"
+          id="el6xhmhl82mnb"
           fill="#FFBE9D"
           className="animable"
         ></path>
@@ -4314,7 +4314,7 @@ function StorySetTeam() {
             MsTransformOrigin: 287.383,
             transformOrigin: 287.383,
           }}
-          id="el7pdd9vza6e2"
+          id="el1qn35v2dray"
           fill="#EB996E"
           className="animable"
         ></path>
@@ -4325,7 +4325,7 @@ function StorySetTeam() {
             MsTransformOrigin: 312.585,
             transformOrigin: 312.585,
           }}
-          id="elltakrt9fd1"
+          id="elpjc2bp4qxpm"
           fill="#263238"
           className="animable"
         ></path>
@@ -4336,7 +4336,7 @@ function StorySetTeam() {
             MsTransformOrigin: 325.89,
             transformOrigin: 325.89,
           }}
-          id="elhojdepmvpe"
+          id="elbx76razzhc"
           fill="#263238"
           className="animable"
         ></path>
@@ -4347,7 +4347,7 @@ function StorySetTeam() {
             MsTransformOrigin: 307.846,
             transformOrigin: 307.846,
           }}
-          id="elhewioo9c9kl"
+          id="elqo1rlqbjrz9"
           fill="#263238"
           className="animable"
         ></path>
@@ -4358,7 +4358,7 @@ function StorySetTeam() {
             MsTransformOrigin: 317.218,
             transformOrigin: 317.218,
           }}
-          id="elc5g5hrsiigd"
+          id="ely5fjily6kr"
           fill="#263238"
           className="animable"
         ></path>
@@ -4369,7 +4369,7 @@ function StorySetTeam() {
             MsTransformOrigin: 295.515,
             transformOrigin: 295.515,
           }}
-          id="elg9ekdje6uuk"
+          id="el5updvgtcgqw"
           fill="#263238"
           className="animable"
         ></path>

@@ -4,6 +4,8 @@ import Bio from "./sections/bio/BioSummary"
 import ControlledAccordions from "./sections/workexp/Accordion"
 import FluidContainer from "./components/layouts/FluidContainer"
 import ProfSkills from "./sections/skills/ProfSkills"
+
+import Projects from "./sections/projs/Projects"
 import './assets/reset.css'
 import './assets/fonts.css'
 import './css/global.css'
@@ -19,7 +21,8 @@ function App() {
      <FluidContainer >
      < ProfSkills />
       </FluidContainer> 
-     
+
+     <Projects />
     </main>
   )
 }
