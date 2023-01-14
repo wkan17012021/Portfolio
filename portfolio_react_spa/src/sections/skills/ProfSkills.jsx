@@ -13,7 +13,13 @@ const skills = [
 
 const ProfSkills = () => {
     return ( 
-        <section></section>
+        <div>
+            <ul>
+                {skills.map(skill => {
+                    return <li>{skill}</li>
+                })}
+            </ul>
+        </div>
      );
 }
  

@@ -1,9 +1,13 @@
 import React from "react";
+import StorySetTeam from "../../sections/skills/StorySetTeam";
 
-export default FluidContainer = () => {
+const FluidContainer = ({children}) => {
     return ( 
         <section className="fluid-container">
-        Some content
+            <StorySetTeam />
+        {children}
         </section>
      );
 }
+
+export default FluidContainer;

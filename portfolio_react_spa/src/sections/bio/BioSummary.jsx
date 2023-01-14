@@ -1,7 +1,7 @@
 import React from "react";
 import BioData from "../../data/bio"
 import StorySetCoder from "./StorySetCoder.jsx"
-import "../../css/coderSVG.css"
+import "../../css/storysetsvg.css"
 
 
 const Bio = () => {
