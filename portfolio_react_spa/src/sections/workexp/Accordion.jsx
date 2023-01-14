@@ -4,7 +4,7 @@ import AccordionSummary from '@mui/material/AccordionSummary';
 import AccordionDetails from '@mui/material/AccordionDetails';
 import Typography from '@mui/material/Typography';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
-import accordionEntry from '../../data/workExp';
+import workExp from '../../data/workExp';
 
 export default function ControlledAccordions() {
   const [expanded, setExpanded] = React.useState(false);
@@ -20,9 +20,9 @@ export default function ControlledAccordions() {
           <Typography>Tech Experience</Typography>
         </AccordionSummary>
       </Accordion>
-      {accordionEntry.techJobs.map(job => {
+      {workExp.techJobs.map(job => {
         return (
-          <Accordion expanded={expanded === job.panelNum} onChange={handleChange(`${job.panelNum}`)}>
+          <Accordion key={job.id} expanded={expanded === job.panelNum} onChange={handleChange(`${job.panelNum}`)}>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
           aria-controls={job.ariaControls}
@@ -46,9 +46,9 @@ export default function ControlledAccordions() {
           <Typography>Non-Tech Experience</Typography>
         </AccordionSummary>
       </Accordion>
-      {accordionEntry.nonTechjobs.map(job => {
+      {workExp.nonTechjobs.map(job => {
         return (
-          <Accordion expanded={expanded === job.panelNum} onChange={handleChange(`${job.panelNum}`)}>
+          <Accordion key={job.id} expanded={expanded === job.panelNum} onChange={handleChange(`${job.panelNum}`)}>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
           aria-controls={job.ariaControls}
