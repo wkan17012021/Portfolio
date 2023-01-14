@@ -4,7 +4,7 @@ import ControlledAccordions from "./sections/workexp/Accordion"
 import Bio from "./sections/bio/BioSummary"
 import './assets/reset.css'
 import './assets/fonts.css'
-import './assets/global.css'
+import './css/global.css'
 import "./css/hero.css"
 
 function App() {
