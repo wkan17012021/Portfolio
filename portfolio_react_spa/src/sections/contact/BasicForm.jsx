@@ -1,8 +1,8 @@
 import * as React from "react";
 import Box from "@mui/material/Box";
 import TextField from "@mui/material/TextField";
+import Typography from '@mui/material/Typography';
 
-//
 const BasicForm = () => {
   return (
     <Box
@@ -19,7 +19,7 @@ const BasicForm = () => {
       netlify-honeypot="bot-field"
       onSubmit="submit"
     >
-      <h2 id="contact-section">Reach out to Me</h2>
+      <Typography id="contact-section" variant="h3" mt={3}  gutterBottom>Reach out to Me</Typography>
       <p class="hidden">
         <label>
           Do not fill this out if you are human:{" "}

@@ -1,7 +1,7 @@
 import ResponsiveAppBar from "./sections/navigation/Nav"
 import Hero from "./sections/hero/MainHero"
 import Bio from "./sections/bio/BioSummary"
-import ControlledAccordions from "./sections/workexp/Accordion"
+import WorkExpAccordions from "./sections/workexp/WorkExpAccordions"
 import FluidContainer from "./components/layouts/FluidContainer"
 import ProfSkills from "./sections/skills/ProfSkills"
 import Projects from "./sections/projs/Projects"
@@ -22,7 +22,7 @@ function App() {
      <FluidContainer >
      < ProfSkills />
      </FluidContainer> 
-     <ControlledAccordions />
+     <WorkExpAccordions />
      <Projects />
      <SocialGrid />
       <FetchBlogData />

@@ -6,7 +6,7 @@ import Typography from '@mui/material/Typography';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import workExp from '../../data/workExp';
 
-export default function ControlledAccordions() {
+export default function WorkExpAccordions() {
   const [expanded, setExpanded] = React.useState(false);
 
   const handleChange = (panel) => (event, isExpanded) => {
@@ -15,6 +15,9 @@ export default function ControlledAccordions() {
  
   return (
     <section id="work-exp-section" className='work-exp-container'>
+       <Typography variant="h2" mt={3}  gutterBottom>
+        Work Experience
+      </Typography>
        <Accordion disabled>
         <AccordionSummary>
           <Typography>Tech Experience</Typography>

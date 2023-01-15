@@ -4,8 +4,8 @@ import StorySetTeam from "../../sections/skills/StorySetTeam";
 const FluidContainer = ({children}) => {
     return ( 
         <section className="fluid-container">
+            {children}
             <StorySetTeam />
-        {children}
         </section>
      );
 }

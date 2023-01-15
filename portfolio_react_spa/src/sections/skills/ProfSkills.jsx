@@ -1,4 +1,5 @@
 import React from "react";
+import Typography from '@mui/material/Typography';
 
 const skills = [
   {
@@ -43,13 +44,16 @@ const skills = [
 
 const ProfSkills = () => {
   return (
-    <div>
+    <section>
+             <Typography variant="h2" mt={3}  gutterBottom>
+        Professional Skills
+      </Typography>
       <ul>
         {skills.map((skill) => {
           return <li key={skill.id}>{skill.skillDetail}</li>;
         })}
       </ul>
-    </div>
+    </section>
   );
 };
 

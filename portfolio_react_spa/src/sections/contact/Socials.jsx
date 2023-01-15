@@ -3,6 +3,7 @@ import { styled } from '@mui/material/styles';
 import Box from '@mui/material/Box';
 import Paper from '@mui/material/Paper';
 import Grid from '@mui/material/Unstable_Grid2';
+import Typography from '@mui/material/Typography';
 import BasicForm from './BasicForm';
 
 const Item = styled(Paper)(({ theme }) => ({
@@ -16,6 +17,9 @@ const Item = styled(Paper)(({ theme }) => ({
 export default function SocialGrid() {
   return (
     <section id="contact-section" className='social-grid-wrapper'>
+      <Typography variant="h2" mt={3}  gutterBottom>
+        Contact
+      </Typography>
         <Box sx={{ flexGrow: 1 }}>
       <Grid container spacing={1}>
         <Grid xs={12} sm={6} md={3} lg={2}>
