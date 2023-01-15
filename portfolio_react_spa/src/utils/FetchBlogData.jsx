@@ -40,7 +40,7 @@ const FetchBlogData = () => {
       });
   }, []);
 
-  return <div>{blogData && <Blogs blogs={blogData} />}</div>;
+  return <section id="blogs-section">{blogData && <Blogs blogs={blogData} />}</section>;
 };
 
 export default FetchBlogData;

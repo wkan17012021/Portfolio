@@ -40,6 +40,7 @@ export default function Blogs(blogData) {
               href={`https://the-dog-can-blog.hashnode.dev/${item.slug}`}
               hrefLang="en"
               target='_blank'
+              rel="noreferrer"
             >
               <h3>{item.title}</h3>
               <img

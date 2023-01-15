@@ -19,7 +19,7 @@ const BasicForm = () => {
       netlify-honeypot="bot-field"
       onSubmit="submit"
     >
-      <h2>Reach out to Me</h2>
+      <h2 id="contact-section">Reach out to Me</h2>
       <p class="hidden">
         <label>
           Do not fill this out if you are human:{" "}

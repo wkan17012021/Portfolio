@@ -26,7 +26,7 @@ const projList = [
 
 const Projects = () => {
     return ( 
-        <section>
+        <section id="proj-section">
             <h2>Projects</h2>
             {projList.map(proj => {
                 return proj.url ?
@@ -49,7 +49,7 @@ const Projects = () => {
                 </CardActionArea>
                 <CardActions>
                 <Button size="small" color="primary">
-          <a href={proj.url} hrefLang="en" target="_blank">Share</a>
+          <a href={proj.url} hrefLang="en" target="_blank" rel="noreferrer">Share</a>
         </Button>
                 </CardActions>
               </Card>

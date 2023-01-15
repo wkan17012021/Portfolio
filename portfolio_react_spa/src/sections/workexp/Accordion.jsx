@@ -14,7 +14,7 @@ export default function ControlledAccordions() {
   };
  
   return (
-    <section className='work-exp-container'>
+    <section id="work-exp-section" className='work-exp-container'>
        <Accordion disabled>
         <AccordionSummary>
           <Typography>Tech Experience</Typography>

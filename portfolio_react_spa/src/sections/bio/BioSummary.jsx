@@ -4,7 +4,7 @@ import "../../css/storysetsvg.css";
 
 const Bio = () => {
   return (
-    <section>
+    <section id="bio-section">
       <div>
         <h2>
           Entry-level developer seeking web and software development

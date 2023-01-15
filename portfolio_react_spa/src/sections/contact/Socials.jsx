@@ -15,7 +15,7 @@ const Item = styled(Paper)(({ theme }) => ({
 
 export default function SocialGrid() {
   return (
-    <section className='social-grid-wrapper'>
+    <section id="contact-section" className='social-grid-wrapper'>
         <Box sx={{ flexGrow: 1 }}>
       <Grid container spacing={1}>
         <Grid xs={12} sm={6} md={3} lg={2}>

@@ -19,10 +19,10 @@ function App() {
      <ResponsiveAppBar />
      <Hero />
      <Bio />
-     <ControlledAccordions />
      <FluidContainer >
      < ProfSkills />
      </FluidContainer> 
+     <ControlledAccordions />
      <Projects />
      <SocialGrid />
       <FetchBlogData />
