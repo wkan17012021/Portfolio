@@ -4,8 +4,10 @@ import Bio from "./sections/bio/BioSummary"
 import ControlledAccordions from "./sections/workexp/Accordion"
 import FluidContainer from "./components/layouts/FluidContainer"
 import ProfSkills from "./sections/skills/ProfSkills"
-
 import Projects from "./sections/projs/Projects"
+import SocialGrid from "./sections/contact/Socials"
+
+import FetchBlogData from "./utils/FetchBlogData"
 import './assets/reset.css'
 import './assets/fonts.css'
 import './css/global.css'
@@ -20,9 +22,10 @@ function App() {
      <ControlledAccordions />
      <FluidContainer >
      < ProfSkills />
-      </FluidContainer> 
-
+     </FluidContainer> 
      <Projects />
+     <SocialGrid />
+      <FetchBlogData />
     </main>
   )
 }
