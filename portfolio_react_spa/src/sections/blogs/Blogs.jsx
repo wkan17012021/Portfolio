@@ -1,7 +1,6 @@
 import * as React from "react";
 import Box from "@mui/material/Box";
 import { imageListItemClasses } from "@mui/material/ImageListItem";
-
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 
 const theme = createTheme({

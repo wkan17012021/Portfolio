@@ -4,32 +4,29 @@ import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
 import { Button, CardActionArea, CardActions } from '@mui/material';
+import Link from "@mui/material/Link";
+import Stack from '@mui/material/Stack';
+import { projList } from '../../data/projList';
 
 
-const projList = [
-    {
-        id: 1,
-        title: 'Road Less Travelled',
-        duration: '2021 - Present',
-        url: 'https://theroadlesstravelled.netlify.app/',
-        img: 'src/assets/rlt_placeholder.webp',
-        alt: 'placeholder image of Road Less Travelled Project: geologically themed travel website'
-    },
-    {
-        id: 2,
-        title: 'Pool Club',
-        duration: '2023 - Present',
-        img: 'src/assets/pool_placeholder.webp',
-        alt: 'placeholder image of swimming pool'
-    }
-]
 
 const Projects = () => {
     return ( 
+      
         <section id="proj-section">
-            <h2>Projects</h2>
+           <Typography variant="h2" mt={3}  gutterBottom>
+        Projects
+      </Typography>
+          <Stack 
+          m={4}
+          direction={{ xs: 'column', sm: 'row' }}
+          spacing={{ xs: 4, sm: 8, md: 12 }}
+          alignItems="center"
+          justifyContent="center"
+          >
             {projList.map(proj => {
                 return proj.url ?
+                <Link href={proj.url} hrefLang="en" target="_blank" rel="noreferrer">
                 <Card key={proj.id} sx={{ maxWidth: 345 }}>
                 <CardActionArea>
                   <CardMedia
@@ -49,10 +46,10 @@ const Projects = () => {
                 </CardActionArea>
                 <CardActions>
                 <Button size="small" color="primary">
-          <a href={proj.url} hrefLang="en" target="_blank" rel="noreferrer">Share</a>
+          <Link href={proj.url} hrefLang="en" target="_blank" rel="noreferrer">Go to Project 👉</Link>
         </Button>
                 </CardActions>
-              </Card>
+              </Card></Link>
             :  <Card key={proj.id} sx={{ maxWidth: 345 }}>
             <CardActionArea>
               <CardMedia
@@ -76,7 +73,9 @@ const Projects = () => {
     </Button>
             </CardActions>
           </Card>})} 
+          </Stack>
         </section>
+        
      );
 }
 
