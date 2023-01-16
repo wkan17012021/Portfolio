@@ -6,8 +6,8 @@ import FluidContainer from "./components/layouts/FluidContainer"
 import ProfSkills from "./sections/skills/ProfSkills"
 import Projects from "./sections/projs/Projects"
 import SocialGrid from "./sections/contact/Socials"
-
 import FetchBlogData from "./utils/FetchBlogData"
+import Footer from "./sections/footer/Footer"
 import './assets/reset.css'
 import './assets/fonts.css'
 import './css/global.css'
@@ -26,6 +26,7 @@ function App() {
      <Projects />
      <SocialGrid />
       <FetchBlogData />
+      <Footer blob={"SVG shape created using blobmaker.app"} icons={"Icons chosen from Skyrim Fandom website & icons8"} cartoons={`Cartoon illustrations from Storyset`}/>      
     </main>
   )
 }

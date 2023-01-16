@@ -14,7 +14,7 @@ const theme = createTheme({
     },
   },
 });
-
+// can we make the blogs items stack in column when in mobile and tablet but on dekstop the texdt could appear to the right of the image instead
 export default function Blogs(blogData) {
   return (
     <ThemeProvider theme={theme}>
