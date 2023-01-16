@@ -5,7 +5,7 @@ import "../../css/storysetsvg.css";
 
 const Bio = () => {
   return (
-    <section id="bio-section">
+    <section id="bio-section" className="scroll-mt-offset">
        <Typography variant="h2" mt={3}  gutterBottom>
         Biography
       </Typography>

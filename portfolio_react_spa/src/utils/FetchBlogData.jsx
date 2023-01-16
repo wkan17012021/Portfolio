@@ -40,7 +40,9 @@ const FetchBlogData = () => {
       });
   }, []);
 
-  return <section id="blogs-section">{blogData && <Blogs blogs={blogData} />}</section>;
+  return <section id="blogs-section" className="scroll-mt-offset">
+    {blogData && <Blogs blogs={blogData} />}
+    </section>;
 };
 
 export default FetchBlogData;

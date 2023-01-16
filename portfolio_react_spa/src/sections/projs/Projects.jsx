@@ -12,8 +12,7 @@ import { projList } from '../../data/projList';
 
 const Projects = () => {
     return ( 
-      
-        <section id="proj-section">
+        <section id="proj-section" className="scroll-mt-offset">
            <Typography variant="h2" mt={3}  gutterBottom>
         Projects
       </Typography>

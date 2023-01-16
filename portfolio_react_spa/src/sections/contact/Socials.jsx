@@ -16,8 +16,8 @@ const Item = styled(Paper)(({ theme }) => ({
 
 export default function SocialGrid() {
   return (
-    <section id="contact-section" className='social-grid-wrapper'>
-      <Typography variant="h2" mt={3}  gutterBottom>
+    <section id="contact-section" className='social-grid-wrapper scroll-mt-offset'>
+      <Typography variant="h2" mt={3}  gutterBottom >
         Contact
       </Typography>
         <Box sx={{ flexGrow: 1 }}>

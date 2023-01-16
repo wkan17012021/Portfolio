@@ -14,7 +14,7 @@ export default function WorkExpAccordions() {
   };
  
   return (
-    <section id="work-exp-section" className='work-exp-container'>
+    <section id="work-exp-section" className='work-exp-container croll-mt-offset'>
        <Typography variant="h2" mt={3}  gutterBottom>
         Work Experience
       </Typography>
