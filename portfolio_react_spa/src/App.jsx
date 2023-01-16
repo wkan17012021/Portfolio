@@ -8,8 +8,8 @@ import Projects from "./sections/projs/Projects"
 import SocialGrid from "./sections/contact/Socials"
 import FetchBlogData from "./utils/FetchBlogData"
 import Footer from "./sections/footer/Footer"
-import './assets/reset.css'
-import './assets/fonts.css'
+import './css/reset.css'
+import './css/fonts.css'
 import './css/global.css'
 import "./css/hero.css"
 

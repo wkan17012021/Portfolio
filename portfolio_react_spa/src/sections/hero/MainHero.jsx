@@ -9,7 +9,6 @@ const Hero = () => {
           <div className="flow">
             <p>
               Front-End Developer <span className="pipe">|</span> Netizen <span className="pipe">|</span>  Bug Catcher{" "}
-              
             </p>
             <img
                 className="pokemon-caterpie"
@@ -17,6 +16,7 @@ const Hero = () => {
                 alt="Pokemon creature: Caterpie's face"
               />
           </div>
+          <p>CV available upon request</p>
         </div>
         <img className="bkgnd-profile" src="src/assets/profile-photo.svg" alt="" />
       </div>
