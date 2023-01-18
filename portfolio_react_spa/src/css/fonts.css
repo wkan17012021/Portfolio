@@ -59,3 +59,7 @@
     font-weight: 900;
     src: local('Miracle_5'), url(./fonts/Miracle_5.woff) format('woff');
 }
+
+@import url('./fonts/BODAR.woff');
+@import url('./fonts/Miracle_5.woff');
+@import url('./fonts/Galyon-Bold-Italic.woff');

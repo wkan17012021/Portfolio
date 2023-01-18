@@ -14,6 +14,8 @@ import Favicon from "../../assets/logo.svg";
 import {sections} from "../../data/navSections";
 
 
+
+
 function ResponsiveAppBar() {
   const [anchorElNav, setAnchorElNav] = useState(null);
   const [anchorElUser, setAnchorElUser] = useState(null);
@@ -34,7 +36,10 @@ function ResponsiveAppBar() {
   };
 
   return (
-    <AppBar position="sticky">
+    <AppBar position="sticky"
+    sx={{
+      backgroundColor: "#9da9a0"
+    }}>
       <Container maxWidth="xl">
         <Toolbar disableGutters>
           <Link href={'#'}>
@@ -80,18 +85,24 @@ function ResponsiveAppBar() {
               open={Boolean(anchorElNav)}
               onClose={handleCloseNavMenu}
               sx={{
-                display: { xs: "block", md: "none" },
+                display: { xs: "block", md: "none"}
               }}
             >
               {sections.map((section) => (
                 <MenuItem key={section.id} onClick={handleCloseNavMenu}>
-                  <Link href={section.href} textAlign="center" 
+                  <Link href={section.href} 
+                  className="mobile-menu-link"
+                  textAlign="center"
+                  display='flex'
+                  alignItems='center' 
+                  style={{ textDecoration: 'none', color: 'red' }}
                  >
                     {section.hdg}
                     <img
                       src={section.img}
                       alt={section.alt}
-                      className="menu-icons"
+                      className="menu-icons-mobile"
+                      width={30}
                     />
                   </Link>
                 </MenuItem>
@@ -100,8 +111,16 @@ function ResponsiveAppBar() {
           </Box>
           <Box sx={{ flexGrow: 1, display: { xs: "none", md: "flex" } }}>
             {sections.map((section) => (
-              <Link href={section.href} textAlign="center">
+              <Link href={section.href} 
+              sx={{textDecoration: 'none'}}
+              className="desktop-link"
+              textAlign="center" 
+              display="flex"
+              alignContent="center"
+              marginRight={3}
+              >
                 <Button
+                className="desktop-link-btn"
                   key={section.id}
                   onClick={handleCloseNavMenu}
                   sx={{ my: 2, color: "white", display: "block" }}
@@ -111,7 +130,7 @@ function ResponsiveAppBar() {
                 <img
                   src={section.img}
                   alt={section.alt}
-                  className="menu-icons"
+                  className="menu-icons-desktop"
                 />
               </Link>
             ))}

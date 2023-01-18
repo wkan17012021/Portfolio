@@ -12,9 +12,18 @@ import './css/reset.css'
 import './css/fonts.css'
 import './css/global.css'
 import "./css/hero.css"
+import { ThemeProvider, createTheme } from '@mui/material/styles';
+
+const theme = createTheme({
+  typography : {
+    fontSize: 16,
+    fontFamily: 'Miracle_5'
+  }
+})
 
 function App() {
   return (
+    <ThemeProvider theme={theme}>
     <main className="App">
      <ResponsiveAppBar />
      <Hero />
@@ -28,6 +37,7 @@ function App() {
       <FetchBlogData />
       <Footer blob={"SVG shape created using blobmaker.app"} icons={"Icons chosen from Skyrim Fandom website & icons8"} cartoons={`Cartoon illustrations from Storyset`}/>      
     </main>
+    </ThemeProvider>
   )
 }
 

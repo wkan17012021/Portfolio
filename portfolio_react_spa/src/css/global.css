@@ -4,8 +4,24 @@ html {
 body {
   max-width: 1400px;
   margin: 0 auto;
+  background-color: #C0CAAD;
+}
+
+header {
+  background-color: #9da9a0;
 }
 
 .scroll-mt-offset {
   scroll-margin-top: 10rem;
+}
+
+.menu-icons-mobile, .menu-icons-desktop {
+  width: 30px;
+  margin: auto;
+}
+
+
+.menu-icons-mobile {
+  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(000deg) brightness(0%) contrast(90%);
+  margin-left: 16px;
 }
