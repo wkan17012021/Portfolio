@@ -1,11 +1,12 @@
 import * as React from "react";
+import { Typography } from "@mui/material";
 
 const Hero = () => {
   return (
     <header className="hero">
       <div className="wrapper hero__wrapper">
         <div className="hero__content">
-          <h1 className="hero__headline">William Kan</h1>
+        <Typography variant="h1">William Kan</Typography>
           <div className="flow">
             <p>
               Front-End Developer <span className="pipe">|</span> Netizen <span className="pipe">|</span>  Bug Catcher{" "}

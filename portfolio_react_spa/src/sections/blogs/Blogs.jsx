@@ -13,7 +13,13 @@ const theme = createTheme({
       wide: 1200,
     },
   },
-});
+  typography : {
+    h2: {
+      fontSize: 'clamp(2rem, 3rem, 3.6rem)',
+      fontFamily: 'El Messiri, Iowan Old Style'
+    },
+}})
+
 // can we make the blogs items stack in column when in mobile and tablet but on dekstop the texdt could appear to the right of the image instead
 export default function Blogs(blogData) {
   return (
