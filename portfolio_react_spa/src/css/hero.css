@@ -3,6 +3,7 @@
   position: relative;
   min-height: calc(300px + 15vw);
   display: grid;
+  background: #9da9a0;
 }
 .wrapper {
   max-width: 1170px;
