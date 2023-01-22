@@ -88,6 +88,7 @@ const theme = createTheme({
       body: {
       margin: '0 auto',
       maxWidth: '1400px',
+      minWidth: '340px',
       fontSize: '1rem',
       backgroundColor: '#f8f1ff'
     }}

@@ -10,7 +10,7 @@ export const skills = [
     {
       id: 3,
       skillDetail:
-        "Responsive design, mobile-first and web-accessibile solutions",
+        "Responsive design, mobile-first and web-accessible solutions",
     },
     {
       id: 4,
