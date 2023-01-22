@@ -10,37 +10,23 @@ header {
   scroll-margin-top: 10rem;
 }
 
-/* .menu-icons-mobile,
-.menu-icons-desktop {
-  width: 30px;
-  height: 24px;
-  margin: auto;
-} */
-
-.menu-icons-mobile {
-  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(000deg) brightness(0%)
-    contrast(90%);
-  margin-left: 16px;
-}
-
 .menu-icons-desktop {
       --webkit-filter:  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(000deg) brightness(0%)
     contrast(90%);
   filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(000deg) brightness(0%)
     contrast(90%);
-
 }
 
 body::-webkit-scrollbar {
   width: 1rem;
 }
- 
+
 body::-webkit-scrollbar-track {
   box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);
 }
- 
+
 body::-webkit-scrollbar-thumb {
-   background: linear-gradient(#9da9a0, #aed4e6);
+  background: linear-gradient(#9da9a0, #aed4e6);
   outline: 1px solid slategrey;
   border-radius: 10px;
 }

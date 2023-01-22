@@ -7,12 +7,10 @@ import Menu from "@mui/material/Menu";
 import MenuIcon from "@mui/icons-material/Menu";
 import Container from "@mui/material/Container";
 import Button from "@mui/material/Button";
-import Tooltip from "@mui/material/Tooltip";
 import MenuItem from "@mui/material/MenuItem";
 import Link from "@mui/material/Link";
 import Favicon from "../../assets/logo.svg";
 import {sections} from "../../data/navSections";
-
 
 function ResponsiveAppBar() {
   const [anchorElNav, setAnchorElNav] = useState(null);
@@ -103,23 +101,25 @@ function ResponsiveAppBar() {
                   sx={{ 
                     textDecoration: 'none', 
                     fontFamily: 'El Messiri',
-                    fontWeight: '600',
-                    color: 'black'
+                    fontWeight: '500',
+                    color: 'black',
                  }}
                  >
                     {section.hdg}
-                    <Box component={'image'}>
-                      <img
+                    <Box component='img'
+                    sx={{
+                        width: 30,
+                        height: 24,
+                        mt: 'auto',
+                        ml: 2,
+                        WebkitFilter:'invert(100%) sepia(0%) saturate(0%) hue-rotate(000deg) brightness(0%) contrast(90%)',
+                        filter: 'invert(100%) sepia(0%) saturate(0%) hue-rotate(000deg) brightness(0%) contrast(90%)',
+                      }}
                       src={section.img}
                       alt={section.alt}
-                      className="menu-icons-mobile"
-                      width={30}
-                      sx={{
-                        width: 30,
-                      }}
-                    />
+                      className="test"
+                    >
                     </Box>
-                    
                   </Link>
                 </MenuItem>
               ))}
@@ -144,9 +144,13 @@ function ResponsiveAppBar() {
                 className="desktop-link-btn"
                   key={section.id}
                   onClick={handleCloseNavMenu}
-                  sx={{ my: 2, color: "white", display: "block",  textDecoration: 'none', 
-                  fontFamily: 'El Messiri',
-                  fontWeight: '600' }}
+                  sx={{ 
+                    my: 2, 
+                    color: "white", 
+                    display: "block",  
+                    textDecoration: 'none', 
+                    fontFamily: 'El Messiri',                    fontWeight: '600',
+                    letterSpacing: 1 }}
                 >
                   {section.hdg}
                 </Button>
@@ -155,7 +159,9 @@ function ResponsiveAppBar() {
                   sx={{
                     width: 30,
                     height: 24,
-                    m: 'auto'
+                    m: 'auto',
+                    WebkitFilter:'invert(100%) sepia(0%) saturate(0%) hue-rotate(000deg) brightness(0%) contrast(90%)',
+                    filter: 'invert(100%) sepia(0%) saturate(0%) hue-rotate(000deg) brightness(0%) contrast(90%)',
                   }}
                   src={section.img}
                   alt={section.alt}
