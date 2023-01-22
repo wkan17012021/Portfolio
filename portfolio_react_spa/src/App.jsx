@@ -23,11 +23,7 @@ import ElMessiri700 from './assets/fonts/el-messiri-v18-latin-700.woff';
 import ElMessiri700_2 from './assets/fonts/el-messiri-v18-latin-700.woff2';
 
 
-
 const theme = createTheme({
-  palette : {
-    mode : 'light',
-  },
   typography : {
     fontSize: 16,
     fontFamily: [
@@ -93,7 +89,7 @@ const theme = createTheme({
       margin: '0 auto',
       maxWidth: '1400px',
       fontSize: '1rem',
-      backgroundColor: '#c0caad'
+      backgroundColor: '#f8f1ff'
     }}
     },
   },

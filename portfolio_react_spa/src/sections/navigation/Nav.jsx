@@ -14,7 +14,6 @@ import Favicon from "../../assets/logo.svg";
 import {sections} from "../../data/navSections";
 
 
-
 function ResponsiveAppBar() {
   const [anchorElNav, setAnchorElNav] = useState(null);
   const [anchorElUser, setAnchorElUser] = useState(null);
@@ -109,18 +108,27 @@ function ResponsiveAppBar() {
                  }}
                  >
                     {section.hdg}
-                    <img
+                    <Box component={'image'}>
+                      <img
                       src={section.img}
                       alt={section.alt}
                       className="menu-icons-mobile"
                       width={30}
+                      sx={{
+                        width: 30,
+                      }}
                     />
+                    </Box>
+                    
                   </Link>
                 </MenuItem>
               ))}
             </Menu>
           </Box>
-          <Box sx={{ flexGrow: 1, display: { xs: "none", md: "flex" } }}>
+          <Box sx={{ 
+            flexGrow: 1, 
+            display: { xs: "none", md: "flex" } 
+            }}>
             {sections.map((section) => (
               <Link href={section.href} 
               sx={{ 
@@ -142,11 +150,17 @@ function ResponsiveAppBar() {
                 >
                   {section.hdg}
                 </Button>
-                <img
+                <Box
+                component='img'
+                  sx={{
+                    width: 30,
+                    height: 24,
+                    m: 'auto'
+                  }}
                   src={section.img}
                   alt={section.alt}
-                  className="menu-icons-desktop"
-                />
+                  >
+                </Box>
               </Link>
             ))}
           </Box>
