@@ -7,7 +7,7 @@ import BlogsIcon from "../assets/blogs-icon.png";
 export const sections = [
   {
     id: 1,
-    hdg: "Bio",
+    hdg: "Biography",
     href: "#bio-section",
     img: BioIcon,
     alt: "icon logo depicting a microphone",

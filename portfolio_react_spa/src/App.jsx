@@ -25,6 +25,9 @@ import ElMessiri700_2 from './assets/fonts/el-messiri-v18-latin-700.woff2';
 
 
 const theme = createTheme({
+  palette : {
+    mode : 'light',
+  },
   typography : {
     fontSize: 16,
     fontFamily: [
@@ -83,8 +86,15 @@ const theme = createTheme({
     font-display: swap;
     font-weight: 700;
     src: local('El Messiri'), url(${ElMessiri700}) format("woff"), url(${ElMessiri700_2}) format("woff2");
-}
+},
     `,
+    styleOverrides: {
+      body: {
+      margin: '0 auto',
+      maxWidth: '1400px',
+      fontSize: '1rem',
+      backgroundColor: '#c0caad'
+    }}
     },
   },
 });

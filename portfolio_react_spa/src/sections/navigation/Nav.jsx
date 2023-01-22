@@ -15,7 +15,6 @@ import {sections} from "../../data/navSections";
 
 
 
-
 function ResponsiveAppBar() {
   const [anchorElNav, setAnchorElNav] = useState(null);
   const [anchorElUser, setAnchorElUser] = useState(null);
@@ -43,11 +42,18 @@ function ResponsiveAppBar() {
       <Container maxWidth="xl">
         <Toolbar disableGutters>
           <Link href={'#'}>
-          <img
-            src={Favicon}
+            <Box
+            component="img"
+              sx={{ 
+                display: { xs: "none", md: "flex" },
+                maxHeight: { md: 75 }, 
+                m: 'auto', 
+                p: 1,
+               }}
+               src={Favicon}
             alt="WK initials wrapped inside greater and less than symbols"
-            sx={{ display: { xs: "none", md: "flex" }, mr: 1 }}
-          />
+            >
+            </Box>
           </Link>
           <Box
             sx={{
@@ -95,7 +101,12 @@ function ResponsiveAppBar() {
                   textAlign="center"
                   display='flex'
                   alignItems='center' 
-                  style={{ textDecoration: 'none', color: 'red' }}
+                  sx={{ 
+                    textDecoration: 'none', 
+                    fontFamily: 'El Messiri',
+                    fontWeight: '600',
+                    color: 'black'
+                 }}
                  >
                     {section.hdg}
                     <img
@@ -112,7 +123,9 @@ function ResponsiveAppBar() {
           <Box sx={{ flexGrow: 1, display: { xs: "none", md: "flex" } }}>
             {sections.map((section) => (
               <Link href={section.href} 
-              sx={{textDecoration: 'none'}}
+              sx={{ 
+                textDecoration: 'none', 
+             }}
               className="desktop-link"
               textAlign="center" 
               display="flex"
@@ -123,7 +136,9 @@ function ResponsiveAppBar() {
                 className="desktop-link-btn"
                   key={section.id}
                   onClick={handleCloseNavMenu}
-                  sx={{ my: 2, color: "white", display: "block" }}
+                  sx={{ my: 2, color: "white", display: "block",  textDecoration: 'none', 
+                  fontFamily: 'El Messiri',
+                  fontWeight: '600' }}
                 >
                   {section.hdg}
                 </Button>
