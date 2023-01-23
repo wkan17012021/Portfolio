@@ -9,7 +9,7 @@ export const projList = [
   },
   {
     id: 2,
-    title: "Pool Club",
+    title: "Community Pool Club",
     duration: "2023 - Present",
     img: "src/assets/pool_placeholder.webp",
     alt: "placeholder image of swimming pool",

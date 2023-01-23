@@ -20,13 +20,13 @@ export default function WorkExpAccordions() {
       id="work-exp-section"
       className="work-exp-container croll-mt-offset"
     >
-      <Container>
+      <Container 
+      sx={{marginBottom: 6}}>
         <Box>
            <Typography variant="h2" mt={4} gutterBottom>
           Work Experience
         </Typography>
         </Box>
-       
         <Accordion disabled>
           <AccordionSummary>
             <Typography variant="h3" fontWeight={'bold'}>Tech </Typography>
