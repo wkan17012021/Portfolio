@@ -45,7 +45,7 @@ const theme = createTheme({
       fontFamily: 'El Messiri, Iowan Old Style'
     },
     h4: {
-      fontSize: 'clamp(1.2rem, 1.8rem, 2.8rem)',
+      fontSize: 'clamp(1.2rem, 1.4rem, 2.8rem)',
       fontFamily: 'El Messiri, Iowan Old Style'
     },  
   },

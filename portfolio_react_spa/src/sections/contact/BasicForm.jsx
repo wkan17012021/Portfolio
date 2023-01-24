@@ -10,6 +10,8 @@ const BasicForm = () => {
       component="form"
       sx={{
         "& .MuiTextField-root": { m: 1 },
+        marginTop: 6, 
+        marginBottom: 6,
       }}
       noValidate
       autoComplete="off"
