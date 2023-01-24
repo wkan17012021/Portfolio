@@ -31,11 +31,8 @@ const FetchBlogData = () => {
         return response.json();
       })
       .then((data) => {
-        // console.log(data); observe if the data gets retrieved as promise obj
-        const dataArr = Object.entries(data); // convert to array of nested objs
-        // console.log(dataArr[0][1].user.publication.posts); drill down into nested obj array
-        const blogArr = [...dataArr[0][1].user.publication.posts]; // spread into new array
-        // console.log(blogArr.blogs to access each item);
+        const dataArr = Object.entries(data);
+        const blogArr = [...dataArr[0][1].user.publication.posts]; 
         setBlogData(blogArr);
       });
   }, []);

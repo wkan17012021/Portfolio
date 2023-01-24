@@ -94,7 +94,6 @@ function ResponsiveAppBar() {
               {sections.map((section) => (
                 <MenuItem key={section.id} onClick={handleCloseNavMenu}>
                   <Link href={section.href} 
-                  className="mobile-menu-link"
                   textAlign="center"
                   display='flex'
                   alignItems='center' 
@@ -117,7 +116,6 @@ function ResponsiveAppBar() {
                       }}
                       src={section.img}
                       alt={section.alt}
-                      className="test"
                     >
                     </Box>
                   </Link>
@@ -134,14 +132,12 @@ function ResponsiveAppBar() {
               sx={{ 
                 textDecoration: 'none', 
              }}
-              className="desktop-link"
               textAlign="center" 
               display="flex"
               alignContent="center"
               marginRight={3}
               >
                 <Button
-                className="desktop-link-btn"
                   key={section.id}
                   onClick={handleCloseNavMenu}
                   sx={{ 

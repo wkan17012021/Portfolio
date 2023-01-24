@@ -1,14 +1,15 @@
 import * as React from "react";
 import Box from "@mui/material/Box";
 import TextField from "@mui/material/TextField";
-import Typography from '@mui/material/Typography';
+import Typography from "@mui/material/Typography";
+import { Label } from "@mui/icons-material";
 
 const BasicForm = () => {
   return (
     <Box
       component="form"
       sx={{
-        "& .MuiTextField-root": { m: 1},
+        "& .MuiTextField-root": { m: 1 },
       }}
       noValidate
       autoComplete="off"
@@ -19,23 +20,16 @@ const BasicForm = () => {
       netlify-honeypot="bot-field"
       onSubmit="submit"
     >
-      <Typography 
-      id="contact-section" 
-      variant="h3" 
-      mt={3}  
-      gutterBottom 
-      >Reach out to Me
+      <Typography id="contact-section" variant="h3" mt={3} gutterBottom>
+        Reach out to Me
       </Typography>
-      <p class="hidden">
-        <label>
-          Do not fill this out if you are human:{" "}
-          <input
-            type="text"
-            aria-label="Do not fill this out if you are human"
-            name="bot-field"
-          />
-        </label>
-      </p>
+      <Typography sx={{ display: "none" }}>
+        <Label>Do not fill this out if you are human: </Label>
+        <TextField
+          aria-label="Do not fill this out if you are human"
+          name="bot-field"
+        ></TextField>
+      </Typography>
       <div>
         <TextField
           required

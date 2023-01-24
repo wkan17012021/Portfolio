@@ -35,7 +35,7 @@ export const sections = [
   },
   {
     id: 5,
-    hdg: "Blogs",
+    hdg: "Blog",
     href: "#blogs-section",
     img: BlogsIcon,
     alt: "icon logo depicting an open book and a quiver",

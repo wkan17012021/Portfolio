@@ -3,7 +3,7 @@ html {
 }
 
 .scroll-mt-offset {
-  scroll-margin-top: 10rem;
+  scroll-margin-top: 5rem;
 }
 
 body::-webkit-scrollbar {

@@ -26,7 +26,7 @@ const Item = styled(Paper)(({ theme }) => ({
 
 export default function SocialGrid() {
   return (
-    <section id="contact-section" className='social-grid-wrapper scroll-mt-offset'>
+    <section id="contact-section" className='scroll-mt-offset'>
       <Typography variant="h2" mt={3}  gutterBottom >
         Contact
       </Typography>
@@ -191,9 +191,7 @@ export default function SocialGrid() {
         </Grid>
       </Grid>
     </Box>
-    <div className="contact-container">
     <BasicForm />
-    </div>
     </section>
   );
 }

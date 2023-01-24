@@ -18,7 +18,7 @@ export default function WorkExpAccordions() {
   return (
     <section
       id="work-exp-section"
-      className="work-exp-container croll-mt-offset"
+      className="scroll-mt-offset"
     >
       <Container 
       sx={{marginBottom: 6}}>
