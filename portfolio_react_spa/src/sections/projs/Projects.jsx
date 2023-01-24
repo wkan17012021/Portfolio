@@ -23,8 +23,8 @@ const Projects = () => {
         </Box>
           <Stack 
           m={4}
-          direction={{ xs: 'column', sm: 'row' }}
-          spacing={{ xs: 4, sm: 8, md: 12 }}
+          direction={{ xs: 'column', md: 'row' }}
+          spacing={{ xs: 4, sm: 6, md: 12 }}
           alignItems="center"
           justifyContent="center"
           >
