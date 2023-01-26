@@ -1,6 +1,7 @@
 import * as React from 'react';
 import { styled } from '@mui/material/styles';
 import Box from '@mui/material/Box';
+import Container from "@mui/material/Container";
 import Paper from '@mui/material/Paper';
 import Grid from '@mui/material/Unstable_Grid2';
 import Typography from '@mui/material/Typography';
@@ -27,9 +28,12 @@ const Item = styled(Paper)(({ theme }) => ({
 export default function SocialGrid() {
   return (
     <section id="contact-section" className='scroll-mt-offset'>
-      <Typography variant="h2" mt={3}  gutterBottom >
+      <Container>
+        <Box>
+          <Typography variant="h2" mt={3}  gutterBottom>
         Contact
       </Typography>
+        </Box>
         <Box sx={{ flexGrow: 1, backgroundColor: '#9da9a0', padding: 2 }}>
       <Grid container spacing={1}>
         <Grid xs={12} sm={6} md={3} lg={2}>
@@ -191,7 +195,8 @@ export default function SocialGrid() {
         </Grid>
       </Grid>
     </Box>
-    <BasicForm />
+    <BasicForm /> 
+    </Container>
     </section>
   );
 }

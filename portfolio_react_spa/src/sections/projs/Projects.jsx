@@ -10,8 +10,6 @@ import Link from "@mui/material/Link";
 import Stack from '@mui/material/Stack';
 import { projList } from '../../data/projList';
 
-
-
 const Projects = () => {
     return ( 
         <section id="proj-section" className="scroll-mt-offset">
@@ -52,12 +50,13 @@ const Projects = () => {
                   </CardContent>
                 </CardActionArea>
                 <CardActions>
-                <Button size="small" color="primary">
+                
           <Link href={proj.url} hrefLang="en" target="_blank" rel="noreferrer">Go to Project 👉</Link>
-        </Button>
+        
                 </CardActions>
-              </Card></Link>
-            :  <Card key={proj.id} sx={{ maxWidth: 345 }}>
+              </Card>
+              </Link> :
+              <Card key={proj.id} sx={{ maxWidth: 345 }}>
             <CardActionArea>
               <CardMedia
                 component="img"

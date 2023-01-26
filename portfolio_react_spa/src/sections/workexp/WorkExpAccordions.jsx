@@ -42,7 +42,7 @@ export default function WorkExpAccordions() {
               <AccordionSummary
                 expandIcon={<ExpandMoreIcon />}
                 aria-controls={job.ariaControls}
-                id="panel1bh-header"
+                id={job.panelNum}
               >
                 <Typography sx={{ width: "40%", flexShrink: 0 }}>
                   {job.title}
@@ -72,7 +72,7 @@ export default function WorkExpAccordions() {
               <AccordionSummary
                 expandIcon={<ExpandMoreIcon />}
                 aria-controls={job.ariaControls}
-                id="panel1bh-header"
+                id={job.panelNum}
               >
                 <Typography sx={{ width: "40%", flexShrink: 0 }}>
                   {job.title}

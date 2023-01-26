@@ -1,3 +1,4 @@
+import Container from "@mui/material/Container";
 import { useState, useEffect } from "react";
 import Blogs from "../sections/blogs/Blogs";
 
@@ -38,8 +39,10 @@ const FetchBlogData = () => {
   }, []);
 
   return <section id="blogs-section" className="scroll-mt-offset">
-    {blogData && <Blogs blogs={blogData} />}
-    </section>;
+    <Container>
+      {blogData && <Blogs blogs={blogData} />}
+    </Container>
+    </section>
 };
 
 export default FetchBlogData;

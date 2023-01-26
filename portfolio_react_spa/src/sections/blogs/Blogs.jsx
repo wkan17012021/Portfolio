@@ -2,7 +2,6 @@ import * as React from "react";
 import Container from "@mui/material/Container";
 import Box from "@mui/material/Box";
 import Card from '@mui/material/Card';
-import CardActions from '@mui/material/CardActions';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Link from "@mui/material/Link";
@@ -22,16 +21,19 @@ const theme = createTheme({
   typography : {
     h2: {
       fontSize: 'clamp(2rem, 3rem, 3.6rem)',
-      fontFamily: 'El Messiri, Iowan Old Style'
+      fontFamily: 'El Messiri, Iowan Old Style',
+      fontWeight: 600
     },
 }})
 
 export default function Blogs(blogData) {
   return (
     <ThemeProvider theme={theme}>
-       <Typography variant="h2" mt={3}  gutterBottom>
+        <Box>
+          <Typography variant="h2" mt={3}  gutterBottom>
         Blog
       </Typography>
+        </Box>
       <Container
         sx={{
           height: "500",

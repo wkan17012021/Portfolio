@@ -38,11 +38,13 @@ const theme = createTheme({
     },
     h2: {
       fontSize: 'clamp(2rem, 3rem, 3.6rem)',
-      fontFamily: 'El Messiri, Iowan Old Style'
+      fontFamily: 'El Messiri, Iowan Old Style',
+      fontWeight: 600
     },
     h3: {
       fontSize: 'clamp(1.6rem, 2.4rem, 3.2rem)',
-      fontFamily: 'El Messiri, Iowan Old Style'
+      fontFamily: 'El Messiri, Iowan Old Style',
+      fontWeight: 500
     },
     h4: {
       fontSize: 'clamp(1.2rem, 1.4rem, 2.8rem)',
