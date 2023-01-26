@@ -1,28 +1,15 @@
 import * as React from "react";
 import Box from "@mui/material/Box";
+import Container from "@mui/material/Container";
 import TextField from "@mui/material/TextField";
 import Typography from "@mui/material/Typography";
 import { Label } from "@mui/icons-material";
 
-const BasicForm = () => {
+export default function FormPropsTextFields() {
   return (
-    <Box
-      component="form"
-      sx={{
-        "& .MuiTextField-root": { m: 1 },
-        marginTop: 6, 
-        marginBottom: 6,
-      }}
-      noValidate
-      autoComplete="off"
-      method="POST"
-      name="general-contact"
-      data-netlify="true"
-      data-netlify-recaptcha="true"
-      netlify-honeypot="bot-field"
-      onSubmit="submit"
-    >
-      <Typography id="contact-section" variant="h3" mt={3} gutterBottom>
+    <Container>
+      <Box>
+        <Typography id="contact-section" variant="h3" mt={3} gutterBottom>
         Reach out to Me
       </Typography>
       <Typography sx={{ display: "none" }}>
@@ -32,45 +19,43 @@ const BasicForm = () => {
           name="bot-field"
         ></TextField>
       </Typography>
-      <div>
-        <TextField
-          required
-          error
-          id="name-field"
-          label="Required"
-          helperText="Incorrect entry. Please try again"
-          variant="filled"
-          name="name-field"
-        />
-      </div>
-      <div>
-        <TextField
-          required
-          error
-          id="email-field"
-          label="Required"
-          helperText="Incorrect entry. Please try again"
-          variant="filled"
-          name="email-field"
-        />
-      </div>
-      <div>
-        <TextField
-          required
-          error
-          multiline
-          rows={4}
-          id="query-field"
-          label="Required"
-          helperText="Incorrect entry. Please try again"
-          variant="filled"
-          name="query-field"
-        />
-      </div>
-      <div data-netlify-recaptcha="true"></div>
-      <button type="submit">Send</button>
-    </Box>
-  );
-};
 
-export default BasicForm;
+      </Box>
+      <Box
+      component="form"
+      sx={{
+        '& .MuiTextField-root': { m: 1, width: '50%' },
+      }}
+      noValidate
+      autoComplete="off"
+    >
+      <div>
+        <TextField
+          required
+          id="name-required"
+          label="Full Name"
+          placeholder="Please enter Full Name"
+          variant="filled"
+          color="primary"
+        />
+         <TextField
+          required
+          id="email-required"
+          label="Email Address"
+          placeholder="Please email address"
+          variant="filled"
+        />
+        <TextField
+          required
+          id="body-txt-required"
+          label="Comments or Suggestions"
+          multiline
+          rows={5}
+          placeholder="Please provide your query or comments here"
+          variant="filled"
+        />
+      </div>
+    </Box>
+    </Container>
+  );
+}

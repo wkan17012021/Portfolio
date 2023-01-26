@@ -18,7 +18,7 @@ function Footer(props) {
   const { blob, icons, cartoons } = props;
 
   return (
-    <Box component="footer" sx={{ bgcolor: 'background.paper', py: 6 }}>
+    <Box component="footer" sx={{ py: 6, background: 'linear-gradient(#9da9a0, #aed4e6)', clipPath: 'polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%)'}}>
       <Container maxWidth="lg">
         <Typography variant="h3" align="center">
             Thanks for Reading!
