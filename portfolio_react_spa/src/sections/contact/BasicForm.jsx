@@ -11,7 +11,7 @@ export default function FormPropsTextFields() {
 const [success, setSuccess] = useState(false);
 
 useEffect(() => {
-  if(window.location.search.includes('success=true')) {
+  if ( window.location.search.includes('success=true') ) {
     setSuccess(true);
   }
 }, []);
@@ -38,7 +38,7 @@ useEffect(() => {
       sx={{
         '& .MuiTextField-root': { m: 1, width: '100%' },
       }}
-      noValidate
+      
       autoComplete="off"
       name="contact-form"
       method="POST"
@@ -61,8 +61,9 @@ useEffect(() => {
           id="email-required"
           label="Email Address"
           name="Email Address"
-          placeholder="Please email address"
+          placeholder="Please enter email address"
           variant="filled"
+          type={"email"}
         />
         <TextField
           required
@@ -74,7 +75,7 @@ useEffect(() => {
           placeholder="Please provide your query or comments here"
           variant="filled"
         />
-        <SendBtn type="submit"/>
+        <SendBtn />
       </div>
     </Box>
     </Container>
