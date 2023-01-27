@@ -2,6 +2,8 @@ import * as React from "react";
 import { Typography } from "@mui/material";
 import Box from "@mui/material/Box";
 import Container from "@mui/material/Container";
+import Caterpie from "../../assets/caterpie.png"
+import ProfileImg from "../../assets/profile-photo.svg"
 
 const Hero = () => {
   return (
@@ -28,7 +30,7 @@ const Hero = () => {
             <Box
               component="img"
               className="pokemon-caterpie"
-              src="src/assets/caterpie.png"
+              src={Caterpie}
               alt="Pokemon creature: Caterpie's face"
             ></Box>
           </Container>
@@ -43,7 +45,7 @@ const Hero = () => {
         <Box
           component="img"
           className="bkgnd-profile"
-          src="src/assets/profile-photo.svg"
+          src={ProfileImg}
           alt="hiker sitting on a rock looking out into the sunset with a cityscape backdrop"
         ></Box>
       </div>
