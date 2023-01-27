@@ -87,7 +87,7 @@ export default function SocialGrid() {
             hrefLang="en" 
             target="_blank" 
             rel="noreferrer"
-            href="hashnode.com"
+            href="https://www.hashnode.com"
             >Hashnode</Link>
           </Item>
         </Grid>
@@ -112,7 +112,6 @@ export default function SocialGrid() {
           </Tooltip>
         </Grid>
         <Grid xs={12} sm={6} md={4} lg={3}>
-        <Tooltip title="You can find me on Twitter" placement="top" arrow>
           <Item>Hero section inspiration from Ahmad Shadeed: {" "}
             <Link
             hrefLang="en" 
@@ -122,7 +121,6 @@ export default function SocialGrid() {
             find his article here
             </Link>
             </Item>
-          </Tooltip>
         </Grid>
         <Grid xs={12} sm={6} md={4} lg={4}>
         <Tooltip title="You can find me on Twitter" placement="top" arrow>

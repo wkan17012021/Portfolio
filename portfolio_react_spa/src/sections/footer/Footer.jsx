@@ -6,7 +6,11 @@ import Typography from '@mui/material/Typography';
 
 function Copyright() {
   return (
-    <Typography variant="body2" color="text.secondary" align="center">
+    <Typography variant="body2" 
+    color="text.secondary" 
+    align="center"
+    marginBottom={2}
+    >
       {'Copyright © '}
       {new Date().getFullYear()}
       {'.'}
