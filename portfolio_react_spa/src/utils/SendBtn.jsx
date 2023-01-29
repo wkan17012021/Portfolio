@@ -8,8 +8,12 @@ export default function SendBtn() {
     <Stack direction="row" spacing={2} marginTop={1} marginLeft={1} >
       <Button variant="contained" type="submit" endIcon={<SendIcon />} 
       sx={{
+        textTransform: 'Capitalize',
+        fontFamily: 'ElMesseri',
+        fontWeight: 600,
+        fontSize: '1.4rem',
         backgroundColor: '#9da9a0',
-        ':hover': { bgcolor: '#aed4e6', color:'whitesmoke'}
+        ':hover': { bgcolor: '#aed4e6', color:'#012622'}
       }}
       >
         Send

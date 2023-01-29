@@ -19,3 +19,47 @@ body::-webkit-scrollbar-thumb {
   outline: 1px solid slategrey;
   border-radius: 10px;
 }
+
+@font-face {
+  font-family: ElMessiri;
+  font-style: normal;
+  src: url("/src/assets/fonts/el-messiri-v18-latin-500.woff");
+  format: ("woff");
+  src: url("/src/assets/fonts/el-messiri-v18-latin-500.woff2");
+  format: ("woff2");
+  font-display: swap;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: ElMessiri;
+  font-style: semi-bold;
+  src: url("/src/assets/fonts/el-messiri-v18-latin-600.woff");
+  format: ("woff");
+  src: url("/src/assets/fonts/el-messiri-v18-latin-600.woff2");
+  format: ("woff2");
+  font-display: swap;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: ElMessiri;
+  font-style: bold;
+  src: url("/src/assets/fonts/el-messiri-v18-latin-700.woff");
+  format: ("woff");
+  src: url("/src/assets/fonts/el-messiri-v18-latin-700.woff2");
+  format: ("woff2");
+  font-display: swap;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: AlegreyaSans;
+  font-style: normal;
+  src: url("/src/assets/fonts/alegreya-sans-v24-latin-regular.woff");
+  format: ("woff");
+  src: url("/src/assets/fonts/alegreya-sans-v24-latin-regular.woff2");
+  format: ("woff2");
+  font-display: swap;
+  font-weight: 500;
+}

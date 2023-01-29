@@ -12,7 +12,7 @@ const Hero = () => {
         <Container
           className="hero__content"
         >
-          <Typography variant="h1" fontWeight={700}>
+          <Typography variant="h1" letterSpacing={3}>
             William Kan
           </Typography>
         </Container>
@@ -23,7 +23,7 @@ const Hero = () => {
               marginTop: "0.5rem",
             }}
           >
-            <Typography variant="body1" fontWeight={600}>
+            <Typography variant="body1" fontWeight={600} letterSpacing={2}>
               Front-End Developer <span className="pipe">|</span> Netizen{" "}
               <span className="pipe">|</span> Bug Catcher{" "}
             </Typography>
@@ -38,7 +38,9 @@ const Hero = () => {
           sx={{
             marginTop: "0.5rem",
           }}>
-             <Typography variant="body1">CV available upon request</Typography>
+             <Typography variant="body1" fontWeight={500} letterSpacing={2} sx={{
+              textDecoration: "underline", textUnderlineOffset: "8px"}}
+              >CV available upon request</Typography>
           </Container>
          
         </div>

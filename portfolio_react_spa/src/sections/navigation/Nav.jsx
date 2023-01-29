@@ -36,8 +36,8 @@ function ResponsiveAppBar() {
     sx={{
       backgroundColor: "#9da9a0"
     }}>
-      <Container maxWidth="xl">
-        <Toolbar disableGutters>
+      <Container maxWidth="xl" >
+        <Toolbar disableGutters >
           <Link href={'#'}>
             <Box
             component="img"
@@ -56,7 +56,7 @@ function ResponsiveAppBar() {
             sx={{
               flexGrow: 1,
               justifyContent: "flex-end",
-              display: { xs: "flex", md: "none" },
+              display: { xs: "flex", md: "none"},
             }}
           >
             <IconButton
@@ -74,6 +74,7 @@ function ResponsiveAppBar() {
               <MenuIcon />
             </IconButton>
             <Menu
+             
               id="menu-appbar"
               anchorEl={anchorElNav}
               anchorOrigin={{
@@ -88,20 +89,21 @@ function ResponsiveAppBar() {
               open={Boolean(anchorElNav)}
               onClose={handleCloseNavMenu}
               sx={{
-                display: { xs: "block", md: "none"}
+                display: { xs: "block", md: "none" }
               }}
             >
               {sections.map((section) => (
-                <MenuItem key={section.id} onClick={handleCloseNavMenu}>
+                <MenuItem key={section.id} sx={{backgroundColor: 'red'}} onClick={handleCloseNavMenu}>
                   <Link href={section.href} 
                   textAlign="center"
                   display='flex'
                   alignItems='center' 
                   sx={{ 
                     textDecoration: 'none', 
-                    fontFamily: 'El Messiri',
-                    fontWeight: '500',
-                    color: 'black',
+                    textTransform: 'capitalize', 
+                    fontFamily: 'ElMessiri',                    
+                    fontWeight: '700',
+                    color: '#342E37',
                  }}
                  >
                     {section.hdg}
@@ -144,9 +146,11 @@ function ResponsiveAppBar() {
                     my: 2, 
                     color: "white", 
                     display: "block",  
-                    textDecoration: 'none', 
-                    fontFamily: 'El Messiri',                    fontWeight: '600',
-                    letterSpacing: 1 }}
+                    textDecoration: 'none',
+                    textTransform: 'capitalize', 
+                    fontFamily: 'ElMessiri',                    
+                    fontWeight: '700',
+                    letterSpacing: 1.8 }}
                 >
                   {section.hdg}
                 </Button>
