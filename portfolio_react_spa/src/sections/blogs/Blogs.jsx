@@ -21,8 +21,8 @@ const theme = createTheme({
   typography : {
     h2: {
       fontSize: 'clamp(2rem, 3rem, 3.6rem)',
-      fontFamily: 'El Messiri, Iowan Old Style',
-      fontWeight: 600
+      fontFamily: 'ElMessiri, Iowan Old Style',
+      fontWeight: 700
     },
 }})
 
@@ -57,7 +57,7 @@ export default function Blogs(blogData) {
             target="_blank" 
             rel="noreferrer"
             href={`https://the-dog-can-blog.hashnode.dev/${item.slug}`}>
-              <Card sx={{ maxWidth: 345, margin: '0.5rem' }}>
+              <Card component={"article"} sx={{ maxWidth: 345, margin: '0.5rem' }}>
               <CardMedia
                 component="img"
                 alt="random cover image for blog article"
@@ -65,10 +65,10 @@ export default function Blogs(blogData) {
                 image={item.coverImage}
               />
               <CardContent>
-                <Typography gutterBottom variant="h5" component="div">
+                <Typography gutterBottom fontFamily={'ElMessiri'} fontSize={'1.8rem'} variant="h3">
                   {item.title}
                 </Typography>
-                <Typography variant="body2" color="text.secondary">
+                <Typography variant="body" color="text.secondary" fontFamily={'AlegreyaSans'} fontSize={'1rem'} letterSpacing={'1.2px'}>
                   {item.brief}
                 </Typography>
               </CardContent>
