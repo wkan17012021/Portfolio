@@ -22,7 +22,7 @@ function Footer(props) {
   const { blob, icons, cartoons } = props;
 
   return (
-    <Box component="footer" sx={{ py: 6, background: 'linear-gradient(#9da9a0, #aed4e6)', clipPath: 'polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%)'}}>
+    <Box component="footer" sx={{ py: 6, background: 'linear-gradient(#9da9a0, #aed4e6)', clipPath: 'polygon(5% 0, 95% 0, 100% 5%, 100% 95%, 95% 100%, 5% 100%, 0 95%, 0 5%)'}}>
       <Container maxWidth="lg">
         <Typography variant="h3" align="center">
             Thanks for Reading!
