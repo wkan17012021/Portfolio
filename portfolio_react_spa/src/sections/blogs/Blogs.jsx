@@ -5,7 +5,7 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Link from "@mui/material/Link";
-import { imageListItemClasses } from "@mui/material/ImageListItem";
+import imageListItemClasses from "@mui/material/ImageListItem";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 import Typography from '@mui/material/Typography';
 
@@ -61,8 +61,10 @@ export default function Blogs(blogData) {
               <CardMedia
                 component="img"
                 alt="random cover image for blog article"
+                width="264"
                 height="200"
                 image={item.coverImage}
+                loading="lazy"
               />
               <CardContent>
                 <Typography gutterBottom fontFamily={'ElMessiri'} fontSize={'1.8rem'} variant="h3">

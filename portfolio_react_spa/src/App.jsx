@@ -1,6 +1,6 @@
 import './css/reset.css';
 import './css/global.css';
-import "./css/hero.css";
+import './css/hero.css';
 import ResponsiveAppBar from "./sections/navigation/Nav";
 import Hero from "./sections/hero/MainHero";
 import Bio from "./sections/bio/BioSummary";
@@ -11,7 +11,7 @@ import Projects from "./sections/projs/Projects";
 import SocialGrid from "./sections/contact/Socials";
 import FetchBlogData from "./utils/FetchBlogData";
 import Footer from "./sections/footer/Footer";
-import { ThemeProvider, createTheme } from '@mui/material';
+import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 
 const theme = createTheme({
@@ -60,14 +60,10 @@ function App() {
       <CssBaseline />
     <main className="App">
      <ResponsiveAppBar />
-     <Hero
-
-      />
-     <Bio 
-      />
+     <Hero/>
+     <Bio />
      <FluidContainer >
-     <ProfSkills 
-/>
+     <ProfSkills />
      </FluidContainer> 
      <WorkExpAccordions />
      <Projects />
