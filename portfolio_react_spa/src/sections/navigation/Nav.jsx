@@ -74,7 +74,6 @@ function ResponsiveAppBar() {
               <MenuIcon />
             </IconButton>
             <Menu
-             
               id="menu-appbar"
               anchorEl={anchorElNav}
               anchorOrigin={{
@@ -93,7 +92,7 @@ function ResponsiveAppBar() {
               }}
             >
               {sections.map((section) => (
-                <MenuItem key={section.id} sx={{backgroundColor: 'red'}} onClick={handleCloseNavMenu}>
+                <MenuItem key={section.id}  onClick={handleCloseNavMenu}>
                   <Link href={section.href} 
                   textAlign="center"
                   display='flex'
