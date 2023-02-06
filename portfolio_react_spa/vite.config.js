@@ -1,6 +1,8 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
+// https://sambitsahoo.com/blog/vite-code-splitting-that-works.html
+
 import { dependencies } from "./package.json";
 function renderChunks(deps) {
   let chunks = {};
@@ -18,6 +20,7 @@ export default defineConfig({
     outDir: "./build",
     emptyOutDir: true,
     minify: true,
+    cssCodeSplit: true,
     rollupOptions: {
       output: {
         manualChunks: {

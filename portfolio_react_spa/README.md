@@ -47,9 +47,13 @@ GitHub Repo for my iterations on personal portfolio
 
 ### Challenges
 
+#### Learning how to use MUI v.5
+
+Certainly more advanced than BS5 as there are quite a few layers abstracted away that renders the UI components and how they are styled. I used the docs in combination with video tutorials, code sandboxes and blog posts to understand how to customise the styling and the MUI specific named tags.
+
 #### Configuring the build process (minification, chunking)
 
 Never had to manage this myself as previous projects were so small the performance change was negligible or, a CMS plugin abstracted this away without me knowing about it.
 
 - Looked into the docs to find out how to turn on minification and learned from YT what it is and why it is necessary for production apps.
-- Vite's build CLI messages showed large dependency file sizes (> 500kB). I attempted to reduce file size after turning on minification by: using path imports instead of top-level imports (MUI's bundle size docs); code-splitting in React (React docs and YT)
+- Vite's build CLI messages showed large dependency file sizes (> 500kB). I attempted to reduce file size after turning on minification by: using path imports instead of top-level imports (MUI's bundle size docs); code-splitting in React (React docs and YT) although this is best employed with routing or lazy loading custom JS.
