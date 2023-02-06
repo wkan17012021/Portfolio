@@ -75,24 +75,41 @@
   margin-top: 1rem;
   display: inline;
 }
-.pipe:first-of-type {
+.pipe-one {
   position: relative;
-  animation: slideUp 3s;
+  display: inline-block;
+  animation: slideDown 2s ease-in-out;
   animation-fill-mode: forwards;
 }
-.pipe:last-of-type {
-  position: relative;
-  animation: slideDown 3s;
-  animation-fill-mode: forwards;
-}
+
 @keyframes slideDown {
-  from {top: -30px;}
-  to {top: 0px;}
+  from {
+    opactiy: 0;
+    top: -30px;
+  }
+  to {
+    opacity: 1;
+    top: 0px;
+  }
+}
+
+.pipe-two {
+  position: relative;
+  display: inline-block;
+  animation: slideUp 2s ease-in-out;
+  animation-fill-mode: forwards;
 }
 @keyframes slideUp {
-  from {top: 30px;}
-  to {top: 0px;}
+  from {
+    opacity: 0;
+    top: 30px;
+  }
+  to {
+    opacity: 1;
+    top: 0px;
+  }
 }
+
 .bkgnd-profile {
   max-width: 100%;
   -o-object-fit: cover;

@@ -24,16 +24,20 @@ const Hero = () => {
             }}
           >
             <Typography variant="body1" fontWeight={600} letterSpacing={2}>
-              Front-End Developer <span className="pipe">|</span> Netizen{" "}
-              <span className="pipe">|</span> Bug Catcher{" "}
+              Front-End Developer <span className="pipe-one">|</span>
+            </Typography>
+            <Typography variant="body1" fontWeight={600} letterSpacing={2}>
+              Netizen <span className="pipe-two">|</span>  Bug Catcher{" "}
             </Typography>
             <Box
               component="img"
               className="pokemon-caterpie"
               src={Caterpie}
               alt="Pokemon creature: Caterpie's face"
-            ></Box>
+            >
+            </Box>
           </Container>
+
           <Container
           sx={{
             marginTop: "0.5rem",
