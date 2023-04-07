@@ -14,6 +14,7 @@ export const projList = [
     id: 2,
     title: "Community Pool Club",
     duration: "2023 - Present",
+    url: "https://dev-hampton-pool.pantheonsite.io/",
     img: PoolProj,
     alt: "placeholder image of swimming pool",
   },
