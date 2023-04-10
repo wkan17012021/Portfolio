@@ -53,8 +53,9 @@ const Projects = () => {
                 </CardActionArea>
                 <CardActions>
                 
-          <Link href={proj.url} hrefLang="en" target="_blank" rel="noreferrer">Go to Project 👉</Link>
-        
+          <Link href={proj.url} hrefLang="en" target="_blank">Go to Project 👉</Link>
+          {proj.brief && <Link href={proj.brief} hrefLang="en" target="_blank">Read about the Project Here 👉</Link>
+                }
                 </CardActions>
               </Card>
               </Link> :
