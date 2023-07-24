@@ -36,14 +36,13 @@ export default function Blogs(blogData) {
         </Box>
       <Container
         sx={{
-          height: "500",
           display: "grid",
           marginBottom: 6,
           gridTemplateColumns: {
             mobile: "1fr",
-            tablet: "repeat(2, 1fr)",
-            desktop: "repeat(3, 1fr)",
-            wide: "repeat(4, 1fr)",
+            tablet: "1fr",
+            desktop: "repeat(auto-fill, minmax(384px, 1fr))",
+            wide: "repeat(3, 1fr)",
           },
           [`& .${imageListItemClasses.root}`]: {
             display: "flex",
@@ -57,7 +56,7 @@ export default function Blogs(blogData) {
             target="_blank" 
             rel="noreferrer"
             href={`https://the-dog-can-blog.hashnode.dev/${item.slug}`}>
-              <Card component={"article"} sx={{ maxWidth: 345, margin: '0.5rem' }}>
+              <Card component={"article"} sx={{ margin: '0.5rem' }}>
               <CardMedia
                 component="img"
                 alt="random cover image for blog article"
