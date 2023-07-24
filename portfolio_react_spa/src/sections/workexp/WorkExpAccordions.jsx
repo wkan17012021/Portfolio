@@ -6,7 +6,7 @@ import Typography from "@mui/material/Typography";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import Container from "@mui/material/Container";
 import Box from '@mui/material/Box';
-import workExp from "../../data/workExp";
+import {workExp} from "../../data/workExp";
 
 export default function WorkExpAccordions() {
   const [expanded, setExpanded] = React.useState(false);
@@ -52,7 +52,9 @@ export default function WorkExpAccordions() {
                 </Typography>
               </AccordionSummary>
               <AccordionDetails>
-                <Typography>{job.body}</Typography>
+                <Typography 
+                 style={{ whiteSpace: "pre-line", verticalAlign: "bottom" }}
+                >{job.body}</Typography>
               </AccordionDetails>
             </Accordion>
           );
@@ -82,7 +84,9 @@ export default function WorkExpAccordions() {
                 </Typography>
               </AccordionSummary>
               <AccordionDetails>
-                <Typography>{job.body}</Typography>
+                <Typography
+                 style={{ whiteSpace: "pre-line", verticalAlign: "bottom" }}
+                >{job.body}</Typography>
               </AccordionDetails>
             </Accordion>
           );
