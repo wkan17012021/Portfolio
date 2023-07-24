@@ -7,7 +7,6 @@ import Grid from '@mui/material/Unstable_Grid2';
 import Typography from '@mui/material/Typography';
 import Tooltip from '@mui/material/Tooltip';
 import Link from "@mui/material/Link";
-import SkyrimLogo from '../../assets/Skyrim-Logo.png';
 import LinkedInLogo from '../../assets/linkedin-icon.png';
 import TwitterLogo from '../../assets/twitter-icon.png';
 import MuiLogo from '../../assets/material-ui.png';
@@ -36,19 +35,6 @@ export default function SocialGrid() {
         </Box>
         <Box sx={{ flexGrow: 1, backgroundColor: '#9da9a0', padding: 2 }}>
       <Grid container spacing={1}>
-        <Grid xs={12} sm={6} md={3} lg={2}>
-        <Tooltip title="Nav Icons from Skyrim Video Game: Work Exp, Projects, Contact" placement="top" arrow>
-          <Item>
-            <Box component={"img"}
-            src={SkyrimLogo}
-            alt="Skyrim video game logo by bethesda Gaming Studio"
-            margin={"0 auto"}
-            height="80px"
-            >
-            </Box>
-          </Item>
-          </Tooltip>
-        </Grid>
         <Grid xs={12} sm={6} md={6} lg={4}>
           <Item>Worthy Travel Tip:
             <Link

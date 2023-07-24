@@ -45,7 +45,7 @@ function ResponsiveAppBar() {
                 display: { xs: "none", md: "flex" },
                 maxHeight: { md: 75 }, 
                 m: 'auto', 
-                p: 1,
+                p: 2,
                }}
                src={Favicon}
             alt="WK initials wrapped inside greater and less than symbols"
@@ -106,19 +106,6 @@ function ResponsiveAppBar() {
                  }}
                  >
                     {section.hdg}
-                    <Box component='img'
-                    sx={{
-                        width: 30,
-                        height: 24,
-                        mt: 'auto',
-                        ml: 2,
-                        WebkitFilter:'invert(100%) sepia(0%) saturate(0%) hue-rotate(000deg) brightness(0%) contrast(90%)',
-                        filter: 'invert(100%) sepia(0%) saturate(0%) hue-rotate(000deg) brightness(0%) contrast(90%)',
-                      }}
-                      src={section.img}
-                      alt={section.alt}
-                    >
-                    </Box>
                   </Link>
                 </MenuItem>
               ))}
@@ -153,19 +140,6 @@ function ResponsiveAppBar() {
                 >
                   {section.hdg}
                 </Button>
-                <Box
-                component='img'
-                  sx={{
-                    width: 30,
-                    height: 24,
-                    m: 'auto',
-                    WebkitFilter:'invert(100%) sepia(0%) saturate(0%) hue-rotate(000deg) brightness(0%) contrast(90%)',
-                    filter: 'invert(100%) sepia(0%) saturate(0%) hue-rotate(000deg) brightness(0%) contrast(90%)',
-                  }}
-                  src={section.img}
-                  alt={section.alt}
-                  >
-                </Box>
               </Link>
             ))}
           </Box>

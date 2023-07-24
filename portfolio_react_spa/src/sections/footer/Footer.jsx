@@ -19,7 +19,7 @@ function Copyright() {
 }
 
 function Footer(props) {
-  const { blob, icons, cartoons } = props;
+  const { blob, cartoons } = props;
 
   return (
     <Box component="footer" sx={{ py: 6, background: 'linear-gradient(#9da9a0, #aed4e6)', clipPath: 'polygon(5% 0, 95% 0, 100% 5%, 100% 95%, 95% 100%, 5% 100%, 0 95%, 0 5%)'}}>
@@ -39,16 +39,6 @@ function Footer(props) {
           lineHeight={1}
         >
           {blob}
-        </Typography>
-        <Typography
-          variant="subtitle1"
-          align="center"
-          color="text.secondary"
-          component="p"
-          gutterBottom
-          lineHeight={1}
-        >
-          {icons}
         </Typography>
         <Typography
           variant="subtitle1"
