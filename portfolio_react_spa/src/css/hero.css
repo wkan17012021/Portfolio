@@ -3,7 +3,8 @@
   position: relative;
   min-height: calc(300px + 15vw);
   display: grid;
-  background: #9da9a0;
+  background: center / cover no-repeat url("./src/assets/bg-teal-gradient.jpg");
+  border-radius: 0 0 5px 5px;
 }
 .wrapper {
   max-width: 1170px;
@@ -35,6 +36,7 @@
       rgba(0, 0, 0, 0) 100%
     )
     left center/100% no-repeat;
+  border-radius: 5px;
 }
 @media (min-width: 800px) {
   .hero {

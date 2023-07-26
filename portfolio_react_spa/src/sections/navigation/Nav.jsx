@@ -34,7 +34,7 @@ function ResponsiveAppBar() {
   return (
     <AppBar position="sticky"
     sx={{
-      backgroundColor: "#9da9a0"
+      background: "center / cover no-repeat url('./src/assets/bg-teal-gradient.jpg')"
     }}>
       <Container maxWidth="xl" >
         <Toolbar disableGutters >

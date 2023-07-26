@@ -8,8 +8,14 @@ import Typography from '@mui/material/Typography';
 export default function SkillCards() {
 
   return (
-    <Card sx={{ display: 'flex', maxWidth: 400, mx: '1.5rem' }}>
-      <Box sx={{ display: 'flex', flexDirection: 'column' }}>
+    <Card sx={{ 
+        display: 'flex',
+        flexDirection: {xs: 'column', md: 'row'},
+        maxWidth: 400, 
+        mx: '1.5rem' 
+    }}
+    >
+      <Box sx={{ display: 'flex', flexDirection: 'row' }}>
         <CardContent sx={{ flex: '1 0 auto' }}>
           <Typography component="div" variant="h5">
             Props of the prof skill
