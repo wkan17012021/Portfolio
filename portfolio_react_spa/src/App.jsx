@@ -21,12 +21,13 @@ const theme = createTheme({
     fontFamily: "AlegreyaSans",
     h1: {
       fontSize: 'clamp(2.4rem, 3.6rem, 4rem)',
-      color: "whitesmoke",
+      color: "#407bff",
       fontWeight: 700,
       fontFamily: "ElMessiri, Iowan Old Style, sans-serif",
     },
     h2: {
       fontSize: 'clamp(2rem, 3rem, 3.6rem)',
+      color: "#407bff",
       fontWeight: 600,
       fontFamily: "ElMessiri, Iowan Old Style, sans-serif",
     },
@@ -79,3 +80,4 @@ function App() {
 }
 
 export default App
+  
