@@ -73,7 +73,7 @@ function App() {
      <Projects />
      <SocialGrid />
      <FetchBlogData />
-     <Footer blob={"SVG shape created using blobmaker.app"} icons={"Icons chosen from Skyrim Fandom website & icons8"} cartoons={`Cartoon illustrations from Storyset`}/>      
+     <Footer/>      
     </main>
     </ThemeProvider>
   )
