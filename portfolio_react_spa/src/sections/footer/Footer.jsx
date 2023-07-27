@@ -55,7 +55,32 @@ function Footer() {
             display: "flex",
             justifyContent: "center",
             margin: "0 auto",
-            li: { width: "100px", justifyContent: "center" },
+            li: { 
+              width: "100px", justifyContent: "center", borderTop: "4px solid #407bff", borderBottom: "4px solid #407bff", transition: 'all 1s ease-in-out',
+              "&:hover": {
+              border: 'none',
+              },
+            },
+            "> li:first-child ": {
+              borderLeft: "4px solid #407bff",
+              borderRight: "none",
+              borderTopLeftRadius: "5px",
+              borderBottomLeftRadius: "5px",
+              
+              },
+              "> li:last-child ": {
+                borderRight: "4px solid #407bff",
+                borderLeft: "none",
+                borderTopRightRadius: "5px",
+                borderBottomRightRadius: "5px",
+                
+                },
+                "> li > a > svg ": {
+                  "&:hover": {
+                    color: '#407bff',
+                    cursor: 'pointer'
+                  },
+                  },
           }}
         >
           <ListItem>
@@ -111,7 +136,11 @@ function Footer() {
         <Typography variant="h4" align="center" lineHeight={2.2}>
           Acknowledgments:
         </Typography>
-        <Typography
+
+        {footerDetails.map((detail) => {
+          return (
+            <Typography
+            key={detail.id}
           variant="subtitle1"
           align="center"
           color="text.secondary"
@@ -119,28 +148,10 @@ function Footer() {
           gutterBottom
           lineHeight={1}
         >
-          {footerDetails[0].desc}
+          {detail.desc}
         </Typography>
-        <Typography
-          variant="subtitle1"
-          align="center"
-          color="text.secondary"
-          component="p"
-          gutterBottom
-          lineHeight={1}
-        >
-          {footerDetails[1].desc}
-        </Typography>
-        <Typography
-          variant="subtitle1"
-          align="center"
-          color="text.secondary"
-          component="p"
-          gutterBottom
-          lineHeight={1}
-        >
-          {footerDetails[2].desc}
-        </Typography>
+          )
+        })}
         <Copyright />
       </Container>
     </Box>

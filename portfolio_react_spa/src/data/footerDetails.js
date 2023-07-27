@@ -15,3 +15,5 @@ export const footerDetails = [
     desc: "Crafted using React.js, Material UI design, developed with Vite ⚡️",
   },
 ];
+
+export const socialLinkDetails = [];
