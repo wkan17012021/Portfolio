@@ -6,7 +6,6 @@ import Hero from "./sections/hero/MainHero";
 import Bio from "./sections/bio/BioSummary";
 import WorkExpAccordions from "./sections/workexp/WorkExpAccordions";
 import FluidContainer from "./components/layouts/FluidContainer";
-import SkillsMarquee from './sections/marquee/SkillsMarquee';
 import ProfSkills from "./sections/skills/ProfSkills";
 import Projects from "./sections/projs/Projects";
 import SocialGrid from "./sections/contact/Socials";
@@ -66,7 +65,6 @@ function App() {
      <Hero/>
      <Bio />
      <FluidContainer >
-    <SkillsMarquee />
      <ProfSkills />
      </FluidContainer> 
      <WorkExpAccordions />

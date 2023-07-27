@@ -1,39 +1,65 @@
+import { SiHtml5 } from "react-icons/si";
+
 export const skills = [
   {
     id: 1,
-    skillDetail: "HTML, CSS, plain JavaScript ES6",
+    skillTitle: "HTML5",
+    source: "Bootcamp, independent study",
+    icon: SiHtml5,
   },
   {
     id: 2,
-    skillDetail: "Drupal 9: content creator and site builder maintenance roles",
+    skillTitle: "CSS3",
+    source: "Bootcamp, independent study",
   },
   {
     id: 3,
-    skillDetail: "Responsive design, mobile-first and web-accessible solutions",
+    skillTitle: "JavaScript ES6",
+    source: "Bootcamp, independent study",
   },
   {
     id: 4,
-    skillDetail:
-      "Collaboration in a small development team: requirements gathering, debugging, code production and testing, review and documentation",
+    skillTitle: "Drupal 9",
+    source: "Work-based site builder maintenance roles",
   },
   {
     id: 5,
-    skillDetail:
-      "Exposure to production code base, feature-merge version control and content management system",
+    skillTitle: "Twig templating",
+    source: "Work-based presentation and styling layer for Drupal sites",
   },
   {
     id: 6,
-    skillDetail:
-      "Tech support: dispute resolution, reporting and escalating bugs and communicating fixes",
+    skillTitle: "Mobile-first, responsive and web-accessible design",
+    source: "Work-based experience and independent study",
   },
   {
     id: 7,
-    skillDetail:
-      "Documenting and reporting the learning experience through structured apprenticeship training program (technical and professional skills development)",
+    skillTitle: "Collaboration in a small development team",
+    source:
+      "Experience gathering requirements, debugging, code production and testing, review and documentation",
   },
   {
     id: 8,
-    skillDetail:
-      "Report preparation, written and oral presentation, supervision and mentoring of junior staff",
+    skillTitle: "Version control",
+    source: "Exposure to production code base and feature-based workflow",
+  },
+  {
+    id: 9,
+    skillTitle:
+      "Tech support: dispute resolution, reporting and escalating bugs and communicating fixes",
+    source:
+      "Gained familiarity acting as 1st line support for in-person and online conference.",
+  },
+  {
+    id: 10,
+    skillTitle:
+      "Structured apprenticeship program (technical and professional skills development)",
+    source: "Learned to document and report my learning experience",
+  },
+  {
+    id: 11,
+    skillTitle: "Soft Skills",
+    source:
+      "Written and oral presentation, supervision and mentoring of junior staff",
   },
 ];

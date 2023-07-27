@@ -1,6 +1,7 @@
 import React from 'react'
 import Marquee from "react-fast-marquee";
 import SkillCards from '../skillCards/SkillCards';
+import { skills } from "../../data/skillsList";
 
 export default function SkillsMarquee(props) {
   return (
@@ -11,12 +12,18 @@ export default function SkillsMarquee(props) {
     gradient={true}
     gradientColor={[255,255,255]}
     gradientWidth={100}
+    direction={props.direction}
     >
-        <SkillCards />
-        <h2>Some Text</h2>
-        <SkillCards />
-        <span>Some span</span>
-        <SkillCards />
+    {skills.map((skill) => {
+      return (
+        <SkillCards 
+        title={skill.skillTitle}
+        desc={skill.source}
+        icon={skill.icon}
+        />
+      )
+    })}
+
     </Marquee>
   )
 }

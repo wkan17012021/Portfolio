@@ -4,8 +4,9 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
+import {SiHtml5} from "react-icons/si";
 
-export default function SkillCards() {
+export default function SkillCards(props) {
 
   return (
     <Card sx={{ 
@@ -18,19 +19,20 @@ export default function SkillCards() {
       <Box sx={{ display: 'flex', flexDirection: 'row' }}>
         <CardContent sx={{ flex: '1 0 auto' }}>
           <Typography component="div" variant="h5">
-            Props of the prof skill
+            {props.title}
           </Typography>
           <Typography variant="subtitle1" color="text.secondary" component="div">
-            Props of short description one liner
+            {props.desc}
           </Typography>
         </CardContent>
       </Box>
-      <CardMedia
+      {props.icon}
+      {/* <CardMedia
         component="img"
         sx={{ width: 100 }}
         image="./src/assets/linkedin-icon.png"
         alt="Live from space album cover"
-      />
+      /> */}
     </Card>
   );
 }

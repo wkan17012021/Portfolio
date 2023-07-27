@@ -7,10 +7,7 @@ import List from "@mui/material/List";
 import ListItem from "@mui/material/ListItem";
 import Link from "@mui/material/Link";
 import Tooltip from '@mui/material/Tooltip';
-import { SiLinkedin } from "react-icons/si";
-import { SiTwitter } from "react-icons/si";
-import { SiGithub } from "react-icons/si";
-import { SiHashnode } from "react-icons/si";
+import { SiLinkedin, SiTwitter, SiGithub, SiHashnode } from "react-icons/si";
 import { footerDetails } from "../../data/footerDetails";
 
 function Copyright() {
