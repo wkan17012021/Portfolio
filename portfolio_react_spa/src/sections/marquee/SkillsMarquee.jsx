@@ -19,7 +19,8 @@ export default function SkillsMarquee(props) {
         <SkillCards 
         title={skill.skillTitle}
         desc={skill.source}
-        icon={skill.icon}
+        icon={skill.img}
+        alt={skill.alt}
         />
       )
     })}

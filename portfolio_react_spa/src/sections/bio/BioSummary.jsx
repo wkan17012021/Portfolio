@@ -35,10 +35,10 @@ const Bio = () => {
               </Typography>
             </Container>
           </Grid>
-          <Grid item xs={12} sm={10} md={8} lg={6}>
+          <Grid item xs={12} sm={10} md={8} lg={6} display={"flex"} >
             <StorySetCoder />
           </Grid>
-          <Grid item xs={12} sm={10} md={8} lg={6}>
+          <Grid item xs={12} sm={10} md={8} lg={6} display={"flex"} >
             <StorySetTeam />
           </Grid>
         </Grid>
