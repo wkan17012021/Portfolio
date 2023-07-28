@@ -12,25 +12,31 @@ export default function SkillCards(props) {
       sx={{
         display: "flex",
         flexDirection: { xs: "column", md: "row" },
+        justifyContent: 'center',
+        alignContent: 'center',
         maxWidth: 400,
         mx: "1.5rem",
+        p: "0.75rem",
       }}
     >
-      <Box sx={{ display: "flex", flexDirection: "row" }}>
-        <CardContent sx={{ flex: "1 0 auto" }}>
-          <Typography component="div" variant="h5">
+      <Box>
+        <CardContent>
+          <Typography component="h3" variant="h3" sx={{ fontSize: '1.2rem'}}>
             {title}
           </Typography>
           <Typography
-            variant="subtitle1"
+            variant="p"
             color="text.secondary"
-            component="div"
+            component="p"
           >
             {desc}
           </Typography>
         </CardContent>
       </Box>
-      <CardMedia component="img" sx={{ width: 100 }} image={icon} alt={alt} />
+      <Box>
+          <CardMedia 
+        component="img" sx={{ maxWidth: '80px'}} image={icon} alt={alt} />
+      </Box>
     </Card>
   );
 }

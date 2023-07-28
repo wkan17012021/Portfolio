@@ -2,50 +2,50 @@ export const skills = [
   {
     id: 1,
     skillTitle: "HTML5",
-    source: "Bootcamp, independent study",
+    source: "Bootcamp, independent study and work-based application",
     img: "./src/assets/icon-html-code.svg",
     alt: "cartoon icon of HTML"
   },
   {
     id: 2,
     skillTitle: "CSS3",
-    source: "Bootcamp, independent study",
+    source: "Bootcamp, independent study and work-based application",
     img: "./src/assets/icon-css-code.svg",
     alt: "cartoon icon of CSS"
   },
   {
     id: 3,
     skillTitle: "JavaScript ES6",
-    source: "Bootcamp, independent study",
+    source: "Bootcamp, independent study and work-based application",
     img: "./src/assets/icon-javascript.svg",
     alt: "cartoon icon of Javascript intials"
   },
   {
     id: 4,
     skillTitle: "Drupal 9",
-    source: "Work-based site builder maintenance roles",
+    source: "Work-based site builder, admin and maintenance role",
     img: "./src/assets/icon-website.svg",
     alt: "cartoon icon of website on a computer"
   },
   {
     id: 5,
     skillTitle: "Twig templating",
-    source: "Work-based presentation and styling layer for Drupal sites",
+    source: "Work-based frontend Drupal themer - presentation layer",
     img: "./src/assets/icon-website-template.svg",
     alt: "cartoon icon of website design templating"
   },
   {
     id: 6,
-    skillTitle: "Mobile-first, responsive and web-accessible design",
-    source: "Work-based experience and independent study",
+    skillTitle: "RWD and accessibility",
+    source: "Bootcamp, independent study and work-based application",
     img: "./src/assets/icon-responsive-design.svg",
     alt: "icon of responsive design on multi-screen devices"
   },
   {
     id: 7,
-    skillTitle: "Collaboration in a small development team",
+    skillTitle: "Junior Dev Team Member",
     source:
-      "Experience gathering requirements, debugging, code production and testing, review and documentation",
+      "Exp gathering requirements, debugging, code production",
       img: "./src/assets/icon-community-collaboration.svg",
       alt: "icon of stick people high-fiving"
   },
@@ -59,17 +59,17 @@ export const skills = [
   {
     id: 9,
     skillTitle:
-      "Tech support: dispute resolution, reporting and escalating bugs and communicating fixes",
+      "Tech support for conference",
     source:
-      "Gained familiarity acting as 1st line support for in-person and online conference.",
+      "Dispute resolution, reporting and escalating bugs and communicating fixes",
       img: "./src/assets/icon-headphones.svg",
       alt: "cartoon icon of headphones"
   },
   {
     id: 10,
     skillTitle:
-      "Structured apprenticeship program (technical and professional skills development)",
-    source: "Learned to document and report my learning experience",
+      "Apprenticeship program",
+    source: "Learned about web technologies and the software development lifecycle",
     img: "./src/assets/icon-online-learning.svg",
     alt: "cartoon icon of scholar cap above a open laptop notebook" 
   },
@@ -77,7 +77,7 @@ export const skills = [
     id: 11,
     skillTitle: "Soft Skills",
     source:
-      "Written and oral presentation, supervision and mentoring of junior staff",
+      "Deliver presentations, reporting and support junior staff",
       img: "./src/assets/icon-presentation.svg",
       alt: "cartoon icon of person presenting a bar chart on presentation slide"
   },

@@ -9,9 +9,9 @@ import { skills } from "../../data/skillsList";
 
 const ProfSkills = () => {
   return (
-    <Container>
+    <Container mt={4}>
       <Box>
-         <Typography variant="h2" mt={4} gutterBottom>
+         <Typography variant="h2" gutterBottom>
         Professional Skills
       </Typography>
       </Box>
