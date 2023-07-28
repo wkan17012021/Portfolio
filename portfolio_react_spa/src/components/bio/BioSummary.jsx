@@ -1,6 +1,6 @@
 import React from "react";
 import StorySetCoder from "./StorySetCoder.jsx";
-import StorySetTeam from "../../sections/skills/StorySetTeam";
+import StorySetTeam from "../skills/StorySetTeam.jsx";
 import Typography from "@mui/material/Typography";
 import Container from "@mui/material/Container";
 import Box from "@mui/material/Box";
@@ -12,7 +12,7 @@ const Bio = () => {
     <Container id="bio-section" className="scroll-mt-offset">
       <Box>
         <Grid container spacing={3}>
-          <Grid item xs={12} sm={10} md={8} lg={12}>
+          <Grid item xs={12} md={6} lg={12}>
             <Container>
               <Typography variant="h2" mt={4} gutterBottom>
                 Biography
@@ -35,10 +35,10 @@ const Bio = () => {
               </Typography>
             </Container>
           </Grid>
-          <Grid item xs={12} sm={10} md={8} lg={6} display={"flex"} >
+          <Grid item xs={12}  md={6} lg={6} display={"flex"} >
             <StorySetCoder />
           </Grid>
-          <Grid item xs={12} sm={10} md={8} lg={6} display={"flex"} >
+          <Grid item xs={12}  md={6} lg={6} display={"flex"} >
             <StorySetTeam />
           </Grid>
         </Grid>

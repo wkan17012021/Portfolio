@@ -1,16 +1,15 @@
 import './css/reset.css';
 import './css/global.css';
 import './css/hero.css';
-import ResponsiveAppBar from "./sections/navigation/Nav";
-import Hero from "./sections/hero/MainHero";
-import Bio from "./sections/bio/BioSummary";
-import WorkExpAccordions from "./sections/workexp/WorkExpAccordions";
-import FluidContainer from "./components/layouts/FluidContainer";
-import ProfSkills from "./sections/skills/ProfSkills";
-import Projects from "./sections/projs/Projects";
-import SocialGrid from "./sections/contact/Socials";
+import ResponsiveAppBar from "./components/navigation/Nav";
+import Hero from "./components/hero/MainHero";
+import Bio from "./components/bio/BioSummary";
+import WorkExpAccordions from "./components/workexp/WorkExpAccordions";
+import ProfSkills from "./components/skills/ProfSkills";
+import Projects from "./components/projs/Projects";
+import SocialGrid from "./components/contact/Socials";
 import FetchBlogData from "./utils/FetchBlogData";
-import Footer from "./sections/footer/Footer";
+import Footer from "./components/footer/Footer";
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 
@@ -64,9 +63,7 @@ function App() {
      <ResponsiveAppBar />
      <Hero/>
      <Bio />
-     <FluidContainer >
-     <ProfSkills />
-     </FluidContainer> 
+      <ProfSkills />
      <WorkExpAccordions />
      <Projects />
      <SocialGrid />

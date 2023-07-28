@@ -6,7 +6,7 @@ import { skills } from "../../data/skillsList";
 export default function SkillsMarquee(props) {
   return (
     <Marquee
-    style={{minHeight: "200px"}}
+    style={{minHeight: "200px", marginTop: '1.2rem'}}
     play={true}
     pauseOnHover={true}
     delay={2}

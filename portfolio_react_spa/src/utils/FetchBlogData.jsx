@@ -1,6 +1,6 @@
 import Container from "@mui/material/Container";
 import { useState, useEffect } from "react";
-import Blogs from "../sections/blogs/Blogs";
+import Blogs from "../components/blogs/Blogs";
 
 const query = `
 {
