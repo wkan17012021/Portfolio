@@ -16,12 +16,12 @@ export const sections = [
   },
   {
     id: 4,
-    hdg: "Contact",
-    href: "#contact-section",
+    hdg: "Blog",
+    href: "#blogs-section",
   },
   {
     id: 5,
-    hdg: "Blog",
-    href: "#blogs-section",
+    hdg: "Contact",
+    href: "#contact-section",
   },
 ];

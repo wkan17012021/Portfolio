@@ -41,10 +41,12 @@ export default function FormPropsTextFields() {
 
   return (
     <Container 
-    sx={{m: '2rem auto'}}
+    id="contact-section"
+    className="scroll-mt-offset"
+    sx={{m: '2rem auto' }}
     >
       <Box>
-        <Typography id="contact-section" variant="h2" mt={3} gutterBottom>
+        <Typography  variant="h2" mt={3} gutterBottom>
           Reach out to Me
         </Typography>
         <Box>
