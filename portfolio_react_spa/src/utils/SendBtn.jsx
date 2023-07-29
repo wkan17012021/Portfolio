@@ -12,8 +12,9 @@ export default function SendBtn() {
         fontFamily: 'ElMesseri',
         fontWeight: 600,
         fontSize: '1.4rem',
-        backgroundColor: '#9da9a0',
-        ':hover': { bgcolor: '#aed4e6', color:'#012622'}
+        backgroundColor: '#407bff',
+        transition: 'transform 200ms ease-in-out',
+        ':hover': { transform: 'translateY(-5px)'}
       }}
       >
         Send

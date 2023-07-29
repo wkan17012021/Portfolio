@@ -40,9 +40,11 @@ export default function FormPropsTextFields() {
   }, []);
 
   return (
-    <Container>
+    <Container 
+    sx={{m: '2rem auto'}}
+    >
       <Box>
-        <Typography id="contact-section" variant="h3" mt={3} gutterBottom>
+        <Typography id="contact-section" variant="h2" mt={3} gutterBottom>
           Reach out to Me
         </Typography>
         <Box>
@@ -74,6 +76,17 @@ export default function FormPropsTextFields() {
             placeholder="Please enter Full Name"
             variant="filled"
             color="primary"
+            sx={{
+              input: {
+                 color: '#FFF',
+                 fontWeight: 'bold',
+                 "&::placeholder": {
+                    opacity: 1,
+                    fontWeight: 'bold'
+                 },
+              },
+              label: { color: '#FFF', fontWeight: 'bold' }
+           }}
           />
           <TextField
             required
@@ -83,6 +96,17 @@ export default function FormPropsTextFields() {
             placeholder="Please enter email address"
             variant="filled"
             type={"email"}
+            sx={{
+              input: {
+                 color: '#FFF',
+                 fontWeight: 'bold',
+                 "&::placeholder": {
+                    opacity: 1,
+                    fontWeight: 'bold'
+                 },
+              },
+              label: { color: '#FFF', fontWeight: 'bold' }
+           }}
           />
           <TextField
             required
@@ -91,8 +115,20 @@ export default function FormPropsTextFields() {
             name="Comments or Suggestions"
             multiline
             rows={5}
-            placeholder="Please provide your query or comments here"
             variant="filled"
+            sx={{
+
+              input: {
+                 color: '#FFF',
+                 fontWeight: 'bold',
+                 "&::placeholder": {
+                    opacity: 1,
+                    fontWeight: 'bold',
+                    color: '#FFF',
+                 },
+              },
+              label: { color: '#FFF', fontWeight: 'bold' }
+           }}
           />
           <SendBtn />
         </div>

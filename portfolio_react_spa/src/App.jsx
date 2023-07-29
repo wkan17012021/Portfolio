@@ -7,8 +7,8 @@ import Bio from "./components/bio/BioSummary";
 import WorkExpAccordions from "./components/workexp/WorkExpAccordions";
 import ProfSkills from "./components/skills/ProfSkills";
 import Projects from "./components/projs/Projects";
-import SocialGrid from "./components/contact/Socials";
 import FetchBlogData from "./utils/FetchBlogData";
+import BasicForm from './components/contact/BasicForm';
 import Footer from "./components/footer/Footer";
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
@@ -66,8 +66,8 @@ function App() {
       <ProfSkills />
      <WorkExpAccordions />
      <Projects />
-     <SocialGrid />
      <FetchBlogData />
+     <BasicForm />
      <Footer/>      
     </main>
     </ThemeProvider>
