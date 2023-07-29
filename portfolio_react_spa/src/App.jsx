@@ -50,7 +50,11 @@ const theme = createTheme({
       fontSize: '1rem',
       backgroundColor: '#2e3141',
       color: '#fff',
-    }}
+    },
+    '&.MuiButtonBase-root.MuiAccordionSummary-root.Mui-disabled': {
+      opacity: 1,
+    },
+  }
     },
   },
 });

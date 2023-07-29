@@ -22,7 +22,8 @@ const theme = createTheme({
     h2: {
       fontSize: 'clamp(2rem, 3rem, 3.6rem)',
       fontFamily: 'ElMessiri, Iowan Old Style',
-      fontWeight: 700
+      fontWeight: 700,
+      color: "#407bff",
     },
 }})
 

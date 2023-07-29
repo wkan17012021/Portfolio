@@ -27,9 +27,14 @@ export default function WorkExpAccordions() {
           Work Experience
         </Typography>
         </Box>
-        <Accordion disabled>
-          <AccordionSummary>
-            <Typography variant="h3">Tech </Typography>
+        <Accordion 
+        disabled>
+          <AccordionSummary
+          >
+            <Typography 
+            variant="h3"
+            sx={{color: '#FFF' }}
+            >Tech </Typography>
           </AccordionSummary>
         </Accordion>
         {workExp.techJobs.map((job) => {
@@ -61,7 +66,10 @@ export default function WorkExpAccordions() {
         })}
         <Accordion disabled>
           <AccordionSummary>
-            <Typography variant="h3">Non-Tech </Typography>
+            <Typography 
+            variant="h3"
+            sx={{color: '#FFF' }}
+            >Non-Tech </Typography>
           </AccordionSummary>
         </Accordion>
         {workExp.nonTechjobs.map((job) => {
