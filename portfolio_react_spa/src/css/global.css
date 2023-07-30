@@ -63,3 +63,17 @@ body::-webkit-scrollbar-thumb {
   font-display: swap;
   font-weight: 500;
 }
+
+/* Navigation */
+
+.nav-bar {
+  background: bottom / cover no-repeat url("/src/assets/bg-teal-gradient.jpg");
+  border-radius: 0 0 5px 5px;
+}
+
+/* Footer */
+
+footer {
+  background: center / cover no-repeat url('./src/assets/bg-purple-gradient.jpg');
+  border-radius: 5px 5px 0 0;
+}

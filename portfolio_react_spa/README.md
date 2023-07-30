@@ -10,9 +10,8 @@ GitHub Repo for my iterations on personal portfolio
 
 ### V.02
 
-- Jan 2023 -> Present: Currently designing, planning a React.js version developed with ViteJS build tool.
-
-### Worthy Mentions / resources that helped to make this portfolio happen
+- Jan -> Apr 2023: Designing, planning a React.js version developed with ViteJS build tool.
+- June -> Aug 2023: Refreshing the portfolio using new styling and animations.
 
 #### Navigating and implementing Material UI framework
 

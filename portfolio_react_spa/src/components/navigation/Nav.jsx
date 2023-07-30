@@ -1,5 +1,6 @@
 import React, {useState} from "react";
 import AppBar from "@mui/material/AppBar";
+// import {NavBgImg} from  '/src/assets/bg-teal-gradient.jpg';
 import Box from "@mui/material/Box";
 import Toolbar from "@mui/material/Toolbar";
 import IconButton from "@mui/material/IconButton";
@@ -33,9 +34,8 @@ function ResponsiveAppBar() {
 
   return (
     <AppBar position="sticky"
-    sx={{
-      background: "center / cover no-repeat url('./assets/bg-teal-gradient.jpg')"
-    }}>
+    className="nav-bar"
+    >
       <Container maxWidth="xl" >
         <Toolbar disableGutters >
           <Link href={'#'}>
