@@ -119,9 +119,7 @@ export default function FormPropsTextFields() {
             rows={5}
             variant="filled"
             sx={{
-
               input: {
-                 color: '#FFF',
                  fontWeight: 'bold',
                  "&::placeholder": {
                     opacity: 1,

@@ -74,6 +74,13 @@ body::-webkit-scrollbar-thumb {
 /* Footer */
 
 footer {
-  background: center / cover no-repeat url('./src/assets/bg-purple-gradient.jpg');
+  background: center / cover no-repeat
+    url("./src/assets/bg-purple-gradient.jpg");
   border-radius: 5px 5px 0 0;
+}
+
+/* foorm comment multiline field override */
+#body-txt-required {
+  color: #fff;
+  font-weight: bold;
 }

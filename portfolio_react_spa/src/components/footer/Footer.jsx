@@ -89,7 +89,7 @@ function Footer() {
                 href="https://www.linkedin.com/in/william-kan"
                 sx={{ color: "whitesmoke" }}
               >
-                <SiLinkedin size={32} />
+                <SiLinkedin size={32} title="Connect via LinkedIn" />
               </Link>
             </Tooltip>
           </ListItem>
@@ -101,7 +101,7 @@ function Footer() {
                 href="https://twitter.com/willkancode"
                 sx={{ color: "whitesmoke" }}
               >
-                <SiTwitter size={32} />
+                <SiTwitter size={32} title="Let's chat on Twitter" />
               </Link>
             </Tooltip>
           </ListItem>
@@ -117,7 +117,7 @@ function Footer() {
                 href="https://github.com/wkan17012021"
                 sx={{ color: "whitesmoke" }}
               >
-                <SiGithub size={32} />
+                <SiGithub size={32} title="Collaborate with me on GitHub" />
               </Link>
             </Tooltip>
           </ListItem>
@@ -129,7 +129,7 @@ function Footer() {
                 href="https://the-dog-can-blog.hashnode.dev/"
                 sx={{ color: "whitesmoke" }}
               >
-                <SiHashnode size={32} />
+                <SiHashnode size={32} title="Share knowledge on HashNode" />
               </Link>
             </Tooltip>
           </ListItem>
