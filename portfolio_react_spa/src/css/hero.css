@@ -3,7 +3,7 @@
   position: relative;
   min-height: calc(300px + 15vw);
   display: grid;
-  background: center / cover no-repeat url("./src/assets/bg-teal-gradient.jpg");
+  background: center / cover no-repeat url("./assets/bg-teal-gradient.jpg");
   border-radius: 0 0 5px 5px;
 }
 .wrapper {

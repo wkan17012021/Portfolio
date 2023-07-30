@@ -32,7 +32,7 @@ function Footer() {
       sx={{
         py: 6,
         background:
-          "top / cover no-repeat url('./src/assets/bg-purple-gradient.jpg')",
+          "top / cover no-repeat url('./assets/bg-purple-gradient.jpg')",
       }}
     >
       <Container maxWidth="lg">
