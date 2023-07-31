@@ -1,10 +1,16 @@
 > This is ten percent luck
+
 > Twenty percent skill
+
 > Fifteen percent concentrated power of will
+
 > Five percent pleasure
+
 > Fifty percent pain
+
 > And a hundred percent reason to remember the name
-> 'Fort Minor - 2005 - The Rising Tied'
+
+'Fort Minor - 2005 - The Rising Tied'
 # My Developer Portfolio 🖼️
 
 The above lyrics basically encapsulates how I feel about development.
