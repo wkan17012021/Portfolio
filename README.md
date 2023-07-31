@@ -1,6 +1,14 @@
-# Portfolio
+> This is ten percent luck
+> Twenty percent skill
+> Fifteen percent concentrated power of will
+> Five percent pleasure
+> Fifty percent pain
+> And a hundred percent reason to remember the name
+> 'Fort Minor - 2005 - The Rising Tied'
+# My Developer Portfolio 🖼️
 
-GitHub Repo for my iterations on personal portfolio
+The above lyrics basically encapsulates how I feel about development.
+Here's my GitHub Repo of iterations on my personal portfolio. 
 
 ## Changelog
 
@@ -11,7 +19,6 @@ GitHub Repo for my iterations on personal portfolio
 ### V.02
 
 - Jan -> Apr 2023: Designing, planning a React.js version developed with ViteJS build tool.
-- June -> Aug 2023: Refreshing the portfolio using new styling and animations.
 
 #### Navigating and implementing Material UI framework
 
@@ -22,6 +29,7 @@ GitHub Repo for my iterations on personal portfolio
 
 - Blob SVG inspiration from Scrimba community. Make your own blob SVGs here: https://www.blobmaker.app/
 - Moving transitional background gradient from: https://ishadeed.com/article/inside-frontend-developer-mind-hero-section/
+- Background gradients
 
 #### Cartoon illustrations and obscure nav icons
 
@@ -43,6 +51,20 @@ GitHub Repo for my iterations on personal portfolio
 #### Alteration to the MUI image list (display cover images for blogs in grid layout)
 
 - https://codesandbox.io/s/69383051-is-there-a-way-to-dynamically-adjust-imagelist-columns-for-screen-size-p389w?file=/demo.js
+
+### V.03
+- June -> Aug 2023: Refreshing the portfolio using new styling, layouts and animations learned along the way. I've also gone through an iterative process of moving hard coded details from the app components into their own js files and importing them instead. 
+
+#### Navigating and implementing Material UI framework
+- Override styling mainly with sx prop. Some styles couldn't be overwritten so I wrote them in the css stylesheets instead. A lot of the time of imporving the portfolio is consumed with navigating the MUI framework and the styling is quite cluttered - CSS in JS, global and override stylesheets etc. Would have been simpler just to use Sass or native CSS to be honest. But then I would miss the opportunity to learn MUI!
+
+#### Hero and Footer Section
+Added an image of a background gradient (source was from HTML5UP templates - Helios, or SolidState I think). This took some time to figure out imports and filepaths as the local vite serve was working but when I deployed to Netlify, the files could not be located. I should have checked the vite build server which would have ssaved time as it compiles and bundles the project for distribution or build. In the end, I just added the file paths in the css sheets.
+
+#### General changes
+- Removed some copy and media as it was irrelevant or inappropriate / wanted to rethink design branding.
+- Reworked layouts and structure as they were a bit janky or not responsive.
+- Replaced some components as they were not applicable or could be combined with others e.g. social grid component - largely removed but transferred social media icons to the footer; or the boring list of professional skills which has been transformed into marquee components!
 
 ### Challenges
 
