@@ -21,6 +21,22 @@ body::-webkit-scrollbar-thumb {
 }
 
 @font-face {
+  font-family: League Spartan;
+  font-style: normal;
+  src: url("/src/assets/fonts/league-spartan-latin-400-normal.woff");
+  font-display: swap;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Playfair Display;
+  font-style: normal;
+  src: url("/src/assets/fonts/playfair-display-latin-700-normal.woff");
+  font-display: swap;
+  font-weight: 700;
+}
+
+@font-face {
   font-family: ElMessiri;
   font-style: normal;
   src: url("/src/assets/fonts/el-messiri-v18-latin-500.woff");

@@ -40,8 +40,7 @@ function Footer() {
         <Typography
           variant="body1"
           align="center"
-          fontSize={"2.5rem"}
-          fontFamily={"ElMessiri"}
+          fontSize={"2rem"}
         >
           Thanks for Reading!
         </Typography>

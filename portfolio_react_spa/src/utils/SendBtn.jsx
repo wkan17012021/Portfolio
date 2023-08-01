@@ -9,7 +9,7 @@ export default function SendBtn() {
       <Button variant="contained" type="submit" endIcon={<SendIcon />} 
       sx={{
         textTransform: 'Capitalize',
-        fontFamily: 'ElMesseri',
+        fontFamily: 'Playfair Display',
         fontWeight: 600,
         fontSize: '1.4rem',
         backgroundColor: '#407bff',

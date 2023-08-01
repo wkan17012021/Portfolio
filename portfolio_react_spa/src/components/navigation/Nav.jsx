@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React, { useState } from "react";
 import AppBar from "@mui/material/AppBar";
 // import {NavBgImg} from  '/src/assets/bg-teal-gradient.jpg';
 import Box from "@mui/material/Box";
@@ -11,7 +11,7 @@ import Button from "@mui/material/Button";
 import MenuItem from "@mui/material/MenuItem";
 import Link from "@mui/material/Link";
 import Favicon from "../../assets/logo.svg";
-import {sections} from "../../data/navSections";
+import { sections } from "../../data/navSections";
 
 function ResponsiveAppBar() {
   const [anchorElNav, setAnchorElNav] = useState(null);
@@ -33,30 +33,27 @@ function ResponsiveAppBar() {
   };
 
   return (
-    <AppBar position="sticky"
-    className="nav-bar"
-    >
-      <Container maxWidth="xl" >
-        <Toolbar disableGutters >
-          <Link href={'#'}>
+    <AppBar position="sticky" className="nav-bar">
+      <Container maxWidth="xl">
+        <Toolbar disableGutters>
+          <Link href={"#"}>
             <Box
-            component="img"
-              sx={{ 
+              component="img"
+              sx={{
                 display: { xs: "none", md: "flex" },
-                maxHeight: { md: 75 }, 
-                m: 'auto', 
+                maxHeight: { md: 75 },
+                m: "auto",
                 p: 2,
-               }}
-               src={Favicon}
-            alt="WK initials wrapped inside greater and less than symbols"
-            >
-            </Box>
+              }}
+              src={Favicon}
+              alt="WK initials wrapped inside greater and less than symbols"
+            ></Box>
           </Link>
           <Box
             sx={{
               flexGrow: 1,
               justifyContent: "flex-end",
-              display: { xs: "flex", md: "none"},
+              display: { xs: "flex", md: "none" },
             }}
           >
             <IconButton
@@ -88,55 +85,60 @@ function ResponsiveAppBar() {
               open={Boolean(anchorElNav)}
               onClose={handleCloseNavMenu}
               sx={{
-                display: { xs: "block", md: "none" }
+                display: { xs: "block", md: "none" },
               }}
             >
               {sections.map((section) => (
-                <MenuItem key={section.id}  onClick={handleCloseNavMenu}>
-                  <Link href={section.href} 
-                  textAlign="center"
-                  display='flex'
-                  alignItems='center' 
-                  sx={{ 
-                    textDecoration: 'none', 
-                    textTransform: 'capitalize', 
-                    fontFamily: 'ElMessiri',                    
-                    fontWeight: '700',
-                    color: '#342E37',
-                 }}
-                 >
+                <MenuItem key={section.id} onClick={handleCloseNavMenu}>
+                  <Link
+                    href={section.href}
+                    textAlign="center"
+                    display="flex"
+                    alignItems="center"
+                    sx={{
+                      textDecoration: "none",
+                      textTransform: "capitalize",
+                      fontFamily: "Playfair Display",
+                      fontWeight: "700",
+                      color: "#342E37",
+                    }}
+                  >
                     {section.hdg}
                   </Link>
                 </MenuItem>
               ))}
             </Menu>
           </Box>
-          <Box sx={{ 
-            flexGrow: 1, 
-            display: { xs: "none", md: "flex" } 
-            }}>
+          <Box
+            sx={{
+              flexGrow: 1,
+              display: { xs: "none", md: "flex" },
+            }}
+          >
             {sections.map((section) => (
-              <Link href={section.href} 
-              sx={{ 
-                textDecoration: 'none', 
-             }}
-              textAlign="center" 
-              display="flex"
-              alignContent="center"
-              marginRight={3}
+              <Link
+                href={section.href}
+                sx={{
+                  textDecoration: "none",
+                }}
+                textAlign="center"
+                display="flex"
+                alignContent="center"
+                marginRight={3}
               >
                 <Button
                   key={section.id}
                   onClick={handleCloseNavMenu}
-                  sx={{ 
-                    my: 2, 
-                    color: "white", 
-                    display: "block",  
-                    textDecoration: 'none',
-                    textTransform: 'capitalize', 
-                    fontFamily: 'ElMessiri',                    
-                    fontWeight: '700',
-                    letterSpacing: 1.8 }}
+                  sx={{
+                    my: 2,
+                    color: "white",
+                    display: "block",
+                    textDecoration: "none",
+                    textTransform: "capitalize",
+                    fontWeight: "700",
+                    fontFamily: "Playfair Display",
+                    letterSpacing: 1.8,
+                  }}
                 >
                   {section.hdg}
                 </Button>

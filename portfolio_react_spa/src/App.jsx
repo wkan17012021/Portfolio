@@ -16,28 +16,28 @@ import CssBaseline from '@mui/material/CssBaseline';
 const theme = createTheme({
   typography : {
     fontSize: 18,
-    fontFamily: "AlegreyaSans",
+    fontFamily: "League Spartan",
     h1: {
       fontSize: 'clamp(2.4rem, 3.6rem, 4rem)',
       color: "#407bff",
       fontWeight: 700,
-      fontFamily: "ElMessiri, Iowan Old Style, sans-serif",
+      fontFamily: "Playfair Display, Iowan Old Style, sans-serif",
     },
     h2: {
       fontSize: 'clamp(2rem, 3rem, 3.6rem)',
       color: "#407bff",
       fontWeight: 600,
-      fontFamily: "ElMessiri, Iowan Old Style, sans-serif",
+      fontFamily: "Playfair Display, Iowan Old Style, sans-serif",
     },
     h3: {
       fontSize: 'clamp(1.6rem, 2.4rem, 3.2rem)',
       fontWeight: 500,
-      fontFamily: "ElMessiri, Iowan Old Style, sans-serif",
+      fontFamily: "Playfair Display, Iowan Old Style, sans-serif",
     },
     h4: {
       fontSize: 'clamp(1.2rem, 1.4rem, 2.8rem)',
       fontWeight: 500,
-      fontFamily: "ElMessiri, Iowan Old Style, sans-serif",
+      fontFamily: "Playfair Display, Iowan Old Style, sans-serif",
     },  
   },
   components: {
