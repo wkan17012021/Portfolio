@@ -45,7 +45,7 @@ const theme = createTheme({
     styleOverrides: {
       body: {
       margin: '0 auto',
-      maxWidth: '1400px',
+      maxWidth: '2400px',
       minWidth: '340px',
       fontSize: '1rem',
       backgroundColor: '#2e3141',
@@ -67,7 +67,7 @@ function App() {
      <ResponsiveAppBar />
      <Hero/>
      <Bio />
-      <ProfSkills />
+     <ProfSkills />
      <WorkExpAccordions />
      <Projects />
      <FetchBlogData />
