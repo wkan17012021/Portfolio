@@ -55,7 +55,7 @@ function Footer() {
               justifyContent: "center",
               borderTop: "4px solid #407bff",
               borderBottom: "4px solid #407bff",
-              transition: "all 1s ease-in-out",
+              transition: "all 2s ease-in-out",
               "&:hover": {
                 border: "none",
               },
@@ -121,7 +121,7 @@ function Footer() {
             </Tooltip>
           </ListItem>
           <ListItem>
-            <Tooltip title="Share knowledge on HashNode" placement="top" arrow>
+            <Tooltip title="Share knowledge on HashNode" placement="bottom" arrow>
               <Link
                 hrefLang="en"
                 target="_blank"
