@@ -1,6 +1,7 @@
 import './css/reset.css';
 import './css/global.css';
 import './css/hero.css';
+import './css/animation.css';
 import ResponsiveAppBar from "./components/navigation/Nav";
 import Hero from "./components/hero/MainHero";
 import Bio from "./components/bio/BioSummary";
