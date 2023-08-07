@@ -18,7 +18,7 @@ The above lyrics sums up how I feel about development.
 
 This is my GitHub Repo of iterations on my personal portfolio which I use to support the interviewing process and showcase projects.
 
-![Screenshot of Portfolio on page load](design/Screenshot_Portfolio.png)
+![Screenshot of Portfolio on page load](portfolio_react_spa/design/Screenshot_Portfolio.png)
 ## Changelog
 
 ### V.01
