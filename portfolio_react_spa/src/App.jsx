@@ -1,6 +1,7 @@
 import './css/reset.css';
 import './css/global.css';
 import './css/hero.css';
+import './css/animation.css';
 import ResponsiveAppBar from "./components/navigation/Nav";
 import Hero from "./components/hero/MainHero";
 import Bio from "./components/bio/BioSummary";
@@ -16,28 +17,28 @@ import CssBaseline from '@mui/material/CssBaseline';
 const theme = createTheme({
   typography : {
     fontSize: 18,
-    fontFamily: "AlegreyaSans",
+    fontFamily: "League Spartan",
     h1: {
       fontSize: 'clamp(2.4rem, 3.6rem, 4rem)',
       color: "#407bff",
       fontWeight: 700,
-      fontFamily: "ElMessiri, Iowan Old Style, sans-serif",
+      fontFamily: "Playfair Display, Iowan Old Style, sans-serif",
     },
     h2: {
       fontSize: 'clamp(2rem, 3rem, 3.6rem)',
       color: "#407bff",
       fontWeight: 600,
-      fontFamily: "ElMessiri, Iowan Old Style, sans-serif",
+      fontFamily: "Playfair Display, Iowan Old Style, sans-serif",
     },
     h3: {
       fontSize: 'clamp(1.6rem, 2.4rem, 3.2rem)',
       fontWeight: 500,
-      fontFamily: "ElMessiri, Iowan Old Style, sans-serif",
+      fontFamily: "Playfair Display, Iowan Old Style, sans-serif",
     },
     h4: {
       fontSize: 'clamp(1.2rem, 1.4rem, 2.8rem)',
       fontWeight: 500,
-      fontFamily: "ElMessiri, Iowan Old Style, sans-serif",
+      fontFamily: "Playfair Display, Iowan Old Style, sans-serif",
     },  
   },
   components: {
@@ -45,7 +46,7 @@ const theme = createTheme({
     styleOverrides: {
       body: {
       margin: '0 auto',
-      maxWidth: '1400px',
+      maxWidth: '2400px',
       minWidth: '340px',
       fontSize: '1rem',
       backgroundColor: '#2e3141',
@@ -67,7 +68,7 @@ function App() {
      <ResponsiveAppBar />
      <Hero/>
      <Bio />
-      <ProfSkills />
+     <ProfSkills />
      <WorkExpAccordions />
      <Projects />
      <FetchBlogData />

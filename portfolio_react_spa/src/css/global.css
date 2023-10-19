@@ -21,47 +21,19 @@ body::-webkit-scrollbar-thumb {
 }
 
 @font-face {
-  font-family: ElMessiri;
+  font-family: League Spartan;
   font-style: normal;
-  src: url("/src/assets/fonts/el-messiri-v18-latin-500.woff");
-  format: ("woff");
-  src: url("/src/assets/fonts/el-messiri-v18-latin-500.woff2");
-  format: ("woff2");
+  src: url("/src/assets/fonts/league-spartan-latin-400-normal.woff");
   font-display: swap;
-  font-weight: 500;
+  font-weight: 400;
 }
 
 @font-face {
-  font-family: ElMessiri;
-  font-style: semi-bold;
-  src: url("/src/assets/fonts/el-messiri-v18-latin-600.woff");
-  format: ("woff");
-  src: url("/src/assets/fonts/el-messiri-v18-latin-600.woff2");
-  format: ("woff2");
-  font-display: swap;
-  font-weight: 600;
-}
-
-@font-face {
-  font-family: ElMessiri;
-  font-style: bold;
-  src: url("/src/assets/fonts/el-messiri-v18-latin-700.woff");
-  format: ("woff");
-  src: url("/src/assets/fonts/el-messiri-v18-latin-700.woff2");
-  format: ("woff2");
+  font-family: Playfair Display;
+  font-style: normal;
+  src: url("/src/assets/fonts/playfair-display-latin-700-normal.woff");
   font-display: swap;
   font-weight: 700;
-}
-
-@font-face {
-  font-family: AlegreyaSans;
-  font-style: normal;
-  src: url("/src/assets/fonts/alegreya-sans-v24-latin-regular.woff");
-  format: ("woff");
-  src: url("/src/assets/fonts/alegreya-sans-v24-latin-regular.woff2");
-  format: ("woff2");
-  font-display: swap;
-  font-weight: 500;
 }
 
 /* Navigation */
@@ -79,7 +51,7 @@ footer {
   border-radius: 5px 5px 0 0;
 }
 
-/* foorm comment multiline field override */
+/* form comment multiline field override */
 #body-txt-required {
   color: #fff;
   font-weight: bold;

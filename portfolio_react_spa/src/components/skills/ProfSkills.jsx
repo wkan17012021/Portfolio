@@ -6,7 +6,8 @@ import SkillsGrid from "../skillsGrid/SkillsGrid";
 
 const ProfSkills = () => {
   return (
-    <Container sx={{marginTop: '1.2rem'}}>
+    <Container 
+    sx={{marginTop: '1.2rem'}}>
       <Box>
          <Typography variant="h2" gutterBottom>
         Professional Skills

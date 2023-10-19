@@ -1,5 +1,5 @@
 import OYWProj from "../assets/oyw-london_converted.webp";
-import RLTProj from "../assets/rlt_placeholder.webp";
+import RosetonProj from "../assets/roseton_placeholder.webp";
 import PoolProj from "../assets/pool_placeholder.webp";
 
 export const projList = [
@@ -14,11 +14,11 @@ export const projList = [
   },
   {
     id: 2,
-    title: "Road Less Travelled",
-    duration: "December 2021",
-    url: "https://theroadlesstravelled.netlify.app/",
-    img: RLTProj,
-    alt: "placeholder image of Road Less Travelled Project: geologically themed travel website",
+    title: "Canva Design to Code",
+    duration: "Sept 2023",
+    url: "https://roseton-travel-and-tours.netlify.app/",
+    img: RosetonProj,
+    alt: "placeholder image for the Canva Design to Code: Roseton Travel & Tours Template",
   },
   {
     id: 3,

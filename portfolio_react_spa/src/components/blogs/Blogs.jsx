@@ -21,7 +21,7 @@ const theme = createTheme({
   typography : {
     h2: {
       fontSize: 'clamp(2rem, 3rem, 3.6rem)',
-      fontFamily: 'ElMessiri, Iowan Old Style',
+      fontFamily: 'Playfair Display, Iowan Old Style',  
       fontWeight: 700,
       color: "#407bff",
     },
@@ -67,10 +67,10 @@ export default function Blogs(blogData) {
                 loading="lazy"
               />
               <CardContent>
-                <Typography gutterBottom fontFamily={'ElMessiri'} fontSize={'1.8rem'} variant="h3">
+                <Typography gutterBottom fontFamily={'Playfair Display'} fontSize={'1.5rem'} variant="h3">
                   {item.title}
                 </Typography>
-                <Typography variant="body" color="text.secondary" fontFamily={'AlegreyaSans'} fontSize={'1rem'} letterSpacing={'1.2px'}>
+                <Typography variant="body" color="text.secondary" fontFamily={'League Spartan'} fontSize={'1rem'} letterSpacing={'1.2px'}>
                   {item.brief}
                 </Typography>
               </CardContent>

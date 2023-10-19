@@ -24,9 +24,9 @@ const Projects = () => {
           <Stack 
           m={4}
           direction={{ xs: 'column', md: 'row' }}
-          spacing={{ xs: 4, sm: 6, md: 12 }}
-          alignItems="center"
-          justifyContent="center"
+          spacing={{ xs: 6, sm: 8 }}
+          alignItems={{ xs: 'center', md: 'flex-start'}}
+          justifyContent="start"
           >
             {projList.map(proj => {
                 return proj.url ?
@@ -38,7 +38,7 @@ const Projects = () => {
                 <CardActionArea>
                   <CardMedia
                     component="img"
-                    height="240"
+                    height="250"
                     image={proj.img}
                     alt={proj.alt}
                   />
