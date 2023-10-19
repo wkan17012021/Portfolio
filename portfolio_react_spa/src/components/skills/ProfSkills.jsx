@@ -2,7 +2,7 @@ import React from "react";
 import Typography from "@mui/material/Typography";
 import Box from '@mui/material/Box';
 import Container from "@mui/material/Container";
-import SkillsMarquee from "../marquee/SkillsMarquee";
+import SkillsGrid from "../skillsGrid/SkillsGrid";
 
 const ProfSkills = () => {
   return (
@@ -12,8 +12,7 @@ const ProfSkills = () => {
         Professional Skills
       </Typography>
       </Box>
-      <SkillsMarquee direction={'left'} />
-      <SkillsMarquee direction={'right'} />
+      <SkillsGrid />
     </Container>
   );
 };

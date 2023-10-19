@@ -1,31 +1,29 @@
 import React from 'react'
-import Marquee from "react-fast-marquee";
+import Grid from '@mui/material/Grid';
 import SkillCards from '../skillCards/SkillCards';
 import { skills } from "../../data/skillsList";
 
-export default function SkillsMarquee(props) {
+export default function SkillsGrid(props) {
   return (
-    <Marquee
+    <Grid container spacing={2}
     style={{minHeight: "200px", marginTop: '1.2rem'}}
-    play={true}
-    pauseOnHover={true}
-    delay={2}
-    speed={100}
-    gradient={true}
-    gradientColor={[46,49,65]}
-    gradientWidth={25}
-    direction={props.direction}
     >
     {skills.map((skill) => {
       return (
+        <Grid
+        item
+        xs={12}
+        md={6}
+        lg={4}>
         <SkillCards 
         title={skill.skillTitle}
         desc={skill.source}
         icon={skill.img}
         alt={skill.alt}
         />
+        </Grid>
       )
     })}
-    </Marquee>
+    </Grid>
   )
 }
