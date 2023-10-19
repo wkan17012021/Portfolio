@@ -6,6 +6,7 @@ import Typography from "@mui/material/Typography";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import Container from "@mui/material/Container";
 import Box from '@mui/material/Box';
+import Link from '@mui/material/Link';
 import {workExp} from "../../data/workExp";
 
 export default function WorkExpAccordions() {
@@ -60,6 +61,7 @@ export default function WorkExpAccordions() {
                 <Typography 
                  style={{ whiteSpace: "pre-line", verticalAlign: "bottom" }}
                 >{job.body}</Typography>
+                <Link href={job.projLink} underline="hover" target="_blank" rel="noopener">Read about the Project Here</Link>
               </AccordionDetails>
             </Accordion>
           );

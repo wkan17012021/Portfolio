@@ -15,7 +15,7 @@
   content: "";
   position: absolute;
   inset: 0;
-  opacity: 0.9;
+  opacity: 0.75;
   background: linear-gradient(
       var(--gradient-dir),
       black 0%,
@@ -40,7 +40,7 @@
 }
 @media (min-width: 800px) {
   .hero {
-    --gradient-dir: to right;
+    --gradient-dir: to top right;
   }
 }
 .hero__wrapper {

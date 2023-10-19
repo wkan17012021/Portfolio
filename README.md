@@ -79,7 +79,7 @@ Added an image of a background gradient (source was from HTML5UP templates - Hel
 - Replaced some components as they were not applicable or could be combined with others e.g. social grid component - largely removed but transferred social media icons to the footer; or the boring list of professional skills which has been transformed into marquee components!
 
 ### V.04
-- Oct -> Dec 2023: minor tweaks. Swap out the react marquee as I found out only after getting it to work that, it is a deprecated feature.
+- Oct -> Dec 2023: minor tweaks. Swap out the react marquee as I found out only after getting it to work that, it is a deprecated feature. Change content for work exp to project based statement with an accompanying blog post for a deep dive into the work using STAR method.
 ### Challenges
 
 #### Learning how to use MUI v.5
