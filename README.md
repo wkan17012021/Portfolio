@@ -1,3 +1,5 @@
+# My Developer Portfolio 🖼️
+
 > This is ten percent luck
 
 > Twenty percent skill
@@ -12,11 +14,8 @@
 
 'Fort Minor - 2005 - The Rising Tied'
 
-# My Developer Portfolio 🖼️
-
-The above lyrics sums up how I feel about development.
-
-This is my GitHub Repo of iterations on my personal portfolio which I use to support the interviewing process and showcase projects.
+These lyrics describe how I feel about learning development post-pandemic.
+Here's my GitHub Repo of iterations on my personal portfolio. 
 
 ![Screenshot of Portfolio on page load](portfolio_react_spa/design/Screenshot_Portfolio.png)
 ## Changelog
@@ -79,6 +78,8 @@ Added an image of a background gradient (source was from HTML5UP templates - Hel
 - Reworked layouts and structure as they were a bit janky or not responsive.
 - Replaced some components as they were not applicable or could be combined with others e.g. social grid component - largely removed but transferred social media icons to the footer; or the boring list of professional skills which has been transformed into marquee components!
 
+### V.04
+- Oct -> Dec 2023: minor tweaks. Swap out the react marquee as I found out only after getting it to work that, it is a deprecated feature. Change content for work exp to project based statement with an accompanying blog post for a deep dive into the work using STAR method.
 ### Challenges
 
 #### Learning how to use MUI v.5

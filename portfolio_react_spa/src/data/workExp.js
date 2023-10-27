@@ -6,13 +6,9 @@ export const workExp = {
       ariaControls: "techpanel1bh-content",
       title: "One Young World, Central London - Digital Apprentice",
       year: "Mar 2022 - present",
-      body: `2 year training program learning software development lifecycle stages.
-      Documenting and reporting the learning experience through structured apprenticeship training program (technical and professional skills development).
-      Drupal CMS Website maintenance
-      Collaboration in a small development team: requirements gathering from content team members, debugging, code production, review and documentation.
-      Exposure to production code base, version control management and Drupal D9 site building.
-      Tech support: client-facing role requiring conflict resolution, reporting and escalating bugs and communicating fixes.
+      body: `Managed and delivered the organisation's National Boards (NB) Project: requirements gathering with content editors, design brainstorming, Drupal Views Configuration for NB Chair Leaders and NB Country Members, twig templating to apply custom styling presentation and content creation.
       `,
+      projLink: 'https://the-dog-can-blog.hashnode.dev/one-young-world-national-boards-project',
     },
   ],
   nonTechjobs: [
