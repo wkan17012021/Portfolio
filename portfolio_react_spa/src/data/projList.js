@@ -1,5 +1,6 @@
 import RosetonProj from "../assets/roseton_placeholder.webp";
 import RltProj from "../assets/rlt_placeholder.webp";
+import RFSProj from "../assets/rfs_placeholder.webp";
 
 export const projList = [
   {
@@ -9,10 +10,19 @@ export const projList = [
     url: "https://road-less-travelled.co.uk/",
     img: RltProj,
     alt: "placeholder image of the road less travelled project above the fold website",
-    // brief: "https://github.com/wkan17012021/notes-app",
   },
   {
     id: 2,
+    title: "Volunteer web designer: RFS",
+    duration: "November 2023 - August 2024",
+    url: "https://www.rfsonline.co.uk/",
+    img: RFSProj,
+    alt: "placeholder image of the Richmond Furniture Scheme Website above the fold",
+    brief:
+      "https://the-dog-can-blog.hashnode.dev/project-experience-redesigning-richmond-furniture-schemes-website",
+  },
+  {
+    id: 3,
     title: "Canva Design to Code",
     duration: "Sept 2023",
     url: "https://roseton-travel-and-tours.netlify.app/",
