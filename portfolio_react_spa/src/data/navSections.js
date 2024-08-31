@@ -16,11 +16,6 @@ export const sections = [
   },
   {
     id: 4,
-    hdg: "Blog",
-    href: "#blogs-section",
-  },
-  {
-    id: 5,
     hdg: "Contact",
     href: "#contact-section",
   },
