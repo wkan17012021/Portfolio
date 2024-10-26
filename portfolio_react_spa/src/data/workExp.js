@@ -4,10 +4,9 @@ export const workExp = {
       id: 1,
       panelNum: "techpanel1",
       ariaControls: "techpanel1bh-content",
-      title: "One Young World, Central London - Digital Apprentice",
+      title: "One Young World, Central London - Junior Drupal Developer",
       year: "Mar 2022 - present",
-      body: `Managed and delivered the organisation's National Boards (NB) Project: requirements gathering with content editors, design brainstorming, Drupal Views Configuration for NB Chair Leaders and NB Country Members, twig templating to apply custom styling presentation and content creation.
-      `,
+      body: `Translating figma designs into Storybook (Component Library) and frontend theming in Drupal 10. Supporting the maintenance, site building and configuration of the organisation's sites and leading on all content-based projects between stakeholders and the digital team.`,
       projLink: 'https://the-dog-can-blog.hashnode.dev/one-young-world-national-boards-project',
     },
   ],
