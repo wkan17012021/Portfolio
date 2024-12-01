@@ -1,15 +1,16 @@
 import RosetonProj from "../assets/roseton_placeholder.webp";
 import RltProj from "../assets/rlt_placeholder.webp";
 import RFSProj from "../assets/rfs_placeholder.webp";
+import SBUIProj from "../assets/sb_comp_library_placeholder.webp";
 
 export const projList = [
   {
     id: 1,
-    title: "Redesign and build of an existing travel site",
-    duration: "July 2024 - Present",
-    url: "https://road-less-travelled.co.uk/",
-    img: RltProj,
-    alt: "placeholder image of the road less travelled project above the fold website",
+    title: "Storybook UI Component Library",
+    duration: "June 2024 ongoing",
+    url: "https://wkan17012021.github.io/storybook-twig-component-library/",
+    img: SBUIProj,
+    alt: "placeholder image for the Storybook UI Component Library project",
   },
   {
     id: 2,
@@ -28,5 +29,13 @@ export const projList = [
     url: "https://roseton-travel-and-tours.netlify.app/",
     img: RosetonProj,
     alt: "placeholder image for the Canva Design to Code: Roseton Travel & Tours Template",
+  },
+  {
+    id: 4,
+    title: "Redesign and build of an existing travel site",
+    duration: "July 2024 - Present",
+    url: "https://road-less-travelled.co.uk/",
+    img: RltProj,
+    alt: "placeholder image of the road less travelled project above the fold website",
   },
 ];
