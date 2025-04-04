@@ -3,25 +3,29 @@ import { useState, useEffect } from "react";
 import Blogs from "../components/blogs/Blogs";
 
 const query = `
-{
-  user(username:"kDog") {
-    publication {
-      posts {
-        _id
-        title
-        slug
-        brief
-        coverImage
-      }
+query Publication {
+    publication(host: "the-dog-can-blog.hashnode.dev") {
+        posts(first: 5) {
+            edges {
+                node {
+                    title
+                    brief
+                    url
+         	 					coverImage {
+            					url
+          					}
+                      slug
+                }
+            }
+        }
     }
-  }
 }`;
 
 const FetchBlogData = () => {
   const [blogData, setBlogData] = useState(null);
 
   useEffect(() => {
-    fetch("https://api.hashnode.com", {
+    fetch("https://gql.hashnode.com", {
       method: "post",
       headers: {
         "Content-Type": "application/json",
@@ -32,9 +36,9 @@ const FetchBlogData = () => {
         return response.json();
       })
       .then((data) => {
-        const dataArr = Object.entries(data);
-        const blogArr = [...dataArr[0][1].user.publication.posts]; 
-        setBlogData(blogArr);
+        console.log(data)
+        const posts = data.data.publication.posts.edges;
+        setBlogData(posts);
       });
   }, []);
 

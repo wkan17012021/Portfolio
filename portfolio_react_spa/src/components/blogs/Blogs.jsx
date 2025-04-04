@@ -56,22 +56,22 @@ export default function Blogs(blogData) {
           hrefLang="en" 
             target="_blank" 
             rel="noreferrer"
-            href={`https://the-dog-can-blog.hashnode.dev/${item.slug}`}>
+            href={`https://the-dog-can-blog.hashnode.dev/${item.node.slug}`}>
               <Card component={"article"} sx={{ margin: '0.5rem' }}>
               <CardMedia
                 component="img"
                 alt="random cover image for blog article"
                 width="264"
                 height="200"
-                image={item.coverImage}
+                image={item.node.coverImage.url}
                 loading="lazy"
               />
               <CardContent>
                 <Typography gutterBottom fontFamily={'Playfair Display'} fontSize={'1.5rem'} variant="h3">
-                  {item.title}
+                  {item.node.title}
                 </Typography>
                 <Typography variant="body" color="text.secondary" fontFamily={'League Spartan'} fontSize={'1rem'} letterSpacing={'1.2px'}>
-                  {item.brief}
+                  {item.node.brief}
                 </Typography>
               </CardContent>
             </Card>
