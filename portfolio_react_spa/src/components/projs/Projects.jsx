@@ -22,11 +22,13 @@ const Projects = () => {
       </Typography>
         </Box>
           <Stack 
-          m={4}
-          direction={{ xs: 'column', lg: 'row' }}
-          spacing={{ xs: 4, md: 4 }}
-          alignItems={{ xs: 'center', md: 'flex-start'}}
-          justifyContent="start"
+          m={2}
+          direction={{ xs: 'column', md: 'row' }}
+          spacing={{ xs: 4, md: 3 }}
+          alignItems={{ xs: 'start'}}
+          justifyContent={{ xs: 'start', md: 'center' }}
+          flexWrap={{ md: 'wrap' }}
+          useFlexGap
           >
             {projList.map(proj => {
                 return proj.url ?
@@ -34,7 +36,7 @@ const Projects = () => {
                   textUnderlineOffset: '10px',
                   "&:hover": 'color: red',
                 }}>
-                <Card key={proj.id} sx={{ maxWidth: 345 }}>
+                <Card key={proj.id} sx={{ maxWidth: 360 }}>
                 <CardActionArea>
                   <CardMedia
                     component="img"

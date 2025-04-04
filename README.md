@@ -1,21 +1,5 @@
 # My Developer Portfolio 🖼️
-
-> This is ten percent luck
-
-> Twenty percent skill
-
-> Fifteen percent concentrated power of will
-
-> Five percent pleasure
-
-> Fifty percent pain
-
-> And a hundred percent reason to remember the name
-
-'Fort Minor - 2005 - The Rising Tied'
-
-These lyrics describe how I feel about learning development post-pandemic.
-Here's my GitHub Repo of iterations on my personal portfolio. 
+A GitHub Repo to store iterations on my personal portfolio. 
 
 ![Screenshot of Portfolio on page load](portfolio_react_spa/design/Screenshot_Portfolio.png)
 ## Changelog
@@ -80,6 +64,9 @@ Added an image of a background gradient (source was from HTML5UP templates - Hel
 
 ### V.04
 - Oct -> Dec 2023: minor tweaks. Swap out the react marquee as I found out only after getting it to work that, it is a deprecated feature. Change content for work exp to project based statement with an accompanying blog post for a deep dive into the work using STAR method.
+### V.05
+- 2025: Add volunteer projects. Remove redundant files.
+
 ### Challenges
 
 #### Learning how to use MUI v.5
