@@ -7,7 +7,10 @@ import ProfileImg from "../../assets/profile-photo.svg"
 
 const Hero = () => {
   return (
-    <section className="hero">
+    <Box 
+    component="section"
+    className="hero"
+    sx={{userSelect: 'none'}}>
       <div className="wrapper hero__wrapper">
         <Container
           className="hero__content"
@@ -55,7 +58,7 @@ const Hero = () => {
           alt="hiker sitting on a rock looking out into the sunset with a cityscape backdrop"
         ></Box>
       </div>
-    </section>
+    </Box>
   );
 };
 

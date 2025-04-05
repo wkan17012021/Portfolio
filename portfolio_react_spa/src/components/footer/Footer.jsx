@@ -7,7 +7,7 @@ import List from "@mui/material/List";
 import ListItem from "@mui/material/ListItem";
 import Link from "@mui/material/Link";
 import Tooltip from "@mui/material/Tooltip";
-import { SiLinkedin, SiTwitter, SiGithub, SiHashnode } from "react-icons/si";
+import { SiLinkedin, SiX, SiGithub, SiHashnode } from "react-icons/si";
 import { footerDetails } from "../../data/footerDetails";
 
 function Copyright() {
@@ -93,14 +93,14 @@ function Footer() {
             </Tooltip>
           </ListItem>
           <ListItem>
-            <Tooltip title="Let's chat on Twitter" placement="bottom" arrow>
+            <Tooltip title="Let's chat on X" placement="bottom" arrow>
               <Link
                 hrefLang="en"
                 target="_blank"
-                href="https://twitter.com/willkancode"
+                href="https://x.com/willkancode"
                 sx={{ color: "whitesmoke" }}
               >
-                <SiTwitter size={32} title="Let's chat on Twitter" />
+                <SiX size={32} title="Let's chat on Twitter" />
               </Link>
             </Tooltip>
           </ListItem>

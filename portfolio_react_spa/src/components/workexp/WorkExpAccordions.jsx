@@ -61,7 +61,7 @@ export default function WorkExpAccordions() {
                 <Typography 
                  style={{ whiteSpace: "pre-line", verticalAlign: "bottom" }}
                 >{job.body}</Typography>
-                <Link href={job.projLink} underline="hover" target="_blank" rel="noopener">Read about the Project Here</Link>
+                <Link href={job.projLink} underline="hover" target="_blank" rel="noopener">Read about a Project Here</Link>
               </AccordionDetails>
             </Accordion>
           );

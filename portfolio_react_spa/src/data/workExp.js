@@ -6,7 +6,7 @@ export const workExp = {
       ariaControls: "techpanel1bh-content",
       title: "One Young World, Central London - Junior Drupal Developer",
       year: "Mar 2022 - present",
-      body: `Translating figma designs into Storybook (Component Library) and frontend theming in Drupal 10. Supporting the maintenance, site building and configuration of the organisation's sites and leading on all content-based projects between stakeholders and the digital team.`,
+      body: `Responsible for translating figma designs into Storybook (Component Library) UI components following atomic design pattern. Configuration of Drupal CMS, writing custom theme hooks, preprocessing, twig templating. Lead on all content-based projects between stakeholders and the digital team as well as training non-technical users to build webpages and manage content responsibly.`,
       projLink: 'https://the-dog-can-blog.hashnode.dev/one-young-world-national-boards-project',
     },
   ],

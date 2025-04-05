@@ -20,18 +20,7 @@ const Bio = () => {
             </Container>
             <Container>
               <Typography variant="body1" paddingBottom={4}>
-                Junior web and software developer seeking hybrid-working
-                opportunities in South-West London, Central London or fully
-                remote roles
-              </Typography>
-              <hr />
-            </Container>
-            <Container sx={{ marginTop: 4 }}>
-              <Typography variant="body1">
-                I am a life-long learner, continually applying new technologies
-                and programming tools so that I can enhance my capabilities as a
-                developer and aspire to provide support for front- and back-end
-                innovative solutions
+              I'm a web developer enthusiastic about building accessible, responsive websites for the non profit sector. I specialize in front-end development using Drupal and WordPress CMS. I'm open to discussing opportunities where my skills and experience can support digital solutions.
               </Typography>
             </Container>
           </Grid>
