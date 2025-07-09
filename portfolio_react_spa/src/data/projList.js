@@ -1,4 +1,3 @@
-import RltProj from "../assets/rlt_placeholder.webp";
 import RFSProj from "../assets/rfs_placeholder.webp";
 import SBUIProj from "../assets/sb_comp_library_placeholder.webp";
 import HHAProj from "../assets/hha_placeholder.webp";
@@ -17,14 +16,6 @@ export const projList = [
   },
   {
     id: 2,
-    title: "WordPress: Road Less Travelled",
-    duration: "Jul 2024 - Present",
-    url: "https://road-less-travelled.co.uk/",
-    img: RltProj,
-    alt: "placeholder image of the road less travelled project above the fold website",
-  },
-  {
-    id: 3,
     title: "Storybook Component Library",
     duration: "Jun 2024 ongoing",
     url: "https://wkan17012021.github.io/storybook-twig-component-library/",
@@ -33,7 +24,7 @@ export const projList = [
     brief: "https://the-dog-can-blog.hashnode.dev/how-to-set-up-a-storybook-twightml-library-and-deploy-with-github-actions"
   },
   {
-    id: 4,
+    id: 3,
     title: "WordPress redesign: RFS",
     duration: "Nov 2023 - Aug 2024",
     url: "https://www.rfsonline.co.uk/",
@@ -43,7 +34,7 @@ export const projList = [
       "https://the-dog-can-blog.hashnode.dev/project-experience-redesigning-richmond-furniture-schemes-website",
   },
   {
-    id: 5,
+    id: 4,
     title: "WordPress redesign: TGIUK",
     duration: "Nov 2023 - May 2024",
     url: "https://www.hamptonhilllassociation.co.uk/",
@@ -52,4 +43,5 @@ export const projList = [
     brief:
       "https://the-dog-can-blog.hashnode.dev/project-experience-volunteering-as-a-site-builder-for-tgiuk",
   },
+  
 ];
