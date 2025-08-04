@@ -43,7 +43,7 @@ export function dateRange(startDate: Date, endDate?: Date | string): string {
 export function heroImgRandomiser() {
   // Astro's import.meta.glob only works in .astro/.mdx/.ts server-side files
   // This function should be called server-side only
-  const globResult = import.meta.glob("/public/hero-images/*", { as: "url", eager: true });
+  const globResult = import.meta.glob("/hero-images/*", { as: "url", eager: true });
   const images = Object.values(globResult).filter((img) => {
     // Exclude system files or folders (e.g. .DS_Store)
     return typeof img === "string" && !img.endsWith(".DS_Store");
