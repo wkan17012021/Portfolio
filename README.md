@@ -1,7 +1,7 @@
 # My Developer Portfolio 🖼️
 A GitHub Repo to store iterations on my personal portfolio. 
 
-![Screenshot of Portfolio on page load](portfolio_react_spa/design/Screenshot_Portfolio.png)
+![Screenshot of Portfolio on page load](portfolio_astro/src/screenshot-portfolio_converted.webp)
 ## Changelog
 
 ### V.01
