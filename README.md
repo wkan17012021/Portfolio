@@ -1,7 +1,7 @@
 # My Developer Portfolio 🖼️
 A GitHub Repo to store iterations on my personal portfolio. 
 
-![Screenshot of Portfolio on page load](portfolio_react_spa/design/Screenshot_Portfolio.png)
+![Screenshot of Portfolio on page load](portfolio_astro/src/screenshot-portfolio_converted.webp)
 ## Changelog
 
 ### V.01
@@ -66,6 +66,9 @@ Added an image of a background gradient (source was from HTML5UP templates - Hel
 - Oct -> Dec 2023: minor tweaks. Swap out the react marquee as I found out only after getting it to work that, it is a deprecated feature. Change content for work exp to project based statement with an accompanying blog post for a deep dive into the work using STAR method.
 ### V.05
 - 2025: Add volunteer projects. Remove redundant files.
+
+### V.06
+- 2025: Migrate react spa project to use static site generator Astro. This will allow me to use the same content for my portfolio and blog posts, and also make it easier to manage the content in a structured way.
 
 ### Challenges
 
