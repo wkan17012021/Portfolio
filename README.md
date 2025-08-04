@@ -67,6 +67,9 @@ Added an image of a background gradient (source was from HTML5UP templates - Hel
 ### V.05
 - 2025: Add volunteer projects. Remove redundant files.
 
+### V.06
+- 2025: Migrate react spa project to use static site generator Astro. This will allow me to use the same content for my portfolio and blog posts, and also make it easier to manage the content in a structured way.
+
 ### Challenges
 
 #### Learning how to use MUI v.5
