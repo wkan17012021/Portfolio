@@ -40,17 +40,23 @@ export function dateRange(startDate: Date, endDate?: Date | string): string {
 }
 
 
-export function heroImgRandomiser() {
-  // Astro's import.meta.glob only works in .astro/.mdx/.ts server-side files
-  // This function should be called server-side only
-  const globResult = import.meta.glob("/hero-images/*", { as: "url", eager: true });
-  const images = Object.values(globResult).filter((img) => {
-    // Exclude system files or folders (e.g. .DS_Store)
-    return typeof img === "string" && !img.endsWith(".DS_Store");
+export function heroImgRandomiser(): string | undefined {
+  const globResult = import.meta.glob("../assets/hero-images/*", {
+    query: "?url",
+    import: "default",
+    eager: true,
   });
+
+  const images = Object.values(globResult).filter(
+      (img): img is string => typeof img === "string" && !img.endsWith(".DS_Store")
+  );
+
   if (images.length === 0) {
+    console.warn("No hero images found");
     return undefined;
   }
+
   const randomIndex = Math.floor(Math.random() * images.length);
+  console.log(images[randomIndex]);
   return images[randomIndex];
 }
