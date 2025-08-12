@@ -16,6 +16,8 @@ def import_hashnode_posts(json_file_path, output_dir):
     """
     Imports Hashnode blog posts from a JSON file into Astro Markdown format,
     creating numbered subdirectories based on publication order.
+    Pulls hero image URL from 'coverImage' and uses 'title' as alt text.
+    Includes brief and subtitle, and sets tags to an empty array.
     """
     if not os.path.exists(json_file_path):
         print(f"Error: JSON file not found at '{json_file_path}'")
@@ -64,11 +66,18 @@ def import_hashnode_posts(json_file_path, output_dir):
             date_added_str = post.get('dateAdded')
             content_markdown = post.get('contentMarkdown', '')
 
-            # Extract tags directly as a list of strings
-            tags_list = post.get('tags', [])
+            # New: Extract brief and subtitle
+            brief = post.get('brief', '')
+            subtitle = post.get('subtitle', '')
 
-            # Extract coverImage directly as a URL string
-            cover_image = post.get('coverImage')
+            # Pull hero image URL from the manually updated 'coverImage' field
+            hero_image = post.get('coverImage', '')
+
+            # Set heroalt to the post title
+            hero_alt = title.replace('"', "'")
+
+            # Tags will be an empty array as requested
+            tags_list = []
 
             # Generate slug if not present (though Hashnode usually provides one)
             if not slug:
@@ -81,18 +90,21 @@ def import_hashnode_posts(json_file_path, output_dir):
             try:
                 # Hashnode's dateAdded is typically ISO 8601 already
                 post_date = datetime.fromisoformat(date_added_str.replace('Z', '+00:00')) if date_added_str else datetime.now()
-                formatted_date = post_date.strftime("%Y-%m-%d") # Changed format here
+                formatted_date = post_date.strftime("%Y-%m-%d")
             except ValueError:
                 print(f"Warning: Could not parse date '{date_added_str}' for post '{title}'. Using current date.")
-                formatted_date = datetime.now().strftime("%Y-%m-%d") # Changed format here
+                formatted_date = datetime.now().strftime("%Y-%m-%d")
 
             # Construct Astro frontmatter
             frontmatter = f"""---
 title: "{title.replace('"', "'")}"
 description: "A blog post about {title}"
 date: {formatted_date}
-updatedDate: {formatted_date}
-heroImage: {cover_image if cover_image else 'https://placehold.co/1024x768/cccccc/333333?text=Placeholder'}
+updateddate: {formatted_date}
+brief: "{brief.replace('"', "'")}"
+subtitle: "{subtitle.replace('"', "'")}"
+heroimage: "{hero_image}"
+heroalt: "{hero_alt}"
 tags: {json.dumps(tags_list)}
 ---
 """

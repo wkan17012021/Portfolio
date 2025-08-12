@@ -1,14 +1,15 @@
 ---
+import { Image } from "astro:assets";
 import { type CollectionEntry, getCollection } from "astro:content";
 import PageLayout from "@layouts/PageLayout.astro";
-import Container from "@components/Container.astro";
+import BlogContainer from "@components/BlogContainer.astro";
 import FormattedDate from "@components/FormattedDate.astro";
 import { readingTime } from "@lib/utils";
 import BackToPrev from "@components/BackToPrev.astro";
 
 export async function getStaticPaths() {
   const posts = (await getCollection("blog"))
-    .filter(post => !post.data.draft)
+    .filter((post) => !post.data.draft)
     .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
   return posts.map((post) => ({
     params: { slug: post.slug },
@@ -18,32 +19,179 @@ export async function getStaticPaths() {
 type Props = CollectionEntry<"blog">;
 
 const post = Astro.props;
-const { Content } = await post.render();
+const { Content, headings } = await post.render();
+const validHeadings = headings.filter(
+  (heading) => heading.depth === 2 || heading.depth === 3
+);
 ---
 
 <PageLayout title={post.data.title} description={post.data.description}>
-  <Container>
-    <div class="animate">
-      <BackToPrev href="/blog">
-        Back to blog
-      </BackToPrev>
-    </div>
-    <div class="space-y-1 my-10">
-      <div class="animate flex items-center gap-1.5">
-        <div class="font-base text-sm">
-          <FormattedDate date={post.data.date} />
+  <BlogContainer>
+    <!-- Blog Article -->
+    <div class="max-w-[85rem] px-4 sm:px-6 lg:px-8 mx-auto">
+      <div class="grid lg:grid-cols-3 gap-y-8 lg:gap-y-0 lg:gap-x-6">
+        <!-- Content -->
+        <div class="lg:col-span-2">
+          <div class="py-8">
+            <div class="space-y-1 my-10">
+              <div class="animate my-4">
+                <BackToPrev href="/blog"> Back to blog </BackToPrev>
+              </div>
+              <div class="animate flex items-center gap-1.5">
+                <div class="font-base text-sm">
+                  <FormattedDate date={post.data.date} />
+                </div>
+                &bull;
+                <div class="font-base text-sm">
+                  {readingTime(post.body)}
+                </div>
+              </div>
+              <div
+                class="animate text-2xl font-semibold text-black dark:text-white"
+              >
+                {post.data.title}
+              </div>
+              <div class="animate">
+                {
+                  post.data.heroimage && (
+                    <img
+                      src={post.data.heroimage}
+                      alt={post.data.heroalt}
+                      class="w-full max-w-[768px] mx-auto rounded-lg mb-6"
+                      width="768"
+                      height="400"
+                      loading="eager"
+                      decoding="async"
+                    />
+                  )
+                }
+              </div>
+            </div>
+            <article class="animate mx-auto max-w-[70ch]">
+              <Content />
+            </article>
+          </div>
         </div>
-        &bull;
-        <div class="font-base text-sm">
-          {readingTime(post.body)}
+
+        <!-- Sidebar -->
+        <div
+          class="hidden lg:block lg:col-span-1 lg:w-full lg:h-full lg:bg-linear-to-r lg:from-gray-50 lg:via-transparent lg:to-transparent"
+        >
+          <div class="sticky top-0 start-0 py-8 lg:ps-8">
+            <!-- Avatar Media -->
+            <div
+              class="group flex items-center gap-x-3 border-b border-gray-200 pb-8 mb-8"
+            >
+              <div class="block shrink-0 focus:outline-hidden">
+                <img
+                  class="size-10 rounded-full"
+                  src="/src/assets/profile-images/profile_photo_square.jpg"
+                  alt="Avatar"
+                />
+              </div>
+
+              <div class="group grow block focus:outline-hidden">
+                <h5 class="text-gray-800">William Kan</h5>
+                <p class="text-sm text-gray-500 dark:text-white">
+                  Web Developer and Blogger
+                </p>
+              </div>
+
+              <!-- This could be a share or follow button - develop the functionality -->
+              <!-- <div class="grow">
+            <div class="flex justify-end">
+              <button type="button" class="py-1.5 px-2.5 inline-flex items-center gap-x-2 text-xs font-medium rounded-lg border border-transparent bg-blue-600 text-white hover:bg-blue-700 focus:outline-hidden focus:bg-blue-700 disabled:opacity-50 disabled:pointer-events-none">
+                <svg class="shrink-0 size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><line x1="19" x2="19" y1="8" y2="14"/><line x1="22" x2="16" y1="11" y2="11"/></svg>
+                Follow
+              </button>
+            </div>
+          </div> -->
+            </div>
+
+            <!-- End Avatar Media -->
+
+            <!-- Start of Tabel of Contents -->
+            <div class="space-y-6">
+              {
+                validHeadings.length > 0 && (
+                  <div class="relative w-full overflow-hidden border border-slate-200 bg-white dark:border-slate-800/80 dark:bg-slate-950 mx-auto mb-10 max-w-[812px] rounded-xl">
+                    <div class="pr-4 pb-4">
+                      <h2 class="px-6 py-5 pb-4 text-lg font-semibold text-slate-700  dark:text-slate-200">
+                        Table of contents
+                      </h2>
+                      <ul class="pl-4 dark:border-slate-800">
+                        {validHeadings.map((heading) => (
+                          <li>
+                            <a
+                              href={`#${heading.slug}`}
+                              aria-label={`#${heading.slug}`}
+                              class="mb-1 flex items-center gap-x-2 rounded-lg px-2 focus:outline-none hover:bg-slate-100 focus:bg-slate-100 dark:hover:bg-slate-800 dark:focus:bg-slate-800"
+                            >
+                              <div class="w-full break-words py-2 text-base focus:outline-none text-slate-700  dark:text-slate-200">
+                                {heading.text}
+                              </div>
+                            </a>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  </div>
+                )
+              }
+            </div>
+
+            <!-- This could be a view of latest blogs - develop the functionality -->
+
+            <!-- <div class="space-y-6"> -->
+            <!-- Media -->
+            <!-- <a class="group flex items-center gap-x-6 focus:outline-hidden" href="#">
+            <div class="grow">
+              <span class="text-sm font-bold text-gray-800 group-hover:text-blue-600 group-focus:text-blue-600">
+                5 Reasons to Not start a UX Designer Career in 2022/2023
+              </span>
+            </div>
+
+            <div class="shrink-0 relative rounded-lg overflow-hidden size-20">
+              <img class="size-full absolute top-0 start-0 object-cover rounded-lg" src="https://images.unsplash.com/photo-1567016526105-22da7c13161a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=320&q=80" alt="Blog Image">
+            </div>
+          </a> -->
+            <!-- End Media -->
+
+            <!-- Media -->
+            <!-- <a class="group flex items-center gap-x-6 focus:outline-hidden" href="#">
+            <div class="grow">
+              <span class="text-sm font-bold text-gray-800 group-hover:text-blue-600 group-focus:text-blue-600">
+                If your UX Portfolio has this 20% Well Done, it Will Give You an 80% Result
+              </span>
+            </div>
+
+            <div class="shrink-0 relative rounded-lg overflow-hidden size-20">
+              <img class="size-full absolute top-0 start-0 object-cover rounded-lg" src="https://images.unsplash.com/photo-1542125387-c71274d94f0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=320&q=80" alt="Blog Image">
+            </div>
+          </a> -->
+            <!-- End Media -->
+
+            <!-- Media -->
+            <!-- <a class="group flex items-center gap-x-6 focus:outline-hidden" href="#">
+            <div class="grow">
+              <span class="text-sm font-bold text-gray-800 group-hover:text-blue-600 group-focus:text-blue-600">
+                7 Principles of Icon Design
+              </span>
+            </div>
+
+            <div class="shrink-0 relative rounded-lg overflow-hidden size-20">
+              <img class="size-full absolute top-0 start-0 object-cover rounded-lg" src="https://images.unsplash.com/photo-1586232702178-f044c5f4d4b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=320&q=80" alt="Blog Image">
+            </div>
+          </a> -->
+            <!-- End Media -->
+            <!-- </div> -->
+          </div>
         </div>
-      </div>
-      <div class="animate text-2xl font-semibold text-black dark:text-white">
-        {post.data.title}
+        <!-- End Sidebar -->
       </div>
     </div>
-    <article class="animate">
-      <Content />
-    </article>
-  </Container>
+    <!-- End Content -->
+
+    <!-- End Blog Article -->
+  </BlogContainer>
 </PageLayout>
