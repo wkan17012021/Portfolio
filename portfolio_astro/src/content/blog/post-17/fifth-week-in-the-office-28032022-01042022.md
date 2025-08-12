@@ -2,9 +2,13 @@
 title: "Fifth Week in the Office (28/03/2022 - 01/04/2022)"
 description: "A blog post about Fifth Week in the Office (28/03/2022 - 01/04/2022)"
 date: 2022-04-10
-updatedDate: 2022-04-10
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1650235879613/GsldADlwA.jpg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-04-10
+brief: "This week was all about getting to grips with Drupal 9 administration back-end interface and finally returning some value to the team in terms of ticket resolution. But first, I'd like to discuss my first sprint planning meeting.
+2-week Sprints 🏃🏽‍..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1650235879613/GsldADlwA.jpg"
+heroalt: "Fifth Week in the Office (28/03/2022 - 01/04/2022)"
+tags: []
 ---
 
 This week was all about getting to grips with Drupal 9 administration back-end interface and finally returning some value to the team in terms of ticket resolution. But first, I'd like to discuss my first sprint planning meeting.

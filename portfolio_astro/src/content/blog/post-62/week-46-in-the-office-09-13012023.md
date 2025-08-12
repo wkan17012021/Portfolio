@@ -2,9 +2,12 @@
 title: "Week 46 in the Office (09 - 13/01/2023)"
 description: "A blog post about Week 46 in the Office (09 - 13/01/2023)"
 date: 2023-01-14
-updatedDate: 2023-01-14
-heroImage: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/DJ7bWa-Gwks/upload/4f36c8f6f96e53ac765bf095617d118a.jpeg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2023-01-14
+brief: "In the workplace, we have made some positive headway on a collaboration of a redesign of our homepage by copying a template from the New York University site. The markup seems to be based on an unordered list of items with each item represented as a ..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/DJ7bWa-Gwks/upload/4f36c8f6f96e53ac765bf095617d118a.jpeg"
+heroalt: "Week 46 in the Office (09 - 13/01/2023)"
+tags: []
 ---
 
 In the workplace, we have made some positive headway on a collaboration of a redesign of our homepage by copying a template from the [New York University site](https://www.nyu.edu/). The markup seems to be based on an unordered list of items with each item represented as a square or cell within a table or grid-like layout. However, the cells should have the ability to span a column or row as necessary to allow specific content to appear more prominent. We are mocking up the content type and field types in Drupal configuration- it is within these fields that the twig templating engine can pull the data through to the front end and then we can focus on styling it appropriately.

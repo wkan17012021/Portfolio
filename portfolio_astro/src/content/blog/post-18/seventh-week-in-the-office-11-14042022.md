@@ -2,9 +2,12 @@
 title: "Seventh week in the office (11-14/04/2022)"
 description: "A blog post about Seventh week in the office (11-14/04/2022)"
 date: 2022-04-18
-updatedDate: 2022-04-18
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1650267177165/kLiU7NcQ1.jpg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-04-18
+brief: "During this week, I have involved in a few tasks across the board with good variety. I proof read a couple of deliverables from other teams to give them feedback and catch any errors. For myself, I prepared some project task description documentation..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1650267177165/kLiU7NcQ1.jpg"
+heroalt: "Seventh week in the office (11-14/04/2022)"
+tags: []
 ---
 
 During this week, I have involved in a few tasks across the board with good variety. I proof read a couple of deliverables from other teams to give them feedback and catch any errors. For myself, I prepared some project task description documentation as a way of showcasing some of the technical skills learned on the job, this doc will supplement the end-point assessment portfolio. 

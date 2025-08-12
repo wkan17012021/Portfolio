@@ -2,9 +2,12 @@
 title: "Week six in the Office (04-08/2022)"
 description: "A blog post about Week six in the Office (04-08/2022)"
 date: 2022-04-09
-updatedDate: 2022-04-09
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1650236694919/0OwlFA8cM.jpg
-tags: ["5f3f40bfdfbb4247f7c14d4c"]
+updateddate: 2022-04-09
+brief: "It's hard to imagine that it's been already six weeks! For this week, it has been more methodical, systematic even. It's a good feeling when you have a routine set out in your day where you know you have a few hours allocated to formal meetings or ca..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1650236694919/0OwlFA8cM.jpg"
+heroalt: "Week six in the Office (04-08/2022)"
+tags: []
 ---
 
 It's hard to imagine that it's been already six weeks! For this week, it has been more methodical, systematic even. It's a good feeling when you have a routine set out in your day where you know you have a few hours allocated to formal meetings or catchups and perhaps a one-to-one screen share for troubleshooting. Then, you have a couple of hours blocked out for progressing on issues, a 'power hour, or two!' where you get stuff done. Whether this means planning, research, prototyping or actually coding, it all counts to the final goal. This week was certainly that, and I hope as I become more fluid with my programming and coordination skills, I can enjoy more frictionless work days as opposed to those weeks which can feel very stop-start.

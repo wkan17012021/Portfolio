@@ -2,9 +2,14 @@
 title: "My first week working for a dev team 💼"
 description: "A blog post about My first week working for a dev team 💼"
 date: 2022-03-03
-updatedDate: 2022-03-03
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1650228241774/DVoC7V08W.jpg
-tags: ["5f071caa6e04d8269a566170", "56aa13e5f28f9d9d99e3a5de", "5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-03-03
+brief: "28/02/2022 - 04/03/2022
+New job, new beginnings!
+After finishing the bootcamp and going through the job hunt phase which lasted about two months, I was fortunate to land an entry level role as a 'digital apprentice' working with a small, but close-kn..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1650228241774/DVoC7V08W.jpg"
+heroalt: "My first week working for a dev team 💼"
+tags: []
 ---
 
 28/02/2022 - 04/03/2022

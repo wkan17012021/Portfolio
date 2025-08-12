@@ -2,9 +2,12 @@
 title: "Weeks 35 -> 37 in/out of the office (24/10/2022 -> 11/11/2022)"
 description: "A blog post about Weeks 35 -> 37 in/out of the office (24/10/2022 -> 11/11/2022)"
 date: 2022-11-11
-updatedDate: 2022-11-11
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1668157625393/32uRoW4r-.jpeg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-11-11
+brief: "The last few weeks have been busy handing over sections of an outstanding project before travelling to Hong Kong for a much-needed holiday. This image was taken around dusk halfway up the trail of Lions Rock Peak in Kowloon. Word of caution, take the..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1668157625393/32uRoW4r-.jpeg"
+heroalt: "Weeks 35 -> 37 in/out of the office (24/10/2022 -> 11/11/2022)"
+tags: []
 ---
 
 The last few weeks have been busy handing over sections of an outstanding project before travelling to Hong Kong for a much-needed holiday. This image was taken around dusk halfway up the trail of Lions Rock Peak in Kowloon. Word of caution, take the minibus or taxi uphill to the start of the trail from the road because the hike is very steep and you will be rambling and climbing for a lot of it! 

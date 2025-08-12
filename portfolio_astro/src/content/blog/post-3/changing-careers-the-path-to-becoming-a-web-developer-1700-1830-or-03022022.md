@@ -2,8 +2,12 @@
 title: "Changing Careers? The Path To Becoming A Web Developer 🚀 (17:00 - 18:30 | 03/02/2022)"
 description: "A blog post about Changing Careers? The Path To Becoming A Web Developer 🚀 (17:00 - 18:30 | 03/02/2022)"
 date: 2022-02-03
-updatedDate: 2022-02-03
-heroImage: https://placehold.co/1024x768/cccccc/333333?text=Placeholder
+updateddate: 2022-02-03
+brief: "This really was an inspirational talk by Eduardo Vedes giving honest, 'un-sugar coated' professional experience on his journey to software and web development. This event was hosted by Ironhack in collaboration with Eventbrite.
+A lot of the talking p..."
+subtitle: ""
+heroimage: ""
+heroalt: "Changing Careers? The Path To Becoming A Web Developer 🚀 (17:00 - 18:30 | 03/02/2022)"
 tags: []
 ---
 

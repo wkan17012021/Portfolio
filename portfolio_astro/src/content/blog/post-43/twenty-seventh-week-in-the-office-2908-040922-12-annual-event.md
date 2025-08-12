@@ -2,9 +2,13 @@
 title: "Twenty-Seventh Week in the Office (29/08 - 04/09/22): 1/2 - Annual Event"
 description: "A blog post about Twenty-Seventh Week in the Office (29/08 - 04/09/22): 1/2 - Annual Event"
 date: 2022-09-05
-updatedDate: 2022-09-05
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1662374430572/zlt1DoTPa.jpeg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-09-05
+brief: "Behind the scenes of a major event
+This will be the first half of what I expect to be a long and tiring week / weekend helping with the organisations' annual flagship event. As I write this in the hotel, just arriving in Manchester where the One Youn..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1662374430572/zlt1DoTPa.jpeg"
+heroalt: "Twenty-Seventh Week in the Office (29/08 - 04/09/22): 1/2 - Annual Event"
+tags: []
 ---
 
 ## Behind the scenes of a major event

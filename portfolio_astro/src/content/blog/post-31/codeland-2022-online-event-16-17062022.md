@@ -2,9 +2,12 @@
 title: "CodeLand 2022 Online Event 16-17/06/2022"
 description: "A blog post about CodeLand 2022 Online Event 16-17/06/2022"
 date: 2022-06-17
-updatedDate: 2022-06-17
-heroImage: https://placehold.co/1024x768/cccccc/333333?text=Placeholder
-tags: ["575d75e2da600b8ef43e506d", "5f22b52283e4e9440619af83", "56744721958ef13879b9493b"]
+updateddate: 2022-06-17
+brief: "I have my lead developer to thank for passing on the details to this 2 day online free event and I was so happy I got to attend and enjoy so many thought-provoking presentations. Big shout out to CodeNewbie for arranging it and all of the sponsors fo..."
+subtitle: "https://community.codenewbie.org/codeland"
+heroimage: ""
+heroalt: "CodeLand 2022 Online Event 16-17/06/2022"
+tags: []
 ---
 
 I have my lead developer to thank for passing on the details to this 2 day online free event and I was so happy I got to attend and enjoy so many thought-provoking presentations. Big shout out to CodeNewbie for arranging it and all of the sponsors for financially supporting the conference: quite rightly stated, without their support, events like these wouldn't be possible. 

@@ -2,9 +2,12 @@
 title: "Week 9 in the office (25-29/04/2022)"
 description: "A blog post about Week 9 in the office (25-29/04/2022)"
 date: 2022-05-01
-updatedDate: 2022-05-01
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1651438603696/SkrW9NhxJ.jpg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-05-01
+brief: "This week, most of my time has been spent on progressing tickets. This is good as it means I have reached a competency level where I can understand the requirements of the issue, then spend time researching a viable solution independently. Based on t..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1651438603696/SkrW9NhxJ.jpg"
+heroalt: "Week 9 in the office (25-29/04/2022)"
+tags: []
 ---
 
 This week, most of my time has been spent on progressing tickets. This is good as it means I have reached a competency level where I can understand the requirements of the issue, then spend time researching a viable solution independently. Based on those findings, I would implement an appropriate fix and propose the MR (citing where I found the potential solution). 

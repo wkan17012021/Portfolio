@@ -2,9 +2,12 @@
 title: "Gene Kim, George Spafford, and Kevin Behr: The Phoenix Project - Review"
 description: "A blog post about Gene Kim, George Spafford, and Kevin Behr: The Phoenix Project - Review"
 date: 2023-03-10
-updatedDate: 2023-03-10
-heroImage: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/zMRLZh40kms/upload/45f267458afc86db73110672ea4a5932.jpeg
-tags: ["56744723958ef13879b9550d", "56744721958ef13879b94d2a"]
+updateddate: 2023-03-10
+brief: "Coming from a non-traditional IT background, a self-taught route without the foundation of learning in IT and systems administration, the majority of this book and the plethora of technical jargon may be lost on you. I think the target audience is te..."
+subtitle: ""
+heroimage: "https://images.unsplash.com/photo-1619468129361-605ebea04b44?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+heroalt: "Gene Kim, George Spafford, and Kevin Behr: The Phoenix Project - Review"
+tags: []
 ---
 
 Coming from a non-traditional IT background, a self-taught route without the foundation of learning in IT and systems administration, the majority of this book and the plethora of technical jargon may be lost on you. I think the target audience is technical professionals with a computer science degree or those who have experienced the trials and tribulations of working on large enterprise projects, and multi-disciplinary teams before the advent of development operations.

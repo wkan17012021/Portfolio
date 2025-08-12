@@ -2,9 +2,13 @@
 title: "Career Paths: Web Development with Josh Cole, CTO at InsideOut (17:00 - 18:00 | 13/01/2022)"
 description: "A blog post about Career Paths: Web Development with Josh Cole, CTO at InsideOut (17:00 - 18:00 | 13/01/2022)"
 date: 2022-01-13
-updatedDate: 2022-01-13
-heroImage: https://placehold.co/1024x768/cccccc/333333?text=Placeholder
-tags: ["56744722958ef13879b94f1b", "56744720958ef13879b947e1", "56aa13e5f28f9d9d99e3a5de", "5f071caa6e04d8269a566170"]
+updateddate: 2022-01-13
+brief: "What's it about?
+The event was free and online, held by Ironhack and Eventbrite. It was a very engaging presentation with the aim to offer tips and tricks to the audience on their journey to employment in web development. Josh discussed his inspirati..."
+subtitle: ""
+heroimage: ""
+heroalt: "Career Paths: Web Development with Josh Cole, CTO at InsideOut (17:00 - 18:00 | 13/01/2022)"
+tags: []
 ---
 
 # What's it about?

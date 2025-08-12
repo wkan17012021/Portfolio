@@ -2,9 +2,13 @@
 title: "Book Review: The Non-Designer's Design Book"
 description: "A blog post about Book Review: The Non-Designer's Design Book"
 date: 2022-12-14
-updatedDate: 2022-12-14
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1671058689343/4iMPc_PXb.jpeg
-tags: ["56744722958ef13879b94e89", "56744721958ef13879b94d2a"]
+updateddate: 2022-12-14
+brief: "Why Read It
+I started recently on a couple of web design books because I felt I needed to have more of a foundation on web design history to tie in with my online learning about UX and UI design. I hope that reading around the subject, especially on ..."
+subtitle: ""
+heroimage: "https://images.unsplash.com/photo-1593485589800-579b43749b15?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+heroalt: "Book Review: The Non-Designer's Design Book"
+tags: []
 ---
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671056723747/4rVnbtl2F.png align="center")

@@ -2,9 +2,14 @@
 title: "How to Set Up a Storybook Twig/HTML Library and Deploy with GitHub Actions"
 description: "A blog post about How to Set Up a Storybook Twig/HTML Library and Deploy with GitHub Actions"
 date: 2024-11-29
-updatedDate: 2024-11-29
-heroImage: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/-uktyheH4xA/upload/5d7cd69683bca1e5a27510f40a0d9d6c.jpeg
-tags: ["5a9d6b860430f87244d3f6ab", "5887332a44bd50a1d9993e53", "56744721958ef13879b94c63", "5f4f0f5850b5c61ec6ef4eb4"]
+updateddate: 2024-11-29
+brief: "You can host your static storybook library using GitHub Pages and their Actions deployment solution for free. Here’s how I did it:
+Project setup and caveats
+This is a standalone storybook html component library using twig templating, so could be used..."
+subtitle: "Check out the GitHub repository mentioned in this article: https://github.com/wkan17012021/storybook-twig-component-library"
+heroimage: "https://images.unsplash.com/photo-1749496223160-679300ae70b6?q=80&w=2232&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+heroalt: "How to Set Up a Storybook Twig/HTML Library and Deploy with GitHub Actions"
+tags: []
 ---
 
 You can host your static storybook library using GitHub Pages and their Actions deployment solution for free. Here’s how I did it:

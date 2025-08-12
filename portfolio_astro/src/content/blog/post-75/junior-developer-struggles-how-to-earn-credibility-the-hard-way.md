@@ -2,9 +2,13 @@
 title: "Junior Developer Struggles: How to earn credibility the hard way"
 description: "A blog post about Junior Developer Struggles: How to earn credibility the hard way"
 date: 2024-04-03
-updatedDate: 2024-04-03
-heroImage: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/7uSrOyY1U0I/upload/19a740dfd336e58d0542edf05427d938.jpeg
-tags: ["62a9e98e1a89c91850b184d3", "5fc56ce10a072175ef2cfcde", "587dbc32d40f782e50cf92e0"]
+updateddate: 2024-04-03
+brief: "I'm trying out a new writing style: previously I was verbose, now I'm writing more succinctly and at times blunt and to the point, so you can get the meaningful details quickly.
+Hopefully, the blog cover image gave you a hint about what this article ..."
+subtitle: "Advice for early career tech individuals in UK, helping you get that elusive first, full-time paying job in tech."
+heroimage: "https://images.unsplash.com/photo-1559027615-cd4628902d4a?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+heroalt: "Junior Developer Struggles: How to earn credibility the hard way"
+tags: []
 ---
 
 ### I'm trying out a new writing style: previously I was verbose, now I'm writing more succinctly and at times blunt and to the point, so you can get the meaningful details quickly.

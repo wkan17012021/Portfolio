@@ -2,9 +2,14 @@
 title: "A reflection on my involvement as a Digital Apprentice at OYW"
 description: "A blog post about A reflection on my involvement as a Digital Apprentice at OYW"
 date: 2023-07-29
-updatedDate: 2023-07-29
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1690659791214/675c7ccf-a92e-4e6d-82ef-bf1a1c7fa827.jpeg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2023-07-29
+brief: "Intro
+I've worked for One Young World, my first tech position, for around 1.5 years and it would be beneficial to look back on what one has achieved before it's a distant memory!
+When I reflect on this new role, I feel fortunate to have been given su..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1690659791214/675c7ccf-a92e-4e6d-82ef-bf1a1c7fa827.jpeg"
+heroalt: "A reflection on my involvement as a Digital Apprentice at OYW"
+tags: []
 ---
 
 ## Intro

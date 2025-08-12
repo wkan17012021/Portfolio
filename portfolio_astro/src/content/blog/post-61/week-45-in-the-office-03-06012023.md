@@ -2,9 +2,12 @@
 title: "Week 45 in the Office (03 - 06/01/2023)"
 description: "A blog post about Week 45 in the Office (03 - 06/01/2023)"
 date: 2023-01-07
-updatedDate: 2023-01-07
-heroImage: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/287SK3kxCHg/upload/02a84cb623622bff31280f5704e6543d.jpeg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2023-01-07
+brief: "Quite an easygoing week as staff settle into the workplace after a much-needed Christmas Break. I have to say that my holiday was very productive and in the same vein, the first work week has been successful for me as we look to revamp our website ho..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/287SK3kxCHg/upload/02a84cb623622bff31280f5704e6543d.jpeg"
+heroalt: "Week 45 in the Office (03 - 06/01/2023)"
+tags: []
 ---
 
 Quite an easygoing week as staff settle into the workplace after a much-needed Christmas Break. I have to say that my holiday was very productive and in the same vein, the first work week has been successful for me as we look to revamp our website homepage for a fresh new look. This means some rapid prototyping and demos are needed, then we can discuss what data needs to be rendered on the front end. The deadline is the end of January and although I am sceptical about it, the learning I have done over Christmas has meant that I am not spending the first few work weeks re-learning common tasks so I can hit the ground running again.

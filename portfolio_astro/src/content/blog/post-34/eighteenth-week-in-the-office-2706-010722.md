@@ -2,9 +2,13 @@
 title: "Eighteenth Week in the Office (27/06 - 01/07/22)"
 description: "A blog post about Eighteenth Week in the Office (27/06 - 01/07/22)"
 date: 2022-07-02
-updatedDate: 2022-07-02
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1656750280677/_fPChowXZ.jpg
-tags: ["5f9435c7fbdce372c9a56fb6", "56744723958ef13879b95230", "5f3f1dcc5b3ac8481821c47c", "56744721958ef13879b948fa"]
+updateddate: 2022-07-02
+brief: "Work Stuff 💻
+We've been a reduced team this week due to some 'restructuring' and staff holiday. The week's main focus for me has been to continue online learning, a few smaller tickets to add some neat features to the site, some content build to hel..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1656750280677/_fPChowXZ.jpg"
+heroalt: "Eighteenth Week in the Office (27/06 - 01/07/22)"
+tags: []
 ---
 
 ## Work Stuff 💻

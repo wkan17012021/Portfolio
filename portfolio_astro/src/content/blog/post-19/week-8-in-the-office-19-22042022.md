@@ -2,9 +2,12 @@
 title: "Week 8 in the office (19-22/04/2022)"
 description: "A blog post about Week 8 in the office (19-22/04/2022)"
 date: 2022-04-23
-updatedDate: 2022-04-23
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1650744752227/ni6pqnB_K.jpg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-04-23
+brief: "It's amazing what a long break can do for the body and the mind. It was a nice Easter holiday and greatly received. I spent some time in the garden, got a bike for some rides in the park. I had the odd gym session but mainly spent the time in and aro..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1650744752227/ni6pqnB_K.jpg"
+heroalt: "Week 8 in the office (19-22/04/2022)"
+tags: []
 ---
 
 It's amazing what a long break can do for the body and the mind. It was a nice Easter holiday and greatly received. I spent some time in the garden, got a bike for some rides in the park. I had the odd gym session but mainly spent the time in and around home. It almost never happens in the UK, but in the South West of London, we had 4 days of sunshine and a mild breeze, so I can't complain! 

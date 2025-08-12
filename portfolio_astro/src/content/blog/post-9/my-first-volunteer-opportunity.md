@@ -2,8 +2,12 @@
 title: "My First Volunteer Opportunity"
 description: "A blog post about My First Volunteer Opportunity"
 date: 2022-03-06
-updatedDate: 2022-03-06
-heroImage: https://placehold.co/1024x768/cccccc/333333?text=Placeholder
+updateddate: 2022-03-06
+brief: "The Story
+After completing the bootcamp, I needed to gain 'experience' and add extra flair to the CV. The IT recruiter suggested volunteering which is a great way to learn by doing as opposed to learning from online resources without a time frame or ..."
+subtitle: ""
+heroimage: ""
+heroalt: "My First Volunteer Opportunity"
 tags: []
 ---
 

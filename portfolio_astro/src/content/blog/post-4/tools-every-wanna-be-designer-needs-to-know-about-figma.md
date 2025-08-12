@@ -2,8 +2,12 @@
 title: "[1/3] Tools every wanna-be designer needs to know about 🔍: Figma! (17:00 - 17:30 | 23/02/2022)"
 description: "A blog post about [1/3] Tools every wanna-be designer needs to know about 🔍: Figma! (17:00 - 17:30 | 23/02/2022)"
 date: 2022-02-23
-updatedDate: 2022-02-23
-heroImage: https://placehold.co/1024x768/cccccc/333333?text=Placeholder
+updateddate: 2022-02-23
+brief: "This short lecture was run by Ironhack with Eventbrite. 
+A wireframe when progressed to a prototype can be a visual mockup of a user flow. It establishes the basic structure of a page. We use wireframes to test the functionality and User Experience (..."
+subtitle: ""
+heroimage: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+heroalt: "[1/3] Tools every wanna-be designer needs to know about 🔍: Figma! (17:00 - 17:30 | 23/02/2022)"
 tags: []
 ---
 

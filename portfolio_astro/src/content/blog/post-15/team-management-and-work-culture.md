@@ -2,9 +2,12 @@
 title: "Team Management and Work Culture"
 description: "A blog post about Team Management and Work Culture"
 date: 2022-03-29
-updatedDate: 2022-03-29
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1650235499595/SwAXEfOAS.jpg
-tags: ["56744721958ef13879b94dba", "56744723958ef13879b9551b", "56744723958ef13879b952e7", "57d0839fb64935c2e8fdba94"]
+updateddate: 2022-03-29
+brief: "Off the back of a two hour whistle stop tour on the Software Development Lifecycle and touching on Agile Principles and Methodologies (apprenticeship training), I found inspiration in Spotify's management style and work culture not too dissimilar to ..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1650235499595/SwAXEfOAS.jpg"
+heroalt: "Team Management and Work Culture"
+tags: []
 ---
 
 Off the back of a two hour whistle stop tour on the Software Development Lifecycle and touching on Agile Principles and Methodologies (apprenticeship training), I found inspiration in Spotify's management style and work culture not too dissimilar to my current work setting. This post is to pull out some of the interesting topics from the videos that make Spotify workplace unique and then compare and contrast with my expectations of those topics.

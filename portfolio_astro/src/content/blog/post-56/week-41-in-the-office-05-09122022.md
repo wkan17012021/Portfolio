@@ -2,9 +2,13 @@
 title: "Week 41 in the Office (05 - 09/12/2022)"
 description: "A blog post about Week 41 in the Office (05 - 09/12/2022)"
 date: 2022-12-11
-updatedDate: 2022-12-11
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1670758527996/5ngTTrGiU.jpeg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-12-11
+brief: "As the Christmas season nears, it's a gradual wind-down of tasks or finishing jobs before the new year.
+It's been a quiet week trying to get sign-off on some webpage content build due to outstanding media assets and getting agreement on layouts. As p..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1670758527996/5ngTTrGiU.jpeg"
+heroalt: "Week 41 in the Office (05 - 09/12/2022)"
+tags: []
 ---
 
 As the Christmas season nears, it's a gradual wind-down of tasks or finishing jobs before the new year.

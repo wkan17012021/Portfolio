@@ -2,9 +2,20 @@
 title: "Setup and Configure Tailwind CSS (and custom fonts) for a  Drupal 10 local dev project"
 description: "A blog post about Setup and Configure Tailwind CSS (and custom fonts) for a  Drupal 10 local dev project"
 date: 2023-03-07
-updatedDate: 2023-03-07
-heroImage: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/CU2NF0Jz5pI/upload/a3f1c84ee0251996a1c4690e4a076ea0.jpeg
-tags: ["57444da29ade925885158cb0", "63e1c2468dd6c5e9128c17de", "63ab3afed1e499a9b8bce73f", "56744721958ef13879b9499e", "5f4ebbb150b5c61ec6ef4ad2"]
+updateddate: 2023-03-07
+brief: "My system install at the time of implementation
+
+Node v.19.6.1 and NPM v.9.4.0
+
+Postcss version: '^8.4.21' installed as node module dev dependency
+
+Tailwindcss version: '^3.2.7' installed as node module dev dependency
+
+Drupal/core-recommended '^v.10...."
+subtitle: ""
+heroimage: "https://images.unsplash.com/photo-1650951476924-5842963e3249?q=80&w=2062&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+heroalt: "Setup and Configure Tailwind CSS (and custom fonts) for a  Drupal 10 local dev project"
+tags: []
 ---
 
 ## My system install at the time of implementation

@@ -2,9 +2,12 @@
 title: "Week Thirty-Nine in the office (21 - 25/11/2022)"
 description: "A blog post about Week Thirty-Nine in the office (21 - 25/11/2022)"
 date: 2022-11-25
-updatedDate: 2022-11-25
-heroImage: https://cdn.hashnode.com/res/hashnode/image/unsplash/_RBcxo9AU-U/upload/v1669364836538/ghU278qbj.jpeg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-11-25
+brief: "I've been fairly busy this work week as staff have been taking holiday and handing over tasks as the organisation tries to close out projects before the Christmas break. The main unblocker for me was finally getting to the bottom of a pesky css style..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/unsplash/_RBcxo9AU-U/upload/v1669364836538/ghU278qbj.jpeg"
+heroalt: "Week Thirty-Nine in the office (21 - 25/11/2022)"
+tags: []
 ---
 
 I've been fairly busy this work week as staff have been taking holiday and handing over tasks as the organisation tries to close out projects before the Christmas break. The main unblocker for me was finally getting to the bottom of a pesky css style which was to add guttering spacing between blocks or components which are all rendered automatically via a twig template Drupal Views configuration. The solution at the core was simple: apply the container a ```

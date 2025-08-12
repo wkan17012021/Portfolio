@@ -2,9 +2,12 @@
 title: "Second Week in the Office (7-11/03/2022)"
 description: "A blog post about Second Week in the Office (7-11/03/2022)"
 date: 2022-03-11
-updatedDate: 2022-03-11
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1650231948516/qtCYF0qZf.jpg
-tags: ["5f9435c7fbdce372c9a56fb6", "5f4ebbb150b5c61ec6ef4ad2", "571c5374fc5b53a1ace37ce8"]
+updateddate: 2022-03-11
+brief: "It's hard to believe that it's been two weeks already! Time flies when you're having fun! It's been an information overload 🤯 for both technical and organisation related topics but that is how it always is in any organisation and I think part of bei..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1650231948516/qtCYF0qZf.jpg"
+heroalt: "Second Week in the Office (7-11/03/2022)"
+tags: []
 ---
 
 It's hard to believe that it's been two weeks already! Time flies when you're having fun! It's been an information overload 🤯 for both technical and organisation related topics but that is how it always is in any organisation and I think part of being an effective developer means consolidating new information quickly. Easier said then done though!

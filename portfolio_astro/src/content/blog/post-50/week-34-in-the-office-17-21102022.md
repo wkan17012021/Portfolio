@@ -2,9 +2,12 @@
 title: "Week 34 in the Office (17 - 21/10/2022)"
 description: "A blog post about Week 34 in the Office (17 - 21/10/2022)"
 date: 2022-10-21
-updatedDate: 2022-10-21
-heroImage: https://cdn.hashnode.com/res/hashnode/image/unsplash/DKix6Un55mw/upload/v1666358228711/oCMyz8mM1.jpeg
-tags: ["5f9435c7fbdce372c9a56fb6", "5f6629266dfc523d0a89357b", "63333272fa20fa4bc8e50400"]
+updateddate: 2022-10-21
+brief: "A couple of days in the office handing over a project onto colleagues before travelling on holiday so worthy mentions will be sparse for this week and into next week. However, I will try to seek out some dev-related references when out and about- I w..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/unsplash/DKix6Un55mw/upload/v1666358228711/oCMyz8mM1.jpeg"
+heroalt: "Week 34 in the Office (17 - 21/10/2022)"
+tags: []
 ---
 
 A couple of days in the office handing over a project onto colleagues before travelling on holiday so worthy mentions will be sparse for this week and into next week. However, I will try to seek out some dev-related references when out and about- I wonder if HK has a strong web development community? 🤔 This good prove to be an excellent chance for some hipster-alternative dev photo shoots! I'm thinking my portfolio avatar photos could do with a spruce up- maybe coding while on a hike??? 

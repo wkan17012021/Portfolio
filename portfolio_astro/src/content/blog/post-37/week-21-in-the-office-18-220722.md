@@ -2,9 +2,12 @@
 title: "Week 21 in the Office (18 - 22/07/22)"
 description: "A blog post about Week 21 in the Office (18 - 22/07/22)"
 date: 2022-07-22
-updatedDate: 2022-07-22
-heroImage: https://cdn.hashnode.com/res/hashnode/image/unsplash/npxXWgQ33ZQ/upload/v1658517023024/XgJVJmoZRN.jpeg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-07-22
+brief: "This work week has been entirely focussed on supporting the digital services delivery for the organisation's annual event. As part of the digital experience, we have subcontracted out the work to the Hubilo platform who have provided us with a Mobile..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/unsplash/npxXWgQ33ZQ/upload/v1658517023024/XgJVJmoZRN.jpeg"
+heroalt: "Week 21 in the Office (18 - 22/07/22)"
+tags: []
 ---
 
 This work week has been entirely focussed on supporting the digital services delivery for the organisation's annual event. As part of the digital experience, we have subcontracted out the work to the Hubilo platform who have provided us with a Mobile App for testing our organisation's online event. It was in my opinion, a clean and well laid out app which didn't take long to work out where most of the features are. There were some discrepancies I noticed and this is likely local to my smartphone as the desktop version and other colleagues' phones could not replicate the bugs. Our main issue is ensuring that the user with a particular role has access to the permissions granted to them and not access to anything else. I helped to prepare a short presentation on the user journey and we will be delivering it to the wider organisation next week.

@@ -2,9 +2,17 @@
 title: "Setup Xdebug with Drupal-9 using DDEV and Docker Desktop, as well as db import"
 description: "A blog post about Setup Xdebug with Drupal-9 using DDEV and Docker Desktop, as well as db import"
 date: 2023-06-05
-updatedDate: 2023-06-05
-heroImage: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/zwsHjakE_iI/upload/ce7817c35524c1ffa4c463659a5efca5.jpeg
-tags: ["57444da29ade925885158cb0", "6427199e26a7a583f0bcee73", "5821389002c96efc8a91faa3", "5f9435c7fbdce372c9a56fb6", "56744723958ef13879b95372"]
+updateddate: 2023-06-05
+brief: "Note for future self, a process for getting Xdebug on a Drupal-9 fresh install.
+Pre-requisites / assumptions
+
+Using MacOS
+
+Docker Desktop is already installed and setup: if not head here -> https://ddev.readthedocs.io/en/latest/users/install/docker-i..."
+subtitle: ""
+heroimage: "https://images.unsplash.com/photo-1615220368123-9bb8faf4221b?q=80&w=2015&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+heroalt: "Setup Xdebug with Drupal-9 using DDEV and Docker Desktop, as well as db import"
+tags: []
 ---
 
 **Note for future self, a process for getting Xdebug on a Drupal-9 fresh install.**

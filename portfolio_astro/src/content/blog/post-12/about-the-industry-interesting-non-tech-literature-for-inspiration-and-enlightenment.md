@@ -2,9 +2,12 @@
 title: "About the Industry: Interesting Non-Tech Literature for Inspiration and Enlightenment 🧘🏼"
 description: "A blog post about About the Industry: Interesting Non-Tech Literature for Inspiration and Enlightenment 🧘🏼"
 date: 2022-03-19
-updatedDate: 2022-03-19
-heroImage: https://placehold.co/1024x768/cccccc/333333?text=Placeholder
-tags: ["56744721958ef13879b94d2a"]
+updateddate: 2022-03-19
+brief: "Ok, it's about tech! But this post is for note-worthy resources that dive into the experiences and attitudes of generations of coders to give a different perspective on the industry and hopefully, their words of wisdom will support me on my road to b..."
+subtitle: ""
+heroimage: ""
+heroalt: "About the Industry: Interesting Non-Tech Literature for Inspiration and Enlightenment 🧘🏼"
+tags: []
 ---
 
 Ok, it's about tech! But this post is for note-worthy resources that dive into the experiences and attitudes of generations of coders to give a different perspective on the industry and hopefully, their words of wisdom will support me on my road to becoming a [fully-fledged developer](https://the-dog-can-blog.hashnode.dev/becoming-a-full-fledged-developer-a-long-and-winding-road)💪🏽

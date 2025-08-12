@@ -2,9 +2,14 @@
 title: "Third Week in the Office (14-18/03/2022)"
 description: "A blog post about Third Week in the Office (14-18/03/2022)"
 date: 2022-03-20
-updatedDate: 2022-03-20
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1650236650815/-ulx3tT8Z.jpg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-03-20
+brief: "This week at work was all about gaining efficiency in the workflow (Jira ticketing system, Git commands and producing informative notes to aid the process).
+Version Control
+To support my learning, I have started CodeCademy's Git and GitHub course, so..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1650236650815/-ulx3tT8Z.jpg"
+heroalt: "Third Week in the Office (14-18/03/2022)"
+tags: []
 ---
 
 This week at work was all about gaining efficiency in the workflow (Jira ticketing system, Git commands and producing informative notes to aid the process).

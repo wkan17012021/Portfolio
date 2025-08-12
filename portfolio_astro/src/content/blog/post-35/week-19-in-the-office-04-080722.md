@@ -2,9 +2,12 @@
 title: "Week 19 in the Office (04 - 08/07/22)"
 description: "A blog post about Week 19 in the Office (04 - 08/07/22)"
 date: 2022-07-09
-updatedDate: 2022-07-09
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1657317853219/qNFYbU3fd.jpg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-07-09
+brief: "This has been the second week since some restructuring resulting in a scaled-down workforce. I anticipate more admin and management related tasks will be heading my way as we attempt to balance the workload and reduce burn-out between the remaining t..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1657317853219/qNFYbU3fd.jpg"
+heroalt: "Week 19 in the Office (04 - 08/07/22)"
+tags: []
 ---
 
 This has been the second week since some restructuring resulting in a scaled-down workforce. I anticipate more admin and management related tasks will be heading my way as we attempt to balance the workload and reduce burn-out between the remaining team members. Although it's sad to see integral members of a team leave the company, I'm happy to see them progress on to new endeavours and more challenging projects. I'm also thankful for the value and support they provided to the organisation and I like to think they left the project now in a better situation than when they first arrived. Reorganisation and redistribution of responsibilities doesn't always sit well with employees but at the level I'm on, I do not have that much accountability and am not getting a salary that compensates for taking on the extra work effort. So, it's good to take every task as an experience and gain as much learning as possible so you're ready to perform in a role where you suddenly find yourself more accountable!

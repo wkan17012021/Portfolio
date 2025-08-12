@@ -2,9 +2,14 @@
 title: "Week 26 in the Office (22-26/08/2022)"
 description: "A blog post about Week 26 in the Office (22-26/08/2022)"
 date: 2022-08-28
-updatedDate: 2022-08-28
-heroImage: https://cdn.hashnode.com/res/hashnode/image/unsplash/t7YycgAoVSw/upload/v1661671189664/nCzlmG5rv.jpeg
-tags: ["56744723958ef13879b95483", "56744721958ef13879b94b91", "56744721958ef13879b94cad", "574dc610be8cff2ed6571a40"]
+updateddate: 2022-08-28
+brief: "Work has been much the same this week: content web page creation, review with other teams, back and forth, iterations, redo the work in a slightly different manner. So, I won't dwell on it. 
+More on creating responsive maps with HTML, CSS, JS
+In week..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/unsplash/t7YycgAoVSw/upload/v1661671189664/nCzlmG5rv.jpeg"
+heroalt: "Week 26 in the Office (22-26/08/2022)"
+tags: []
 ---
 
 Work has been much the same this week: content web page creation, review with other teams, back and forth, iterations, redo the work in a slightly different manner. So, I won't dwell on it. 

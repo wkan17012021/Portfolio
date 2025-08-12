@@ -2,9 +2,12 @@
 title: "Week 31 in the Office (26 - 30/09/2022)"
 description: "A blog post about Week 31 in the Office (26 - 30/09/2022)"
 date: 2022-09-29
-updatedDate: 2022-09-29
-heroImage: https://cdn.hashnode.com/res/hashnode/image/unsplash/KonWFWUaAuk/upload/v1664487539641/iqBTI8Fv_.jpeg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-09-29
+brief: "It's been a more productive week as team, as we have been getting stuck in to the tickets that have fallen down the priority list. A lot of them were blocked for one technical reason or another, others were just put on hold so it was satisfying to fi..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/unsplash/KonWFWUaAuk/upload/v1664487539641/iqBTI8Fv_.jpeg"
+heroalt: "Week 31 in the Office (26 - 30/09/2022)"
+tags: []
 ---
 
 It's been a more productive week as team, as we have been getting stuck in to the tickets that have fallen down the priority list. A lot of them were blocked for one technical reason or another, others were just put on hold so it was satisfying to finally take these features into code review or push them into develop branch. 

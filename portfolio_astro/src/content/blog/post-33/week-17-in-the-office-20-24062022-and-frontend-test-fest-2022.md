@@ -2,9 +2,14 @@
 title: "Week 17 in the Office 20-24/06/2022 and Frontend Test Fest 2022"
 description: "A blog post about Week 17 in the Office 20-24/06/2022 and Frontend Test Fest 2022"
 date: 2022-06-24
-updatedDate: 2022-06-24
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1656085671773/fjhyNz6ti.jpg
-tags: ["5f9435c7fbdce372c9a56fb6", "575d75e2da600b8ef43e506d", "56744723958ef13879b95230", "5f3f1dcc5b3ac8481821c47c", "56744723958ef13879b9549b"]
+updateddate: 2022-06-24
+brief: "I'm combining the work week with continued professional development events due to lack of work topics to discuss, and laziness.
+Work Stuff
+For this week, most of the time was spent on fixing my local environment (core updates were made to development..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1656085671773/fjhyNz6ti.jpg"
+heroalt: "Week 17 in the Office 20-24/06/2022 and Frontend Test Fest 2022"
+tags: []
 ---
 
 I'm combining the work week with continued professional development events due to lack of work topics to discuss, and laziness.

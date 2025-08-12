@@ -2,9 +2,13 @@
 title: "Kenny Wood’s Confident Web Design (2018)"
 description: "A blog post about Kenny Wood’s Confident Web Design (2018)"
 date: 2022-03-06
-updatedDate: 2022-03-06
-heroImage: https://placehold.co/1024x768/cccccc/333333?text=Placeholder
-tags: ["56744721958ef13879b94d2a", "5f3f40bfdfbb4247f7c14d4c"]
+updateddate: 2022-03-06
+brief: "High level overview
+This is a good introductory resource to get to grips with HTML, CSS and JS. I read this book because at the time I was job searching, whilst learning a new language to be more marketable, whilst doing coding challenges etc. such t..."
+subtitle: ""
+heroimage: ""
+heroalt: "Kenny Wood’s Confident Web Design (2018)"
+tags: []
 ---
 
 ## High level overview

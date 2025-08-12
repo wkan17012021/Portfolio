@@ -2,9 +2,15 @@
 title: "Install and trial Leaflet JS module for a Drupal 10 local dev project"
 description: "A blog post about Install and trial Leaflet JS module for a Drupal 10 local dev project"
 date: 2023-03-17
-updatedDate: 2023-03-17
-heroImage: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Z8UgB80_46w/upload/6f073684e22ad0b615d490d0aaf6fd0e.jpeg
-tags: ["63e1c2468dd6c5e9128c17de", "5842c69f97063da359fe2d3a", "57753e8457675ec2fcfd0812", "57444da29ade925885158cb0", "62baf4857131dfe7a8b58c85"]
+updateddate: 2023-03-17
+brief: "This is a short article intended to help walk through the process of installing and using the Leaflet Contrib Module (and associated sub-modules) for an interactive map feature on a Drupal development site.
+Why Use Leaflet Module?
+
+The module has a l..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Z8UgB80_46w/upload/6f073684e22ad0b615d490d0aaf6fd0e.jpeg"
+heroalt: "Install and trial Leaflet JS module for a Drupal 10 local dev project"
+tags: []
 ---
 
 This is a short article intended to help walk through the process of installing and using the Leaflet Contrib Module (and associated sub-modules) for an interactive map feature on a Drupal development site.

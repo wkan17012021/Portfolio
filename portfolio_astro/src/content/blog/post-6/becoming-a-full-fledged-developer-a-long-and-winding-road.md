@@ -2,9 +2,16 @@
 title: "Becoming a full-fledged Developer: A Long and Winding Road 🛣🏔🧗🏽‍♂️🧑🏽‍💻"
 description: "A blog post about Becoming a full-fledged Developer: A Long and Winding Road 🛣🏔🧗🏽‍♂️🧑🏽‍💻"
 date: 2022-03-06
-updatedDate: 2022-03-06
-heroImage: https://placehold.co/1024x768/cccccc/333333?text=Placeholder
-tags: ["56aa13e5f28f9d9d99e3a5de", "56744721958ef13879b94c7e", "5f071caa6e04d8269a566170", "5f08ee681981c53c4987f2b3", "5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-03-06
+brief: "A journey of a thousand miles begins with a single step.
+— Lao Tzu, Philosopher & Writer
+How it all started...
+
+Hello there and welcome to my little corner of the internet! This is my first blog documenting my trials and tribulations around the realm..."
+subtitle: ""
+heroimage: ""
+heroalt: "Becoming a full-fledged Developer: A Long and Winding Road 🛣🏔🧗🏽‍♂️🧑🏽‍💻"
+tags: []
 ---
 
 > A journey of a thousand miles begins with a single step.

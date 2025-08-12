@@ -2,9 +2,12 @@
 title: "Close to the Machine Technophilia and its Discontents"
 description: "A blog post about Close to the Machine Technophilia and its Discontents"
 date: 2022-06-13
-updatedDate: 2022-06-13
-heroImage: https://placehold.co/1024x768/cccccc/333333?text=Placeholder
-tags: ["56744721958ef13879b94d2a"]
+updateddate: 2022-06-13
+brief: "Ellen Ullman offers a candid and blunt expression into her communion with the physical machine and the IT industry as a whole. A clearly successful software engineer and a clever individual, we get to dive into the relationship with her family, namel..."
+subtitle: ""
+heroimage: ""
+heroalt: "Close to the Machine Technophilia and its Discontents"
+tags: []
 ---
 
 Ellen Ullman offers a candid and blunt expression into her communion with the physical machine and the IT industry as a whole. A clearly successful software engineer and a clever individual, we get to dive into the relationship with her family, namely her father figure and his impact on her work life. There is an intertwining of carnal urges and intimacy when her relationships are explored and those relationships play a pivotal role in how she conducts herself in the workplace and in social settings.

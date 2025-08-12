@@ -2,9 +2,12 @@
 title: "Twelfth Week in the Office (16-20/05/2022)"
 description: "A blog post about Twelfth Week in the Office (16-20/05/2022)"
 date: 2022-05-20
-updatedDate: 2022-05-20
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1653033855096/QW_PqdLfo.jpg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-05-20
+brief: "It has been a humid and sweaty work week for me (he writes while SW London enjoys rain showers), travelling in and out of London, on and off of trains. Tree bark pollen count is high and for a person who does not have severe hay fever (I've never nee..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1653033855096/QW_PqdLfo.jpg"
+heroalt: "Twelfth Week in the Office (16-20/05/2022)"
+tags: []
 ---
 
 It has been a humid and sweaty work week for me (he writes while SW London enjoys rain showers), travelling in and out of London, on and off of trains. Tree bark pollen count is high and for a person who does not have severe hay fever (I've never needed to resort to antihistamine or other treatment), even I have had a blocked and runny nose and irritation to my eyes. 

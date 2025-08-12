@@ -2,9 +2,13 @@
 title: "Week 22 in the Office (25 - 29/07/22)"
 description: "A blog post about Week 22 in the Office (25 - 29/07/22)"
 date: 2022-07-30
-updatedDate: 2022-07-30
-heroImage: https://cdn.hashnode.com/res/hashnode/image/unsplash/1527pjeb6jg/upload/v1659347890445/DJF5kbdFv.jpeg
-tags: ["5f9435c7fbdce372c9a56fb6", "56744723958ef13879b9549b"]
+updateddate: 2022-07-30
+brief: "Work Stuff
+Following on from last week's work activities, it has been more of the same on tweaking small changes on our online event platform in preparation for the annual conference in September. Surprisingly, there is a lot of manual processing tha..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/unsplash/1527pjeb6jg/upload/v1659347890445/DJF5kbdFv.jpeg"
+heroalt: "Week 22 in the Office (25 - 29/07/22)"
+tags: []
 ---
 
 ## Work Stuff

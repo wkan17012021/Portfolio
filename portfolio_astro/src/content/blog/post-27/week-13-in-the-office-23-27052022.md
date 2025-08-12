@@ -2,9 +2,13 @@
 title: "Week 13 in the office (23-27/05/2022)"
 description: "A blog post about Week 13 in the office (23-27/05/2022)"
 date: 2022-05-27
-updatedDate: 2022-05-27
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1653692270185/Hsfk9XnDk.jpg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-05-27
+brief: "Somehow it's been 3 months into my first dev job and it feels like I've only been at work for 3 weeks! I had my 3 month probation talk, spoiler alert - they are happy with the service and would like to continue with the current arrangements!
+This wee..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1653692270185/Hsfk9XnDk.jpg"
+heroalt: "Week 13 in the office (23-27/05/2022)"
+tags: []
 ---
 
 Somehow it's been 3 months into my first dev job and it feels like I've only been at work for 3 weeks! I had my 3 month probation talk, spoiler alert - they are happy with the service and would like to continue with the current arrangements!

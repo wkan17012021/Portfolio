@@ -2,9 +2,13 @@
 title: "Week 24 in the Office (08 - 12/08/22)"
 description: "A blog post about Week 24 in the Office (08 - 12/08/22)"
 date: 2022-08-13
-updatedDate: 2022-08-13
-heroImage: https://cdn.hashnode.com/res/hashnode/image/unsplash/T7K4aEPoGGk/upload/v1660383367068/47JMtp40C.jpeg
-tags: ["56744723958ef13879b95483", "56744721958ef13879b94b91", "56744721958ef13879b94c2b"]
+updateddate: 2022-08-13
+brief: "Work Update
+We are just over 2 weeks out from the organisations main event. Things are certainly heating up as the amount of proof-reading has increased coupled with constant content changes on webpages and our online event platform. Double, triple-h..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/unsplash/T7K4aEPoGGk/upload/v1660383367068/47JMtp40C.jpeg"
+heroalt: "Week 24 in the Office (08 - 12/08/22)"
+tags: []
 ---
 
 ## Work Update

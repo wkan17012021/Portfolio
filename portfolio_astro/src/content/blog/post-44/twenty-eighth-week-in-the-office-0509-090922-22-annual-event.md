@@ -2,9 +2,13 @@
 title: "Twenty-Eighth Week in the Office (05/09 - 09/09/22): 2/2 - Annual Event"
 description: "A blog post about Twenty-Eighth Week in the Office (05/09 - 09/09/22): 2/2 - Annual Event"
 date: 2022-09-08
-updatedDate: 2022-09-08
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1662671500989/GFcUzPNs_.jpeg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-09-08
+brief: "Why hold a Summit?
+The bulk of the summit event was an impressive feat, with a fantastic collection of young and established senior speakers sharing their insights and the social impact they were responsible for. The annual event aims to bring togeth..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1662671500989/GFcUzPNs_.jpeg"
+heroalt: "Twenty-Eighth Week in the Office (05/09 - 09/09/22): 2/2 - Annual Event"
+tags: []
 ---
 
 ## Why hold a Summit?

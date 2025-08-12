@@ -2,9 +2,12 @@
 title: "Week 11 in the office (09-13/05/2022)"
 description: "A blog post about Week 11 in the office (09-13/05/2022)"
 date: 2022-05-13
-updatedDate: 2022-05-13
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1652471830429/1yLRQFSbw.jpg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-05-13
+brief: "The week has been slower than usual with more friction around work tasks. I've had more blockers in progressing tickets and coupled with jumping around on different tasks has had a negative impact on my concentration. However, I'm not too discouraged..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1652471830429/1yLRQFSbw.jpg"
+heroalt: "Week 11 in the office (09-13/05/2022)"
+tags: []
 ---
 
 The week has been slower than usual with more friction around work tasks. I've had more blockers in progressing tickets and coupled with jumping around on different tasks has had a negative impact on my concentration. However, I'm not too discouraged by this and I expect to have weeks like these in the future so I guess its about having a strong mindset to persevere and giving myself slack when things don't always work out the way you want them to. 

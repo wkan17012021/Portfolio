@@ -2,9 +2,12 @@
 title: "Week 25 in the Office (15 - 19/08/22)"
 description: "A blog post about Week 25 in the Office (15 - 19/08/22)"
 date: 2022-08-19
-updatedDate: 2022-08-19
-heroImage: https://cdn.hashnode.com/res/hashnode/image/unsplash/ln5drpv_ImI/upload/v1660922537812/JFbdiANvi.jpeg
-tags: ["5f9435c7fbdce372c9a56fb6", "5a83c92a710f801545217a67"]
+updateddate: 2022-08-19
+brief: "This week has gone by quickly as I have mainly been doing content build for web pages to be published in due course as the organisation's event looms. Initially, it seemed like a straightforward albeit laborious task but due to more people adding ide..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/unsplash/ln5drpv_ImI/upload/v1660922537812/JFbdiANvi.jpeg"
+heroalt: "Week 25 in the Office (15 - 19/08/22)"
+tags: []
 ---
 
 This week has gone by quickly as I have mainly been doing content build for web pages to be published in due course as the organisation's event looms. Initially, it seemed like a straightforward albeit laborious task but due to more people adding ideas and conflicting opinions, the final output has changed significantly (with some back-and-forth) which has created more manual and repeating work and more iterations.

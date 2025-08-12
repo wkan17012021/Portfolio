@@ -2,9 +2,13 @@
 title: "Essential Tips to Ace the Acquia Certified Drupal 10 Site Builder Exam"
 description: "A blog post about Essential Tips to Ace the Acquia Certified Drupal 10 Site Builder Exam"
 date: 2024-05-25
-updatedDate: 2024-05-25
-heroImage: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/CU2NF0Jz5pI/upload/b7fb443e70149c2c5cedd73d393f7ac1.jpeg
-tags: ["57444da29ade925885158cb0", "63e1c2468dd6c5e9128c17de", "64bd1d18bd98e68ce2b8d63f", "6407c5f03f7a54eed37fcc31"]
+updateddate: 2024-05-25
+brief: "I recently achieved the Drupal 10 Site Builder certification after around two years of work experience in the Drupal space. Hopefully, this initial step to accreditation will be the first of many more.
+I was apprehensive of taking the exam for such a..."
+subtitle: ""
+heroimage: "https://images.unsplash.com/photo-1650951476924-5842963e3249?q=80&w=2062&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+heroalt: "Essential Tips to Ace the Acquia Certified Drupal 10 Site Builder Exam"
+tags: []
 ---
 
 I recently achieved the Drupal 10 Site Builder certification after around two years of work experience in the Drupal space. Hopefully, this initial step to accreditation will be the first of many more.

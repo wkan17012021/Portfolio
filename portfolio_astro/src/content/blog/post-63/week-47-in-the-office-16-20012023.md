@@ -2,9 +2,13 @@
 title: "Week 47 in the Office (16 - 20/01/2023)"
 description: "A blog post about Week 47 in the Office (16 - 20/01/2023)"
 date: 2023-01-20
-updatedDate: 2023-01-20
-heroImage: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Lks7vei-eAg/upload/26b40edade37c52e48fba317043865a8.jpeg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2023-01-20
+brief: "This a short one from myself as the work week has been relatively straightforward as I work towards making a prototype masonry layout into a finished product with real assets and iterate on the styling.
+I did come up with a few demos in a GitHub proj..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Lks7vei-eAg/upload/26b40edade37c52e48fba317043865a8.jpeg"
+heroalt: "Week 47 in the Office (16 - 20/01/2023)"
+tags: []
 ---
 
 This a short one from myself as the work week has been relatively straightforward as I work towards making a prototype masonry layout into a finished product with real assets and iterate on the styling.

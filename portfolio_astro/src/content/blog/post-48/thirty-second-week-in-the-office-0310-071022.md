@@ -2,9 +2,13 @@
 title: "Thirty-Second Week in the Office (03/10 - 07/10/22)"
 description: "A blog post about Thirty-Second Week in the Office (03/10 - 07/10/22)"
 date: 2022-10-08
-updatedDate: 2022-10-08
-heroImage: https://cdn.hashnode.com/res/hashnode/image/unsplash/XNIjmb6Ax04/upload/v1665241320297/AAfpETLn-.jpeg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-10-08
+brief: "I've been busy working on several related tickets for a larger issue (or story? ). Our Digital Director returned  from maternity leave so there were some introductions and then some catch ups on the state of the codebase prior to her leave. 
+This bod..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/unsplash/XNIjmb6Ax04/upload/v1665241320297/AAfpETLn-.jpeg"
+heroalt: "Thirty-Second Week in the Office (03/10 - 07/10/22)"
+tags: []
 ---
 
 I've been busy working on several related tickets for a larger issue (or story? ). Our Digital Director returned  from maternity leave so there were some introductions and then some catch ups on the state of the codebase prior to her leave. 

@@ -2,9 +2,12 @@
 title: "NorthWest Drupal User Group - The varieties of development experience with Andrew Harmel-Law (10/05/2022 19:00 - 20:15)"
 description: "A blog post about NorthWest Drupal User Group - The varieties of development experience with Andrew Harmel-Law (10/05/2022 19:00 - 20:15)"
 date: 2022-05-10
-updatedDate: 2022-05-10
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1652218425114/6ixujIP3-.jpg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-05-10
+brief: "This talk was a thought provoking insight into the mindset behind learning to write programming language and ways to improve how we write code. It was presented from a speaker with considerable production experience, growing up in the software engine..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1652218425114/6ixujIP3-.jpg"
+heroalt: "NorthWest Drupal User Group - The varieties of development experience with Andrew Harmel-Law (10/05/2022 19:00 - 20:15)"
+tags: []
 ---
 
 This [talk](https://www.meetup.com/nwdrupal/events/285397374/) was a thought provoking insight into the mindset behind learning to write programming language and ways to improve how we write code. It was presented from a speaker with considerable production experience, growing up in the software engineering sphere in the 90s and a psychology educational background well-versed in understanding the mental model of a software developer. 

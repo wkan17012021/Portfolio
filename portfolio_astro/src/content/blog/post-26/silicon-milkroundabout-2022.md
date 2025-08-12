@@ -2,9 +2,12 @@
 title: "Silicon MilkRoundabout 2022 🎉 👨🏽‍💻 🎤"
 description: "A blog post about Silicon MilkRoundabout 2022 🎉 👨🏽‍💻 🎤"
 date: 2022-05-20
-updatedDate: 2022-05-20
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1653039872009/Ag5SOy_EP.jpg
-tags: ["575d75e2da600b8ef43e506d", "56a77939281161e11972fdd7", "56aa13e5f28f9d9d99e3a5de", "5f9435c7fbdce372c9a56fb6", "57449fa89ade925885158d1e"]
+updateddate: 2022-05-20
+brief: "SMR 2022 was a great success for me and definitely fulfilled my expectations from a tech event. I first heard about it during my time in the bootcamp, as I was then thinking about ways to promote myself actively and network with potential employers. ..."
+subtitle: ""
+heroimage: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+heroalt: "Silicon MilkRoundabout 2022 🎉 👨🏽‍💻 🎤"
+tags: []
 ---
 
 SMR 2022 was a great success for me and definitely fulfilled my expectations from a tech event. I first heard about it during my time in the bootcamp, as I was then thinking about ways to promote myself actively and network with potential employers. Covid made things difficult so SMR was postponed to May. I was keeping one eye on my emails waiting for that e-ticket to come through letting me know I can attend the free event. 

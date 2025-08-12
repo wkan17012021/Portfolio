@@ -2,9 +2,14 @@
 title: "WordPress SiteBuild Project in 2023 and commentary on the experience"
 description: "A blog post about WordPress SiteBuild Project in 2023 and commentary on the experience"
 date: 2023-04-08
-updatedDate: 2023-04-08
-heroImage: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/zs98a0DtKL4/upload/663ca84e0c8369fbba5578ed11bcc2f3.jpeg
-tags: ["5f9435c7fbdce372c9a56fb6", "57444da29ade925885158cb0", "56744721958ef13879b94beb", "63542f6dfe8087002d411404"]
+updateddate: 2023-04-08
+brief: "What's the inspiration behind this project?
+
+I found a local community business with an outdated online presence and decided to rebuild and redesign its site. This sped up the planning process as the copy text and media already existed, it was just a..."
+subtitle: ""
+heroimage: "https://images.unsplash.com/photo-1678341859828-bfb1a2bd527a?q=80&w=1702&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+heroalt: "WordPress SiteBuild Project in 2023 and commentary on the experience"
+tags: []
 ---
 
 ## What's the inspiration behind this project?

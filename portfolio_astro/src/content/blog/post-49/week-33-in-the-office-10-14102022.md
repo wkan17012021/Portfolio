@@ -2,9 +2,13 @@
 title: "Week 33 in the Office (10 - 14/10/2022)"
 description: "A blog post about Week 33 in the Office (10 - 14/10/2022)"
 date: 2022-10-14
-updatedDate: 2022-10-14
-heroImage: https://cdn.hashnode.com/res/hashnode/image/unsplash/zepnJQycr4U/upload/v1665735512124/tWIj0LUs4.jpeg
-tags: ["5f9435c7fbdce372c9a56fb6", "63333272fa20fa4bc8e50400", "5f6629266dfc523d0a89357b"]
+updateddate: 2022-10-14
+brief: "This week has gone by so quickly trying to progress on some outstanding tickets all the while, time spent in meetings to reflect on the organisation's event back in September.
+We still have this project with a collection of webpages to be built but t..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/unsplash/zepnJQycr4U/upload/v1665735512124/tWIj0LUs4.jpeg"
+heroalt: "Week 33 in the Office (10 - 14/10/2022)"
+tags: []
 ---
 
 This week has gone by so quickly trying to progress on some outstanding tickets all the while, time spent in meetings to reflect on the organisation's event back in September.

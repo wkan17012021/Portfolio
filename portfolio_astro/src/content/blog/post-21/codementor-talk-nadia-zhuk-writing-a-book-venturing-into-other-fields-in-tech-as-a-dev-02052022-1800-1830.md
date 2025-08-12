@@ -2,9 +2,12 @@
 title: "CodeMentor Talk: Nadia Zhuk - Writing a book: Venturing into other fields in tech as a dev (02/05/2022 - 18:00 - 18:30)"
 description: "A blog post about CodeMentor Talk: Nadia Zhuk - Writing a book: Venturing into other fields in tech as a dev (02/05/2022 - 18:00 - 18:30)"
 date: 2022-05-02
-updatedDate: 2022-05-02
-heroImage: https://placehold.co/1024x768/cccccc/333333?text=Placeholder
-tags: ["56744721958ef13879b94d2a", "5f9435c7fbdce372c9a56fb6", "5f2e55763b12e25afe3e4d05"]
+updateddate: 2022-05-02
+brief: "This online event was a motivational talk and a personal account about how the presenter came to become a professional software engineer, changing careers and how she published her self-help book. She faced a lot of adversity, not least a language ba..."
+subtitle: ""
+heroimage: ""
+heroalt: "CodeMentor Talk: Nadia Zhuk - Writing a book: Venturing into other fields in tech as a dev (02/05/2022 - 18:00 - 18:30)"
+tags: []
 ---
 
 This online event was a motivational talk and a personal account about how the presenter came to become a professional software engineer, changing careers and how she published her self-help book. She faced a lot of adversity, not least a language barrier but came out of it mentally stronger and technically proficient. 

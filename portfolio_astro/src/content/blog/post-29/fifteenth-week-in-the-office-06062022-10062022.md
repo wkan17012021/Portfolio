@@ -2,9 +2,12 @@
 title: "Fifteenth week in the office (06/06/2022 - 10/06/2022)"
 description: "A blog post about Fifteenth week in the office (06/06/2022 - 10/06/2022)"
 date: 2022-06-10
-updatedDate: 2022-06-10
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1655157852401/4lxo4BjNH.jpg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-06-10
+brief: "We have officially entered the three month run-up period to the company's annual flagship conference event. There is certainly a feeling of industry going on around the office: more scheduled meetings, more impromptu meetings and as I will come to fi..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1655157852401/4lxo4BjNH.jpg"
+heroalt: "Fifteenth week in the office (06/06/2022 - 10/06/2022)"
+tags: []
 ---
 
 We have officially entered the three month run-up period to the company's annual flagship conference event. There is certainly a feeling of industry going on around the office: more scheduled meetings, more impromptu meetings and as I will come to find, more last minute high priority tasks given by other teams to support them. It's this period where we divert attention away from the website maintenance and more on providing data entry support and odd jobs here and there so the preparations for the event are in place for it to run smoothly. 

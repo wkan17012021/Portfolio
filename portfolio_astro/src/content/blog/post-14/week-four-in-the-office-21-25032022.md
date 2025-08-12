@@ -2,9 +2,12 @@
 title: "Week Four in the Office (21-25/03/2022)"
 description: "A blog post about Week Four in the Office (21-25/03/2022)"
 date: 2022-03-26
-updatedDate: 2022-03-26
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1650236757562/65zHQ8pNb.jpg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-03-26
+brief: "This week I have been focussing on version control and getting into the habit of following a set of commands to ensure I am working in the right branch with the latest changes applied. I had my first one-to-one session for my apprenticeship training ..."
+subtitle: ""
+heroimage: "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+heroalt: "Week Four in the Office (21-25/03/2022)"
+tags: []
 ---
 
 This week I have been focussing on version control and getting into the habit of following a set of commands to ensure I am working in the right branch with the latest changes applied. I had my first one-to-one session for my apprenticeship training to gauge my current technical knowledge and where I am lacking, build on and reinforce those deficiencies. This will be important when it comes to using frameworks and libraries. Apart from [continued background reading](https://internetfundamentals.com/) and more component connections into the CMS, it was a fairly straightforward work week.

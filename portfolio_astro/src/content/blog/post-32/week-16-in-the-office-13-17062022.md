@@ -2,9 +2,12 @@
 title: "Week 16 in the Office 13-17/06/2022"
 description: "A blog post about Week 16 in the Office 13-17/06/2022"
 date: 2022-06-18
-updatedDate: 2022-06-18
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1655561940823/WJayodD4F.jpg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-06-18
+brief: "I've had a busy week ironing out the latest tweaks on a ticket that has been dragging on for the best part of 6-7 weeks now. The main problems with it have been resolved, it just needs a senior to cast an eye over and do the due diligence. The histor..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1655561940823/WJayodD4F.jpg"
+heroalt: "Week 16 in the Office 13-17/06/2022"
+tags: []
 ---
 
 I've had a busy week ironing out the latest tweaks on a ticket that has been dragging on for the best part of 6-7 weeks now. The main problems with it have been resolved, it just needs a senior to cast an eye over and do the due diligence. The history of this issue has been drawn out but there were many experiences and lessons learned along the way- both technical and professional. 

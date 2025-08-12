@@ -2,9 +2,13 @@
 title: "Week 42 in the Office (12 - 16/12/2022)"
 description: "A blog post about Week 42 in the Office (12 - 16/12/2022)"
 date: 2022-12-16
-updatedDate: 2022-12-16
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1671230343031/QqULIASJi.jpeg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-12-16
+brief: "Work Stuff
+Last week of work for 2022 and how it's flown by! I've been in my first dev job for about 10 months now and it's nice to look back and reflect on how far one has come since their humble beginnings: I've progressed a lot, but still so much ..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1671230343031/QqULIASJi.jpeg"
+heroalt: "Week 42 in the Office (12 - 16/12/2022)"
+tags: []
 ---
 
 ## Work Stuff

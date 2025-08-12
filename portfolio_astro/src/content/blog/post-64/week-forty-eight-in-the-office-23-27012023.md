@@ -2,9 +2,14 @@
 title: "Week Forty-Eight in the Office (23 - 27/01/2023)"
 description: "A blog post about Week Forty-Eight in the Office (23 - 27/01/2023)"
 date: 2023-01-27
-updatedDate: 2023-01-27
-heroImage: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/s9CC2SKySJM/upload/3acf56e3a61fd537d852574a27cd09ec.jpeg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2023-01-27
+brief: "Work
+This week capped off essentially the end of a two to three-week task of creating a custom CSS grid which I've mentioned in the previous posts.
+There are still some tweaks to iron out before presenting a demo to management which involves some Dru..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/s9CC2SKySJM/upload/3acf56e3a61fd537d852574a27cd09ec.jpeg"
+heroalt: "Week Forty-Eight in the Office (23 - 27/01/2023)"
+tags: []
 ---
 
 ## Work

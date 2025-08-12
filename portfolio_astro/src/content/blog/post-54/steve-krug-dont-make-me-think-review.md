@@ -2,9 +2,12 @@
 title: "Steve Krug: Don't Make Me Think - Review"
 description: "A blog post about Steve Krug: Don't Make Me Think - Review"
 date: 2022-11-25
-updatedDate: 2022-11-25
-heroImage: https://cdn.hashnode.com/res/hashnode/image/unsplash/tZc3vjPCk-Q/upload/v1669374307575/O22twV-qN.jpeg
-tags: ["56744722958ef13879b94e9d", "56744721958ef13879b94d2a"]
+updateddate: 2022-11-25
+brief: "I was recommended this book as, at the time, the company I worked for were embarking on a complete website redesign and redevelopment project. Although the design element was subcontracted out to a website designer, it felt appropriate to brush up on..."
+subtitle: ""
+heroimage: "https://images.unsplash.com/photo-1680016661694-1cd3faf31c3a?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+heroalt: "Steve Krug: Don't Make Me Think - Review"
+tags: []
 ---
 
 

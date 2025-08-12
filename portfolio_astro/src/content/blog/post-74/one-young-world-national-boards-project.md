@@ -2,9 +2,16 @@
 title: "One Young World: National Boards Project"
 description: "A blog post about One Young World: National Boards Project"
 date: 2023-10-19
-updatedDate: 2023-10-19
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1697721924537/a0f514c2-413b-4a06-a1d8-09e0e6c5de15.png
-tags: ["56744722958ef13879b95074"]
+updateddate: 2023-10-19
+brief: "A brief on a project-specific task whilst working for One Young World.
+Visit the Project
+
+Situation
+Content writers for One Young World, require a landing page for a project called National Boards (herein referred to as ‘NB’). The aim of the landing ..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1697721924537/a0f514c2-413b-4a06-a1d8-09e0e6c5de15.png"
+heroalt: "One Young World: National Boards Project"
+tags: []
 ---
 
 A brief on a project-specific task whilst working for One Young World.

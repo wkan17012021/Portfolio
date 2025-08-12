@@ -2,9 +2,12 @@
 title: "Project Experience: Volunteering as a site builder for TGIUK"
 description: "A blog post about Project Experience: Volunteering as a site builder for TGIUK"
 date: 2024-04-11
-updatedDate: 2024-04-11
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1712171621956/c262f0c3-8f02-44d9-8fa3-09a6dbd37f45.png
-tags: ["62a9e98e1a89c91850b184d3", "5fc56ce10a072175ef2cfcde", "587dbc32d40f782e50cf92e0"]
+updateddate: 2024-04-11
+brief: "Overview: TogetherintheUK (herein referred to as TGIUK) is a social enterprise (not an official charity) that supports migrants integrating into UK society, by providing a platform for them to talk about their experiences and share their stories. The..."
+subtitle: "This article is a summary of my involvement with TogetherintheUK as a site admin builder, frontend developer."
+heroimage: "https://images.unsplash.com/photo-1594841359067-31caf8216011?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+heroalt: "Project Experience: Volunteering as a site builder for TGIUK"
+tags: []
 ---
 
 **Overview:** [TogetherintheUK](https://togetherintheuk.co.uk/) (herein referred to as TGIUK) is a social enterprise (not an official charity) that supports migrants integrating into UK society, by providing a platform for them to talk about their experiences and share their stories. The website purpose is to process donations or allow users to buy small gift items. The website also promotes the organisation and shares migrant's stories.

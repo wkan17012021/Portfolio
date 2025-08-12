@@ -2,8 +2,12 @@
 title: "JavaScript for Beginners - Free Online Workshop (17:30 - 19:30 | 25/01/2022)"
 description: "A blog post about JavaScript for Beginners - Free Online Workshop (17:30 - 19:30 | 25/01/2022)"
 date: 2022-01-25
-updatedDate: 2022-01-25
-heroImage: https://placehold.co/1024x768/cccccc/333333?text=Placeholder
+updateddate: 2022-01-25
+brief: "This was an open event held by Le Wagon Bootcamp provider and Eventbrite.
+To be honest, I attended this session because I wanted to get the instructor’s opinion / thoughts on AJAX and JQuery. Unfortunately, the presentation overran on subjects like J..."
+subtitle: ""
+heroimage: ""
+heroalt: "JavaScript for Beginners - Free Online Workshop (17:30 - 19:30 | 25/01/2022)"
 tags: []
 ---
 

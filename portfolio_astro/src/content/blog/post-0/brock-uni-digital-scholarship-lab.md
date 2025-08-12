@@ -2,8 +2,12 @@
 title: "Brock Uni Digital Scholarship Lab"
 description: "A blog post about Brock Uni Digital Scholarship Lab"
 date: 2021-10-28
-updatedDate: 2021-10-28
-heroImage: https://placehold.co/1024x768/cccccc/333333?text=Placeholder
+updateddate: 2021-10-28
+brief: "Brock Uni Digital Scholarship Lab Introduction to Python (15:00 - 16:00 | 28/10/2021)
+I found out about these events through Eventbrite post-bootcamp. I wanted to keep my mind fresh and current coupled with the fact that the majority of events were o..."
+subtitle: ""
+heroimage: ""
+heroalt: "Brock Uni Digital Scholarship Lab"
 tags: []
 ---
 

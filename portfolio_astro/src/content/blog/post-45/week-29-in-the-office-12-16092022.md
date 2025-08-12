@@ -2,9 +2,12 @@
 title: "Week 29 in the Office (12-16/09/2022)"
 description: "A blog post about Week 29 in the Office (12-16/09/2022)"
 date: 2022-09-14
-updatedDate: 2022-09-14
-heroImage: https://cdn.hashnode.com/res/hashnode/image/unsplash/hvPB-UCAmmU/upload/v1663170161591/FlIsaa3KN.jpeg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-09-14
+brief: "This week was a relaxed one as the whole organisation recovers mentally and physically after the event. So, meetings and in-person office arrangements were deferred allowing me time to work on some of the backlog tickets we put off due to the event, ..."
+subtitle: "Quarterly Goal Review: Testing"
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/unsplash/hvPB-UCAmmU/upload/v1663170161591/FlIsaa3KN.jpeg"
+heroalt: "Week 29 in the Office (12-16/09/2022)"
+tags: []
 ---
 
 This week was a relaxed one as the whole organisation recovers mentally and physically after the event. So, meetings and in-person office arrangements were deferred allowing me time to work on some of the backlog tickets we put off due to the event, but also to chip away at a personal project I am trying to transfer from plain HTML, CSS and JS to a Drupal managed site. I have also found time to practice on plain JS (through CodeCademy) which I have got rusty on from doing little development over the past 2 to 3 months.

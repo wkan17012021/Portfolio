@@ -2,9 +2,13 @@
 title: "Week Forty-Four Xmas Break (26- 30/12/2022)"
 description: "A blog post about Week Forty-Four Xmas Break (26- 30/12/2022)"
 date: 2022-12-30
-updatedDate: 2022-12-30
-heroImage: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/b2bacb3f8d486ee3fba54f3962fa50e5.jpeg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-12-30
+brief: "I have had a productive week which has been a combination of house chores, Christmas roast meals and a few coding-learning avenues. It helps when the weather outside is frightful 😆
+I find it's beneficial to keep a whiteboard or soft copy list of to-..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/b2bacb3f8d486ee3fba54f3962fa50e5.jpeg"
+heroalt: "Week Forty-Four Xmas Break (26- 30/12/2022)"
+tags: []
 ---
 
 I have had a productive week which has been a combination of house chores, Christmas roast meals and a few coding-learning avenues. It helps when the weather outside is frightful 😆

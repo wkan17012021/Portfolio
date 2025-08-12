@@ -2,9 +2,13 @@
 title: "Scrimba/FreeCodeCamp JS course (kindly offered on YT) - Jan to Feb 2022"
 description: "A blog post about Scrimba/FreeCodeCamp JS course (kindly offered on YT) - Jan to Feb 2022"
 date: 2022-03-19
-updatedDate: 2022-03-19
-heroImage: https://placehold.co/1024x768/cccccc/333333?text=Placeholder
-tags: ["56744720958ef13879b947ce", "57039f98f950faa9ab7ec552"]
+updateddate: 2022-03-19
+brief: "I researched Scrimba after it was mentioned on a podcast episode of HTML All the Things by the guest, Alex Booker (by the way an articulate, clever and confident developer).
+I went to check it out and found that it is another online coding learning r..."
+subtitle: ""
+heroimage: ""
+heroalt: "Scrimba/FreeCodeCamp JS course (kindly offered on YT) - Jan to Feb 2022"
+tags: []
 ---
 
 I researched Scrimba after it was mentioned on a podcast episode of [HTML All the Things by the guest, Alex Booker](https://www.htmlallthethings.com/podcasts/helping-junior-developers-break-in-w-alex-booker) (by the way an articulate, clever and confident developer).

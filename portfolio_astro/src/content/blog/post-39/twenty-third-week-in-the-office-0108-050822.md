@@ -2,9 +2,12 @@
 title: "Twenty-Third Week in the Office (01/08 - 05/08/22)"
 description: "A blog post about Twenty-Third Week in the Office (01/08 - 05/08/22)"
 date: 2022-08-05
-updatedDate: 2022-08-05
-heroImage: https://cdn.hashnode.com/res/hashnode/image/unsplash/zAjdgNXsMeg/upload/v1659712072780/Yku03_O1o3.jpeg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-08-05
+brief: "This summer has certainly passed quickly! I've just entered half a year into my apprenticeship and the time has flown by. Now is a good time to take stock of what I have accomplished so far compared to when I first started back in March of this year...."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/unsplash/zAjdgNXsMeg/upload/v1659712072780/Yku03_O1o3.jpeg"
+heroalt: "Twenty-Third Week in the Office (01/08 - 05/08/22)"
+tags: []
 ---
 
 This summer has certainly passed quickly! I've just entered half a year into my apprenticeship and the time has flown by. Now is a good time to take stock of what I have accomplished so far compared to when I first started back in March of this year.

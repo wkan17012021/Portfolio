@@ -2,9 +2,13 @@
 title: "Week 10 in the office (03-06/05/2022)"
 description: "A blog post about Week 10 in the office (03-06/05/2022)"
 date: 2022-05-06
-updatedDate: 2022-05-06
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1651820002134/WdaQQeG9n.jpg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-05-06
+brief: "This week has certainly been relaxing due to the public holiday and nice weather- to experience four seasons in one day in the UK is not unusual 😃
+I have been investing a lot of my time on learning SASS. Our legacy codebase uses the preprocessor lan..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1651820002134/WdaQQeG9n.jpg"
+heroalt: "Week 10 in the office (03-06/05/2022)"
+tags: []
 ---
 
 This week has certainly been relaxing due to the public holiday and nice weather- to experience four seasons in one day in the UK is not unusual 😃

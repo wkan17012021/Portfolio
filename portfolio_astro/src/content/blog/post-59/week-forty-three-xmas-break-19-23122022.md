@@ -2,9 +2,12 @@
 title: "Week Forty-Three Xmas Break (19- 23/12/2022)"
 description: "A blog post about Week Forty-Three Xmas Break (19- 23/12/2022)"
 date: 2022-12-24
-updatedDate: 2022-12-24
-heroImage: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/24d19e257110a00c4db69d674943448a.jpeg
-tags: ["5f9435c7fbdce372c9a56fb6", "5faabb9dd6009557c49f590a", "58dbf57f3c0bfccf898f000b"]
+updateddate: 2022-12-24
+brief: "It was great to set aside the employment-based tasks so that I could focus on personal learning projects and researching other tools and technologies that I may use in the future outside of our work tech stack. As mentioned in a previous post, I had ..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/24d19e257110a00c4db69d674943448a.jpeg"
+heroalt: "Week Forty-Three Xmas Break (19- 23/12/2022)"
+tags: []
 ---
 
 It was great to set aside the employment-based tasks so that I could focus on personal learning projects and researching other tools and technologies that I may use in the future outside of our work tech stack. As mentioned in a previous [post](https://the-dog-can-blog.hashnode.dev/week-41-in-the-office-05-09122022), I had a rough to-do list that I wanted to work through over the Christmas break. Just going through some of those targets:

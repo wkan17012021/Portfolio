@@ -2,9 +2,12 @@
 title: "Project Experience: Redesigning Richmond Furniture Scheme's Website"
 description: "A blog post about Project Experience: Redesigning Richmond Furniture Scheme's Website"
 date: 2024-08-31
-updatedDate: 2024-08-31
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1725132232231/2c60e22a-464c-4947-a39c-967d8ac48419.png
-tags: ["62a9e98e1a89c91850b184d3", "5fc56ce10a072175ef2cfcde", "62a824974754a2eb1e0aa42e", "587dbc32d40f782e50cf92e0", "56744721958ef13879b94beb"]
+updateddate: 2024-08-31
+brief: "Richmond Furniture Scheme (RFS) is a local charity that collects most types of new and used furniture, refurbishing or restoring them if need be, and then selling them to the public. It offers 'starter packs' containing common household goods or appl..."
+subtitle: ""
+heroimage: "https://images.unsplash.com/photo-1523215986639-cb8e22e2b23a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+heroalt: "Project Experience: Redesigning Richmond Furniture Scheme's Website"
+tags: []
 ---
 
 [Richmond Furniture Scheme (RFS)](https://www.rfsonline.co.uk/) is a local charity that collects most types of new and used furniture, refurbishing or restoring them if need be, and then selling them to the public. It offers 'starter packs' containing common household goods or appliances for underprivileged individuals. It supports the community by offering volunteering opportunities, they also help to reduce furniture sent to landfill and promotes recycling.

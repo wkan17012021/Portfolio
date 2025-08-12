@@ -2,9 +2,12 @@
 title: "Week 20 in the Office (11 - 15/07/22)"
 description: "A blog post about Week 20 in the Office (11 - 15/07/22)"
 date: 2022-07-16
-updatedDate: 2022-07-16
-heroImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1657960859525/CdG6UaiMx.jpg
-tags: ["5f9435c7fbdce372c9a56fb6"]
+updateddate: 2022-07-16
+brief: "I've had an up-and-down work week where some days have flown by and I haven't faced that much resistance to productivity, and then others where it has been so attritional (mainly because of broken local environment build process and issues with Docke..."
+subtitle: ""
+heroimage: "https://cdn.hashnode.com/res/hashnode/image/upload/v1657960859525/CdG6UaiMx.jpg"
+heroalt: "Week 20 in the Office (11 - 15/07/22)"
+tags: []
 ---
 
 I've had an up-and-down work week where some days have flown by and I haven't faced that much resistance to productivity, and then others where it has been so attritional (mainly because of broken local environment build process and issues with Docker). 
