@@ -1,5 +1,6 @@
 ---
 import { Image } from "astro:assets";
+import profilePhoto from "../../assets/profile-images/profile_photo_square.jpg";
 import { type CollectionEntry, getCollection } from "astro:content";
 import PageLayout from "@layouts/PageLayout.astro";
 import BlogContainer from "@components/BlogContainer.astro";
@@ -83,10 +84,13 @@ const validHeadings = headings.filter(
               class="group flex items-center gap-x-3 border-b border-gray-200 pb-8 mb-8"
             >
               <div class="block shrink-0 focus:outline-hidden">
-                <img
+                <Image
                   class="size-10 rounded-full"
-                  src="/src/assets/profile-images/profile_photo_square.jpg"
+                  src={profilePhoto}
                   alt="Avatar"
+                  width={40}
+                  height={40}
+                  format="jpg"
                 />
               </div>
 
