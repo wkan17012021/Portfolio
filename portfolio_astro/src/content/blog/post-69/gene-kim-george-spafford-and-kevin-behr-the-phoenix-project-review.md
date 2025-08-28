@@ -5,7 +5,7 @@ date: 2023-03-10
 updateddate: 2023-03-10
 brief: "Coming from a non-traditional IT background, a self-taught route without the foundation of learning in IT and systems administration, the majority of this book and the plethora of technical jargon may be lost on you. I think the target audience is te..."
 subtitle: ""
-heroimage: "https://images.unsplash.com/photo-1619468129361-605ebea04b44?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+heroimage: "https://images.unsplash.com/photo-1648127549632-9232f0c36549?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 heroalt: "Gene Kim, George Spafford, and Kevin Behr: The Phoenix Project - Review"
 tags: []
 ---

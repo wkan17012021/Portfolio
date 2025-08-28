@@ -1,7 +1,7 @@
 :root {
-  --color-dark: #292E1E;
-  --color-bg-highlight: #440D0F;
-  --dark-color-bg-highlight: #EDD2E0;
+  --color-dark: #292e1e;
+  --color-bg-highlight: #440d0f;
+  --dark-color-bg-highlight: #edd2e0;
 }
 @tailwind base;
 @tailwind components;
@@ -11,6 +11,10 @@ html {
   overflow-y: scroll;
   color-scheme: light;
   font-size: 18px;
+}
+
+html.blog-post {
+  scroll-padding-top: 9rem; /* Adjust based on header height 8rem */
 }
 
 html.dark {
@@ -28,19 +32,17 @@ body {
   @apply bg-stone-100 dark:bg-[var(--color-dark)];
   @apply text-black/100 dark:text-white/100;
 
-   &::selection {
-    background-color: var(--color-bg-highlight); 
-    color: theme('colors.white'); 
+  &::selection {
+    background-color: var(--color-bg-highlight);
+    color: theme("colors.white");
   }
 
   /* Dark Mode Selection */
   html.dark &::selection {
-    background-color: var(--dark-color-bg-highlight);  
-    color: theme('colors.stone.900');
+    background-color: var(--dark-color-bg-highlight);
+    color: theme("colors.stone.900");
   }
 }
-
-
 
 header {
   @apply fixed top-0 left-0 right-0 z-50 py-5;
@@ -56,13 +58,17 @@ footer {
   @apply py-5 text-sm;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   @apply text-black dark:text-white;
   line-height: 1.2;
   font-weight: bold;
   margin-top: 2rem;
 }
-
 
 h1 {
   font-size: 3.5rem;
@@ -95,7 +101,7 @@ h4 {
 
 h5 {
   font-size: 1.3rem;
-  font-weight: 500; 
+  font-weight: 500;
   letter-spacing: -0.01em;
   margin-bottom: 0.6rem;
 }
@@ -105,7 +111,7 @@ h6 {
   font-weight: 600;
   letter-spacing: 0.02em;
   margin-bottom: 0.4rem;
-  text-transform: uppercase; 
+  text-transform: uppercase;
 }
 
 p {

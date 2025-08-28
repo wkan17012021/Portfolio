@@ -7,13 +7,14 @@ import { SITE } from "@consts";
 type Props = {
   title: string;
   description: string;
+  isBlogPost?: boolean;
 };
 
-const { title, description } = Astro.props;
+const { title, description, isBlogPost = false } = Astro.props;
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="en" class={isBlogPost ? "blog-post" : ""}>
   <head>
     <Head title={`${title} | ${SITE.NAME}`} description={description} />
   </head>

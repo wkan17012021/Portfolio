@@ -11,8 +11,6 @@ heroalt: "Junior Developer Struggles: How to earn credibility the hard way"
 tags: []
 ---
 
-### I'm trying out a new writing style: previously I was verbose, now I'm writing more succinctly and at times blunt and to the point, so you can get the meaningful details quickly.
-
 Hopefully, the blog cover image gave you a hint about what this article is about. Having gone through the experience once in entirety and currently going through it again with a different organisation, I would say that ***offering your services as a volunteer to support a local charity or enterprise in exchange for learning new web design and development skills (as well as professional skills), is an investment in your self and well worth the effort***. Summary of why you should do it below:
 
 * **Low barrier to entry**: you will likely have an ice-breaker video call where you should be honest in what skills you can bring and what you want to get out of the volunteer opportunity. Don't worry about interview preparation in my opinion.

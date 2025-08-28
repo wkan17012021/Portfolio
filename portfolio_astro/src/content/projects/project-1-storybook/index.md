@@ -2,7 +2,8 @@
 title: "Storybook Component Prototype Library"
 description: "Creating UI features following atomic design"
 date: "2024-06-15"
-repoURL: "https://wkan17012021.github.io/storybook-twig-component-library/"
+repoURL: "https://github.com/wkan17012021/storybook-twig-component-library"
+siteURL: "https://wkan17012021.github.io/storybook-twig-component-library/"
 ---
 
 ![Picture of lego bricks](https://images.unsplash.com/photo-1646995477167-a344548ce6b9?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
