@@ -51,17 +51,19 @@ const heroImgSrc = heroImgRandomiser();
       )
     }
     <h1 class="animate font-semibold text-black dark:text-white">
-      Welcome to my site <span class="text-xl">👋🏻</span>
+      Welcome to my site <span class="text-5xl">👋🏻</span>
     </h1>
     <div class="space-y-16">
       <section>
         <article class="space-y-4">
           <p class="animate">
-            I'm a web developer that has been supporting communities, local
-            businesses and non-profits with impactful, digital solutions.
+            I'm a web developer supporting communities, local businesses and
+            non-profits with impactful, digital solutions. I provide value by
+            abstracting away technical complexity so organisation owners can
+            focus on their mission and their clients.
           </p>
           <p class="animate">
-            I specialize in crafting accessible and responsive front-end
+            I specialize in crafting accessible and engaging front-end
             experiences, primarily using Drupal and WordPress, and I'm always
             eager to explore how my skills can help bring vital stories and
             services to a wider audience.
@@ -69,119 +71,129 @@ const heroImgSrc = heroImgRandomiser();
         </article>
       </section>
 
-       <h2 class="animate font-semibold text-black dark:text-white">
-      Skills
-    </h2>
+      <h2 class="animate font-semibold text-black dark:text-white">Skills</h2>
 
       <div class="space-y-16">
-      <section>
-        <ul class="space-y-4">
-          <li>HTML, CSS, JS, PHP</li>
-          <li>Twig templating</li>
-          <li>Drupal 9, 10 site builder</li>
-          <li>Responsive web design</li>
-          <li>Web accessibility</li>
-          <li>Agile principles and scrum</li>
-          <li>git Version control</li>
-          <li>Tech support</li>
-          <li>WordPress and Webflow site builder</li>
-        </ul>
-      </section>
+        <section>
+          <ul class="space-y-4">
+            <li>HTML, CSS, JS, PHP</li>
+            <li>Twig templating</li>
+            <li>Drupal 9, 10 site builder</li>
+            <li>Responsive web design</li>
+            <li>Web accessibility</li>
+            <li>Agile principles and scrum</li>
+            <li>git Version control</li>
+            <li>Tech support</li>
+            <li>WordPress and Webflow site builder</li>
+          </ul>
+        </section>
 
-      <section class="animate space-y-6">
-        <div class="flex flex-wrap gap-y-2 items-center justify-between">
-          <h2 class="font-semibold text-black dark:text-white">
-            Work Experience
-          </h2>
-          <Link href="/work"> See all work </Link>
-        </div>
-        <ul class="flex flex-col space-y-4">
-          {
-            work.map((entry) => (
-              <li>
-                <div class="text-sm opacity-75">
-                  {dateRange(entry.data.dateStart, entry.data.dateEnd)}
-                </div>
-                <div class="font-semibold text-black dark:text-white">
-                  {entry.data.company}
-                </div>
-                <div class="text-sm opacity-75">{entry.data.role}</div>
-                <article>
-                  <entry.Content />
-                </article>
-              </li>
-            ))
-          }
-        </ul>
-      </section>
+        <section class="animate space-y-6">
+          <div class="flex flex-wrap gap-y-2 items-center justify-between">
+            <h2 class="font-semibold text-black dark:text-white">
+              Work experience
+            </h2>
+            <Link href="/work"> See all work </Link>
+          </div>
+          <ul class="flex flex-col space-y-4">
+            {
+              work.map((entry) => (
+                <li>
+                  <time
+                    class="text-sm opacity-75"
+                    datetime={
+                      entry.data.dateStart instanceof Date
+                        ? entry.data.dateStart.toISOString()
+                        : entry.data.dateStart
+                    }
+                  >
+                    {dateRange(entry.data.dateStart, entry.data.dateEnd)}
+                  </time>
+                  <h3 class="font-semibold text-black dark:text-white">
+                    {entry.data.company}
+                  </h3>
+                  <h4 class="text-sm opacity-75">{entry.data.role}</h4>
+                  <p>
+                    <entry.Content />
+                  </p>
+                </li>
+              ))
+            }
+          </ul>
+        </section>
 
-      <section class="animate space-y-6">
-        <div class="flex flex-wrap gap-y-2 items-center justify-between">
-          <h5 class="font-semibold text-black dark:text-white">Latest posts</h5>
-          <Link href="/blog"> See all posts </Link>
-        </div>
-        <ul class="flex flex-col gap-4">
-          {
-            blog.map((post) => (
-              <li>
-                <ArrowCard entry={post} />
-              </li>
-            ))
-          }
-        </ul>
-      </section>
+        <section class="animate space-y-6">
+          <div class="flex flex-wrap gap-y-2 items-center justify-between">
+            <h2 class="font-semibold text-black dark:text-white">
+              Latest posts
+            </h2>
+            <Link href="/blog"> See all posts </Link>
+          </div>
+          <ul class="flex flex-col gap-4">
+            {
+              blog.map((post) => (
+                <li>
+                  <ArrowCard entry={post} />
+                </li>
+              ))
+            }
+          </ul>
+        </section>
 
-      <section class="animate space-y-6">
-        <div class="flex flex-wrap gap-y-2 items-center justify-between">
-          <h5 class="font-semibold text-black dark:text-white">
-            Recent projects
-          </h5>
-          <Link href="/projects"> See all projects </Link>
-        </div>
-        <ul class="flex flex-col gap-4">
-          {
-            projects.map((project) => (
-              <li>
-                <ArrowCard entry={project} />
-              </li>
-            ))
-          }
-        </ul>
-      </section>
+        <section class="animate space-y-6">
+          <div class="flex flex-wrap gap-y-2 items-center justify-between">
+            <h2 class="font-semibold text-black dark:text-white">
+              Recent projects and volunteering
+            </h2>
+            <Link href="/projects"> See all </Link>
+          </div>
+          <ul class="flex flex-col gap-4">
+            {
+              projects.map((project) => (
+                <li>
+                  <ArrowCard entry={project} />
+                </li>
+              ))
+            }
+          </ul>
+        </section>
 
-      <section class="animate space-y-4">
-        <h5 class="font-semibold text-black dark:text-white">Let's Connect</h5>
-        <article>
-          <p>
-            If you want to get in touch with me about something or just to say
-            hi, reach out on social media or send me an email.
-          </p>
-        </article>
-        <ul class="flex flex-wrap gap-2">
-          {
-            SOCIALS.map((SOCIAL) => (
-              <li class="flex gap-x-2 text-nowrap">
-                <Link
-                  href={SOCIAL.HREF}
-                  external
-                  aria-label={`${SITE.NAME} on ${SOCIAL.NAME}`}
-                >
-                  {SOCIAL.NAME}
-                </Link>
-                {"/"}
-              </li>
-            ))
-          }
-          <li class="line-clamp-1">
-            <Link
-              href={`mailto:${SITE.EMAIL}`}
-              aria-label={`Email ${SITE.NAME}`}
-            >
-              {SITE.EMAIL}
-            </Link>
-          </li>
-        </ul>
-      </section>
+        <section class="animate space-y-4">
+          <h3 class="font-semibold text-black dark:text-white">
+            Let's Connect
+          </h3>
+          <article>
+            <p>
+              If you want to get in touch with me, reach out on social media or
+              send me an email.
+            </p>
+          </article>
+          <ul class="flex flex-wrap gap-2">
+            {
+              SOCIALS.map((SOCIAL) => (
+                <li class="flex gap-x-2 text-nowrap">
+                  <Link
+                    href={SOCIAL.HREF}
+                    external
+                    aria-label={`${SITE.NAME} on ${SOCIAL.NAME}`}
+                  >
+                    {SOCIAL.NAME}
+                  </Link>
+                  {"/"}
+                </li>
+              ))
+            }
+            <li class="line-clamp-1">
+              <Link
+                href={`mailto:${SITE.EMAIL}`}
+                aria-label={`Email ${SITE.NAME}`}
+              >
+                {SITE.EMAIL}
+              </Link>
+            </li>
+          </ul>
+        </section>
+      </div>
     </div>
   </Container>
 </PageLayout>
