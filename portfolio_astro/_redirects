@@ -1,3 +1,0 @@
-# Redirects from what the browser requests to what we serve
-/home                /
-https://wkan-dev.netlify.app/* https://www.williamkan.co.uk/:splat 301!
