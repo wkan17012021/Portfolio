@@ -1,0 +1,28 @@
+---
+
+---
+
+<form name="contact" method="POST" data-netlify="true" class="max-w-2xl mx-auto bg-white/90 dark:bg-stone-900/70 p-6 md:p-8 rounded-lg shadow-lg border border-black/5 dark:border-white/10">
+  <input type="hidden" name="form-name" value="contact" />
+
+  <div class="grid grid-cols-1 gap-4">
+    <label class="block">
+      <span class="text-sm font-medium text-stone-700 dark:text-stone-200">Your Name</span>
+      <input required type="text" name="name" class="mt-1 block w-full rounded-md border border-black/10 dark:border-white/10 bg-white dark:bg-stone-900/80 px-3 py-2 text-sm text-black dark:text-white placeholder:text-black/40 dark:placeholder:text-white/40 focus:outline-none focus:ring-2 focus:ring-[var(--color-bg-highlight)] focus:ring-offset-1 transition-shadow" />
+    </label>
+
+    <label class="block">
+      <span class="text-sm font-medium text-stone-700 dark:text-stone-200">Your Email</span>
+      <input required type="email" name="email" class="mt-1 block w-full rounded-md border border-black/10 dark:border-white/10 bg-white dark:bg-stone-900/80 px-3 py-2 text-sm text-black dark:text-white placeholder:text-black/40 dark:placeholder:text-white/40 focus:outline-none focus:ring-2 focus:ring-[var(--color-bg-highlight)] focus:ring-offset-1 transition-shadow" />
+    </label>
+
+    <label class="block">
+      <span class="text-sm font-medium text-stone-700 dark:text-stone-200">Message</span>
+      <textarea required name="message" rows="6" class="mt-1 block w-full rounded-md border border-black/10 dark:border-white/10 bg-white dark:bg-stone-900/80 px-3 py-2 text-sm text-black dark:text-white placeholder:text-black/40 dark:placeholder:text-white/40 focus:outline-none focus:ring-2 focus:ring-[var(--color-bg-highlight)] focus:ring-offset-1 transition-shadow"></textarea>
+    </label>
+
+    <div class="pt-2">
+      <button type="submit" class="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[var(--color-bg-highlight)] text-white text-sm font-medium hover:brightness-95 focus:outline-none focus:ring-2 focus:ring-[var(--color-bg-highlight)]/50 transition-colors">Send</button>
+    </div>
+  </div>
+</form>
