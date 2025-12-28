@@ -2,7 +2,7 @@
 company: "One Young World"
 role: "Apprentice to Junior Drupal Developer"
 dateStart: "2022-03-01"
-dateEnd: "Present"
+dateEnd: "2026-01-16"
 ---
 
 Supported the development of reusable UI components by translating **Figma** designs into a scalable **Storybook** prototyping library, following the Atomic Design methodology.
