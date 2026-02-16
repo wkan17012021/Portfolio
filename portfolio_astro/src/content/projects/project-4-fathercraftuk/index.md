@@ -2,7 +2,6 @@
 title: "Fathercraft UK"
 description: "Webflow redesign"
 date: "2025-07-30"
-siteURL: "https://www.fathercraft.co.uk/"
 ---
 
 ![a screenshot of Fathercraft UK's website of baby and father photos and hero header text](/fathercraftuk_placeholder.webp)
@@ -11,6 +10,8 @@ siteURL: "https://www.fathercraft.co.uk/"
 [Fathercraft UK](https://www.fathercraft.co.uk/) is an offshoot of the more well known Fathercraft brand in the US. They share the same name, similar theme, branding and the aim is similar: to provide practical learning resources for first time fathers. It also  advocates for more legislation regarding equitable parental statutory entitlement for their respective countries. The website provides resources and support typically for  fathers, including blog posts, reviews, and a paid e-learning video-based platform.
 
 From April to July 2025, I volunteered to deliver the refresh of the UK website. I wanted to gain project experience with Webflow and give back to a cause personal to me.
+
+**Unfortunately, the Co-Founders have hidden the site due to management issues so the frontend can't be shown.**
 
 ## The situation prior to my involvement
 
@@ -49,4 +50,4 @@ I was given a lot of praise as well as support for my contribution.
 
 The Founders are well versed in business management, marketing and are tech-savvy. They are comfortable using other tools like Webflow and Notion, Penpot design tool which is an open-source alternative to Figma, Hubspot and Bubble app development. This marked a big difference from my previous volunteering where I was one of the only tech people in the organisation.
 
-The current state of the website is work in progress as the volunteering team increases: the Founders are seeking a copywriter to help with articulating the key message and aims of the organisation, as well as a bubble developers to actually deliver the e-learning platform which I understand to be the main crux of what this organisation offers. We have yet to finalise the webpage for the promotion of the e-learning platform.
+**Unfortunately, the Co-Founders have hidden the site due to management issues so the frontend can't be shown.**
