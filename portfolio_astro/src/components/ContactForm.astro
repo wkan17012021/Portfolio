@@ -2,9 +2,13 @@
 
 ---
 
-<form name="contact" method="POST" data-netlify="true" class="max-w-2xl mx-auto bg-white/90 dark:bg-stone-900/70 p-6 md:p-8 rounded-lg shadow-lg border border-black/5 dark:border-white/10">
+<form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="max-w-2xl mx-auto bg-white/90 dark:bg-stone-900/70 p-6 md:p-8 rounded-lg shadow-lg border border-black/5 dark:border-white/10">
+  <p class="hidden">
+    <label>
+      Don’t fill this out if you’re human: <input name="bot-field" type="text" />
+    </label>
+  </p>
   <input type="hidden" name="form-name" value="contact" />
-
   <div class="grid grid-cols-1 gap-4">
     <label class="block">
       <span class="text-sm font-medium text-stone-700 dark:text-stone-200">Your Name</span>
